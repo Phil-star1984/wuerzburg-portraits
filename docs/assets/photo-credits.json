@@ -1,0 +1,37 @@
+{
+  "city-dusk": {
+    "author": "Dietmar Rabich",
+    "source": "https://commons.wikimedia.org/wiki/File:W%C3%BCrzburg,_Festung_Marienberg_--_2018_--_0219.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; display may be cropped. No AI alteration."
+  },
+  "city-bridge": {
+    "author": "Daniel Vorndran",
+    "source": "https://commons.wikimedia.org/wiki/File:Alte_Mainbr%C3%BCcke_and_Festung_Marienberg,_East_View_20140604.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; display may be cropped. No AI alteration."
+  },
+  "city-palace": {
+    "author": "Dr.Xos",
+    "source": "https://commons.wikimedia.org/wiki/File:Residenz_W%C3%BCrzburg_mit_Hofgarten_hinten.jpg",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; display may be cropped. No AI alteration."
+  },
+  "city-market": {
+    "author": "Krzysztof Golik",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Marienkapelle_in_Wurzburg.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; display may be cropped. No AI alteration."
+  },
+  "city-main": {
+    "author": "Dietmar Rabich",
+    "source": "https://commons.wikimedia.org/wiki/File:W%C3%BCrzburg,_Main_--_2018_--_0221.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; display may be cropped. No AI alteration."
+  }
+}

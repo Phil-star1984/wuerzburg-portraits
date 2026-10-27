@@ -5,6 +5,25 @@
   const offer = form.elements.offer, count = form.elements.count, date = form.elements.date;
   const status = document.getElementById('form-status');
   const preview = document.getElementById('enquiry-preview'), draft = document.getElementById('draft-text');
+  const designData = JSON.parse(document.getElementById('design-config').textContent);
+  const designSelect = form.elements.design;
+  const designField = document.getElementById('design-field');
+  function selectDesign(key) {
+    const index = designData.designs.findIndex(d => d.key === key);
+    if (index < 0) return;
+    const design = designData.designs[index];
+    designSelect.value = key;
+    const image = document.getElementById('design-image');
+    image.src = design.file;
+    image.alt = design.heading + ' — ' + (design.isConcept ? designData.conceptLabel : designData.originalLabel);
+    document.getElementById('design-heading').textContent = design.heading;
+    document.getElementById('design-description').textContent = design.description;
+    document.getElementById('design-credit').textContent = design.isConcept ? designData.conceptLabel : designData.originalLabel;
+    document.getElementById('design-edition').textContent = '0' + (index + 1) + ' / ' + design.label.toUpperCase();
+    document.querySelectorAll('[data-design]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.design === key)));
+  }
+  document.querySelectorAll('[data-design]').forEach(button => button.addEventListener('click', () => selectDesign(button.dataset.design)));
+  designSelect.addEventListener('change', () => selectDesign(designSelect.value));
   const today = new Date();
   date.min = [today.getFullYear(), String(today.getMonth()+1).padStart(2,'0'), String(today.getDate()).padStart(2,'0')].join('-');
   let activeOffer = offer.value;
@@ -15,6 +34,7 @@
     offer.value=value; count.value=counts[value]; count.min=value==='live'?String(config.min):'1';
     if(Number(count.value)<Number(count.min)) count.value=count.min;
     count.setCustomValidity(''); status.textContent='';
+    designField.hidden = value !== 'photo';
   }
   offer.addEventListener('change',()=>setOffer(offer.value));
   count.addEventListener('input',()=>count.setCustomValidity(''));
@@ -27,6 +47,7 @@
     const kind=offer.value==='photo'?`Portraits from photos — EUR ${config.price} per portrait`:`Live portraits for a tour group (from ${config.min} people)`;
     const body=['Hello Phil,','','I would like to enquire about: '+kind,
       'Preferred correspondence language: '+document.documentElement.lang,
+      ...(offer.value === 'photo' ? ['Portrait direction: ' + designSelect.selectedOptions[0].textContent] : []),
       'Name / tour company: '+String(d.get('name')).trim(),
       'Reply email: '+(String(d.get('email')).trim()||'(use sender address)'),
       'Visit date / desired completion date: '+d.get('date'),
@@ -64,8 +85,14 @@
     if(event.target===dialog){const r=dialog.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)dialog.close();}
   });
   dialog.addEventListener('close',()=>stage.replaceChildren(consent));
-  function openLegal(){if(location.hash==='#legal'||location.hash==='#privacy')document.querySelector(location.hash).open=true;}
+  function openLegal(){if(['#legal','#privacy','#image-credits'].includes(location.hash))document.querySelector(location.hash).open=true;}
   window.addEventListener('hashchange',openLegal);openLegal();
+  if ('IntersectionObserver' in window && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    const observer = new IntersectionObserver(entries => entries.forEach(entry => {
+      if (entry.isIntersecting) { entry.target.classList.add('reveal-visible'); observer.unobserve(entry.target); }
+    }), { threshold: 0.1 });
+    document.querySelectorAll('[data-reveal]').forEach(element => observer.observe(element));
+  }
   const menu=document.querySelector('.languages');
   document.addEventListener('click',e=>{if(!menu.contains(e.target))menu.open=false;});
   document.addEventListener('keydown',e=>{if(e.key==='Escape')menu.open=false;});

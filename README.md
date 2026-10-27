@@ -14,7 +14,8 @@ python3 -m http.server 4173 --directory docs
 
 - **Preis, Mindestgruppengröße und E-Mail:** `site.config.json`. Der Startpreis ist 30 EUR pro Foto-Porträt, Live-Termine ab 10 Personen mit individuellem Gruppenangebot. Anschließend neu bauen.
 - **Texte:** `content.json` (EN/DE), `content-asian.json` (ZH/JA).
-- **Gestaltung:** `style.css`; **Anfrage/Video-Verhalten:** `app.js`.
+- **Kampagnentexte und Motivauswahl:** `campaign.json` (alle fünf Sprachen).
+- **Gestaltung:** `style.css`; **Kampagnenlayout:** `scripts/campaign.py`; **Anfrage/Video-Verhalten:** `app.js`.
 - **Domain:** `baseUrl` in `site.config.json` anpassen oder beim Bauen `SITE_URL=https://example.com` setzen. Eine neue Domain muss separat registriert und beim Hoster verbunden werden. Es wurde keine Domain gekauft. Empfehlung als Marke: `wuerzburgportraits.de` oder `portraits.phil-splash.de`; Verfügbarkeit nicht geprüft.
 
 ## Veröffentlichung
@@ -35,6 +36,8 @@ Nach der Veröffentlichung: Von der bestehenden Künstlerwebsite auf die Sprachs
 
 Die Buttons wählen das passende Angebot vor. Die Maske bereitet eine strukturierte englische E-Mail inklusive bevorzugter Korrespondenzsprache vor. Keine automatische Zusendung, keine Foto-Uploads und keine serverseitige Speicherung. Kopierfunktion und sichtbarer Text als Alternative zum E-Mail-Programm. Fotos werden nach Vereinbarung als E-Mail-Anhang geschickt.
 
+Die Motivauswahl bietet City Color, City Ink und Original. Das gewählte Motiv erscheint in der E-Mail-Anfrage. City Color und City Ink sind als KI-Gestaltungskonzepte gekennzeichnet; fertige Hintergründe und Mehrarbeit werden vor einer Bestellung vereinbart.
+
 YouTube lädt erst nach expliziter Zustimmung im Video-Dialog. Beim Schließen wird die Verbindung beendet; die Zustimmung wird nicht gespeichert. Keine Analysewerkzeuge oder externen Fonts.
 
 ## Quellen und Bildrechte
@@ -44,7 +47,9 @@ YouTube lädt erst nach expliziter Zustimmung im Video-Dialog. Beim Schließen w
 - Originalporträts: vom Nutzer bereitgestellte eigene Galerie https://phil-splash.imgbb.com/albums (Vietnam 2026, VR Bank Würzburg, ServiceNow).
 - Live-Bild und erster Film: https://www.youtube.com/watch?v=4OF5U2tFSXY
 - Zweiter Film/Vorschaubild: https://www.youtube.com/watch?v=YGdoD-1dvJ4
-- Stadtmotiv: eigens erstellte KI-Illustration, entsprechend beschriftet; keine Dokumentarfotografie. Die Postkartenansicht ist eine CSS-Montage mit einer Originalzeichnung als ausdrücklich bezeichnete Gestaltungsidee, keine zugesicherte Arbeit oder fertige Produktprobe.
+- Stadtfotografie: originale, unveränderte Würzburg-Fotografien aus Wikimedia Commons; Quellen, Urheber, Lizenzen und Web-Anpassungen in `assets/photo-credits.json` und im öffentlichen Footer. Für die einzelnen Fotos bleiben die dort verlinkten CC-Lizenzen erhalten.
+- Neue Bildkonzepte: `assets/phil-mainbridge-engraving.webp`, `assets/portrait-city-color.webp`, `assets/portrait-city-ink.webp`. Mit dem eingebauten Bildgenerator entwickelt; auf der Seite klar als Illustration bzw. Gestaltungsidee gekennzeichnet. Keine historischen Nachweise, dokumentierten Termine oder zugesicherten fertigen Produktproben. Referenzen und vollständige Prompts: `CREATIVE_NOTES.md`.
+- Lokal eingebundene Schriften: Barlow Condensed und Space Grotesk, Lizenztexte in `assets/fonts/`.
 - Tourismus: https://www.wuerzburg.de/en/
 
 Impressum und Datenschutzhinweise verwenden vorhandene öffentliche Anbieterangaben und beschreiben die implementierte Funktion. Ggf. vorhandene USt-IdNr./W-IdNr., aktuelle Anbieterangaben sowie die steuerliche Behandlung des Endpreises sind vom Betreiber zu ergänzen bzw. zu bestätigen. Nicht bestätigte Leistungsversprechen (feste Dauer, Liefergarantie, regelmäßiger Standplatz, enthaltene Live-Übersetzung) werden nicht gemacht.

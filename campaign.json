@@ -1,0 +1,537 @@
+{
+  "en": {
+    "heroTitle": [
+      "WÜRZBURG.",
+      "YOUR FACE.",
+      "YOUR ART."
+    ],
+    "heroLead": "Come for the city. Leave with your own piece of it. Meet Phil Splash, the artist turning a Würzburg visit into a portrait worth keeping.",
+    "photoCTA": "Your portrait · €{price}",
+    "liveCTA": "Bring Phil to your group",
+    "heroEyebrow": "LOCAL ARTIST. WORLDWIDE MISSION. YOUR MOMENT.",
+    "ticket": "YOU × WÜRZBURG",
+    "ticketNote": "An idea for your next favourite souvenir.",
+    "conceptLabel": "AI design concept · final artwork by agreement",
+    "explore": "Explore the city × art",
+    "cityLabel": "YOUR NEXT CAMERA ROLL, BUT BETTER",
+    "cityTitle": [
+      "THIS CITY.",
+      "YOUR BACKDROP."
+    ],
+    "cityIntro": "The fortress. The bridge. The city’s unmistakable details. See them, fall for them — then make them part of your own portrait story.",
+    "places": [
+      [
+        "Alte Mainbrücke",
+        "Stone statues, river views and the place where Würzburg comes together."
+      ],
+      [
+        "Residenz & Hofgarten",
+        "Baroque drama. Garden geometry. A very good reason to slow down."
+      ],
+      [
+        "Marienkapelle",
+        "The red spire, the old-town rooftops, the colour you remember."
+      ]
+    ],
+    "collectionLabel": "THE WÜRZBURG PORTRAIT CONCEPTS",
+    "collectionTitle": [
+      "YOUR FACE.",
+      "YOUR CITY.",
+      "YOUR ORIGINAL."
+    ],
+    "collectionText": "A travel memory with a point of view. Your portrait takes centre stage; Marienberg, the bridge or the city skyline becomes part of the composition. Pick a direction and develop the final idea with Phil.",
+    "designs": [
+      [
+        "City Color",
+        "Marienberg in your story",
+        "Bold portrait lines, turquoise accents and the fortress woven into the silhouette."
+      ],
+      [
+        "City Ink",
+        "The river in your lines",
+        "Black ink, a red accent and the Old Main Bridge becoming part of the portrait."
+      ],
+      [
+        "Original",
+        "Pure Phil Splash",
+        "An original portrait by Phil. Expressive lines, a little colour, all personality."
+      ]
+    ],
+    "selectDesign": "Choose a direction",
+    "designField": "Preferred portrait direction",
+    "chooseCTA": "Ask about this portrait",
+    "collectionFoot": "Photo portrait: €{price} each. The two city compositions are AI-developed design ideas based on Phil’s originals. Background, format and any additional work are agreed before ordering.",
+    "steps": [
+      [
+        "01",
+        "Choose your direction"
+      ],
+      [
+        "02",
+        "Agree details & send a photo"
+      ],
+      [
+        "03",
+        "Make your visit personal"
+      ]
+    ],
+    "liveLabel": "THE CITY HAS SIGHTS. YOUR GROUP GETS A MOMENT.",
+    "liveTitle": [
+      "LESS WATCHING.",
+      "MORE BEING PART",
+      "OF THE ART."
+    ],
+    "liveText": "A real artist, your whole group and portraits taking shape in front of you. Invite Phil to your Würzburg itinerary — at your hotel or an agreed location in Mainfranken.",
+    "liveFact": "FROM {min} PEOPLE · INDIVIDUAL GROUP QUOTE",
+    "liveFilm": "See the real Phil in action",
+    "liveImageLabel": "REAL VIDEO STILL / PHIL IN HIS BAVARIAN SUIT",
+    "etchLabel": "OLD CITY. NEW STORY.",
+    "etchTitle": [
+      "ALMOST A",
+      "LANDMARK HIMSELF."
+    ],
+    "etchText": "Würzburg has its famous views. Then there is the artist you meet, the moment you share and the face he draws. Phil’s million-portrait mission becomes a very personal stop on your trip.",
+    "etchCaption": "Phil on the Old Main Bridge · a newly imagined AI illustration in copperplate style, not a historical document or an advertised regular location.",
+    "etchTag": "WÜRZBURG ORIGINALS / PHIL SPLASH",
+    "originalLabel": "THE ARTIST’S OWN LINES",
+    "originalTitle": "Meet a few originals.",
+    "originalText": "These are actual portraits by Phil. The city editions above explore what could come next.",
+    "filmTitle": "PRESS PLAY. MEET PHIL.",
+    "contactTitle": [
+      "A GREAT CITY.",
+      "YOUR NEXT STORY."
+    ],
+    "stickyPhoto": "Portrait · €{price}",
+    "stickyLive": "Group enquiry",
+    "photoCredit": "Photography & creative credits",
+    "creditIntro": "Original photographs, resized to WebP and cropped in layout. Each photograph retains the linked licence. The new copperplate illustration and City Color / City Ink artworks were created with AI as clearly labelled concepts; original portraits © Phil Splash. Fonts hosted locally under the SIL Open Font License."
+  },
+  "de": {
+    "heroTitle": [
+      "WÜRZBURG.",
+      "MIT DIR.",
+      "ALS KUNST."
+    ],
+    "heroLead": "Komm für die Stadt. Nimm dein eigenes Stück davon mit. Triff Phil Splash, den Millionenmaler, und mach aus deinem Würzburg-Besuch ein Porträt, das bleibt.",
+    "photoCTA": "Dein Porträt · {price} €",
+    "liveCTA": "Phil für eure Gruppe",
+    "heroEyebrow": "KÜNSTLER VON HIER. MISSION WELTWEIT. DEIN MOMENT.",
+    "ticket": "DU × WÜRZBURG",
+    "ticketNote": "Eine Idee für dein neues Lieblingssouvenir.",
+    "conceptLabel": "KI-Gestaltungsidee · finale Arbeit nach Absprache",
+    "explore": "Stadt × Kunst entdecken",
+    "cityLabel": "DEIN NÄCHSTER LIEBLINGSORT",
+    "cityTitle": [
+      "DIESE STADT.",
+      "DEIN HINTERGRUND."
+    ],
+    "cityIntro": "Die Festung. Die Brücke. Die Details, die nur Würzburg hat. Anschauen, verlieben — und zum Teil deiner eigenen Porträtgeschichte machen.",
+    "places": [
+      [
+        "Alte Mainbrücke",
+        "Steinfiguren, Mainblick und der Ort, an dem Würzburg zusammenkommt."
+      ],
+      [
+        "Residenz & Hofgarten",
+        "Barocke Kulisse. Klare Gartenlinien. Ein guter Grund, länger zu bleiben."
+      ],
+      [
+        "Marienkapelle",
+        "Der rote Turm, die Dächer der Altstadt und die Farbe, die im Kopf bleibt."
+      ]
+    ],
+    "collectionLabel": "DIE WÜRZBURG-PORTRÄTKONZEPTE",
+    "collectionTitle": [
+      "DEIN GESICHT.",
+      "DEINE STADT.",
+      "DEIN ORIGINAL."
+    ],
+    "collectionText": "Eine Reiseerinnerung mit eigener Handschrift. Dein Porträt steht im Mittelpunkt; Marienberg, Mainbrücke oder die Stadtsilhouette werden Teil der Komposition. Wähle eine Richtung und entwickle die finale Idee mit Phil.",
+    "designs": [
+      [
+        "City Color",
+        "Marienberg in deiner Geschichte",
+        "Markante Porträtlinien, Türkis und die Festung als Teil deiner Silhouette."
+      ],
+      [
+        "City Ink",
+        "Der Main in deinen Linien",
+        "Schwarze Tusche, ein roter Akzent und die Alte Mainbrücke, die im Porträt weiterlebt."
+      ],
+      [
+        "Original",
+        "Unverkennbar Phil Splash",
+        "Ein echtes Originalporträt von Phil. Ausdrucksstarke Linien, ein wenig Farbe, viel Persönlichkeit."
+      ]
+    ],
+    "selectDesign": "Wähle eine Richtung",
+    "designField": "Gewünschte Porträtrichtung",
+    "chooseCTA": "Dieses Porträt anfragen",
+    "collectionFoot": "Porträt nach Foto: {price} € pro Stück. Die beiden Stadtkompositionen sind mit KI entwickelte Gestaltungsideen auf Basis von Phils Originalen. Hintergrund, Format und zusätzlicher Aufwand werden vor der Bestellung vereinbart.",
+    "steps": [
+      [
+        "01",
+        "Deine Richtung wählen"
+      ],
+      [
+        "02",
+        "Details klären & Foto schicken"
+      ],
+      [
+        "03",
+        "Deinen Besuch persönlich machen"
+      ]
+    ],
+    "liveLabel": "DIE STADT HAT SEHENSWÜRDIGKEITEN. IHR HABT EINEN MOMENT.",
+    "liveTitle": [
+      "NICHT NUR SEHEN.",
+      "SELBST ZUM",
+      "KUNSTWERK WERDEN."
+    ],
+    "liveText": "Ein echter Künstler, eure ganze Gruppe und Porträts, die vor euren Augen entstehen. Holt Phil in euren Würzburg-Tag — ins Hotel oder an einen vereinbarten Ort in Mainfranken.",
+    "liveFact": "AB {min} PERSONEN · INDIVIDUELLES GRUPPENANGEBOT",
+    "liveFilm": "Den echten Phil in Aktion sehen",
+    "liveImageLabel": "ECHTES VIDEO-STANDBILD / PHIL IM BAYERN-ANZUG",
+    "etchLabel": "ALTE STADT. NEUE GESCHICHTE.",
+    "etchTitle": [
+      "FAST SCHON SELBST",
+      "EINE SEHENSWÜRDIGKEIT."
+    ],
+    "etchText": "Würzburg hat seine berühmten Ansichten. Und dann gibt es den Künstler, den du triffst, den Moment, den ihr teilt, und das Gesicht, das er zeichnet. Phils Millionenporträt-Projekt wird zu einem persönlichen Halt auf deiner Reise.",
+    "etchCaption": "Phil auf der Alten Mainbrücke · neu entwickelte KI-Illustration im Kupferstich-Stil, kein historisches Dokument und kein regelmäßiger Standplatz.",
+    "etchTag": "WÜRZBURG ORIGINALS / PHIL SPLASH",
+    "originalLabel": "DIE ORIGINALEN LINIEN DES KÜNSTLERS",
+    "originalTitle": "Ein paar echte Originale.",
+    "originalText": "Das sind tatsächlich von Phil gezeichnete Porträts. Die Stadt-Editionen oben zeigen Ideen dafür, was daraus werden könnte.",
+    "filmTitle": "PLAY DRÜCKEN. PHIL TREFFEN.",
+    "contactTitle": [
+      "EINE STARKE STADT.",
+      "DEINE NÄCHSTE GESCHICHTE."
+    ],
+    "stickyPhoto": "Porträt · {price} €",
+    "stickyLive": "Gruppenanfrage",
+    "photoCredit": "Fotos & Gestaltung",
+    "creditIntro": "Originalfotografien, für das Web verkleinert und im Layout beschnitten. Für jedes Foto gilt die jeweils verlinkte Lizenz. Die neue Kupferstich-Illustration und die Motive City Color / City Ink wurden mit KI als gekennzeichnete Konzepte entwickelt; Originalporträts © Phil Splash. Lokal eingebundene Schriften unter SIL Open Font License."
+  },
+  "zh-cn": {
+    "heroTitle": [
+      "维尔茨堡。",
+      "你的面孔。",
+      "一起成画。"
+    ],
+    "heroLead": "为这座城而来，带走属于自己的一幅画。遇见“百万肖像画家”Phil Splash，让维尔茨堡之旅成为值得珍藏的肖像。",
+    "photoCTA": "定制肖像 · {price}欧元",
+    "liveCTA": "为旅行团预约 Phil",
+    "heroEyebrow": "本地艺术家 · 环球创作计划 · 您的独特时刻",
+    "ticket": "你 × 维尔茨堡",
+    "ticketNote": "为下一件心爱的旅行纪念，找个灵感。",
+    "conceptLabel": "AI 设计概念 · 最终作品另行确认",
+    "explore": "探索城市 × 艺术",
+    "cityLabel": "下一处，让你心动的风景",
+    "cityTitle": [
+      "这座城市。",
+      "你的画中风景。"
+    ],
+    "cityIntro": "要塞、老桥，以及属于维尔茨堡的细节。看见它、爱上它，再让它走进您的肖像故事。",
+    "places": [
+      [
+        "老美因桥",
+        "石雕、美因河景，以及这座城市相聚的地方。"
+      ],
+      [
+        "主教宫与宫廷花园",
+        "巴洛克建筑、花园的几何线条，让人想多停留一会儿。"
+      ],
+      [
+        "圣母礼拜堂",
+        "红色尖塔、老城屋顶，还有记忆中鲜明的色彩。"
+      ]
+    ],
+    "collectionLabel": "维尔茨堡主题肖像设计概念",
+    "collectionTitle": [
+      "你的面孔。",
+      "你的城市。",
+      "你的专属作品。"
+    ],
+    "collectionText": "让旅行纪念拥有独特的视角。您的肖像是主角，玛利恩堡要塞、老美因桥或城市天际线融入整体构图。先选一种方向，再与 Phil 一起确认最终设计。",
+    "designs": [
+      [
+        "City Color",
+        "把玛利恩堡画进你的故事",
+        "鲜明的肖像线条、蓝绿色点缀，以及融入人物轮廓的要塞。"
+      ],
+      [
+        "City Ink",
+        "让美因河流进你的线条",
+        "黑色墨线、一抹红色，老美因桥成为肖像的一部分。"
+      ],
+      [
+        "Original",
+        "Phil Splash 的原作风格",
+        "Phil 的真实原创肖像。几笔线条、一点色彩，画出独特的你。"
+      ]
+    ],
+    "selectDesign": "选择一个设计方向",
+    "designField": "偏好的肖像设计方向",
+    "chooseCTA": "咨询这款肖像",
+    "collectionFoot": "照片定制肖像每幅{price}欧元。两款城市构图为基于 Phil 原作、由 AI 辅助开发的设计概念。背景、形式及额外工作量须在下单前约定。",
+    "steps": [
+      [
+        "01",
+        "选择设计方向"
+      ],
+      [
+        "02",
+        "确认细节后发送照片"
+      ],
+      [
+        "03",
+        "让旅程多一份专属记忆"
+      ]
+    ],
+    "liveLabel": "城市有风景，旅行团有属于自己的精彩时刻。",
+    "liveTitle": [
+      "不止看风景。",
+      "你也可以，",
+      "成为艺术。"
+    ],
+    "liveText": "一位真正的艺术家，一整个旅行团，一幅幅在眼前诞生的肖像。邀请 Phil 加入您的维尔茨堡行程，可在酒店或美因-弗兰肯地区约定场地安排。",
+    "liveFact": "{min}人起 · 专属团队报价",
+    "liveFilm": "观看真实的 Phil 现场作画",
+    "liveImageLabel": "真实视频截图 / PHIL 的巴伐利亚西装",
+    "etchLabel": "古老的城，崭新的故事。",
+    "etchTitle": [
+      "这位艺术家，",
+      "也值得专程遇见。"
+    ],
+    "etchText": "维尔茨堡有著名的风景，还有您会遇见的艺术家、共同经历的片刻，以及他为您画下的面孔。Phil 的百万肖像计划，让您的旅行多了一个专属的停靠点。",
+    "etchCaption": "老美因桥上的 Phil · 新创作的铜版画风格 AI 插画，非历史资料，也不代表固定街头作画地点。",
+    "etchTag": "WÜRZBURG ORIGINALS / PHIL SPLASH",
+    "originalLabel": "艺术家亲笔创作的线条",
+    "originalTitle": "认识几幅真正的原作。",
+    "originalText": "这些肖像确由 Phil 绘制。上方的城市版本，则展示了进一步发展的设计灵感。",
+    "filmTitle": "按下播放，认识 PHIL。",
+    "contactTitle": [
+      "一座迷人的城。",
+      "一段属于你的故事。"
+    ],
+    "stickyPhoto": "肖像 · {price}欧元",
+    "stickyLive": "旅行团咨询",
+    "photoCredit": "摄影与创作说明",
+    "creditIntro": "城市照片为真实摄影，经缩小及 WebP 转换，页面可能裁切展示；各照片依对应链接所示许可使用。铜版画插画及 City Color、City Ink 为明确标注的 AI 设计概念。原创肖像 © Phil Splash。字体在本地提供，依 SIL Open Font License 使用。"
+  },
+  "zh-tw": {
+    "heroTitle": [
+      "維爾茨堡。",
+      "你的面孔。",
+      "一起成畫。"
+    ],
+    "heroLead": "為這座城而來，帶走屬於自己的一幅畫。遇見「百萬肖像畫家」Phil Splash，讓維爾茨堡之旅成為值得珍藏的肖像。",
+    "photoCTA": "訂製肖像 · {price}歐元",
+    "liveCTA": "為旅行團預約 Phil",
+    "heroEyebrow": "在地藝術家 · 環球創作計畫 · 您的獨特時刻",
+    "ticket": "你 × 維爾茨堡",
+    "ticketNote": "為下一件心愛的旅行紀念，找個靈感。",
+    "conceptLabel": "AI 設計概念 · 最終作品另行確認",
+    "explore": "探索城市 × 藝術",
+    "cityLabel": "下一處，讓你心動的風景",
+    "cityTitle": [
+      "這座城市。",
+      "你的畫中風景。"
+    ],
+    "cityIntro": "要塞、老橋，以及屬於維爾茨堡的細節。看見它、愛上它，再讓它走進您的肖像故事。",
+    "places": [
+      [
+        "老美因橋",
+        "石雕、美因河景，以及這座城市相聚的地方。"
+      ],
+      [
+        "主教宮與宮廷花園",
+        "巴洛克建築、花園的幾何線條，讓人想多停留一會兒。"
+      ],
+      [
+        "聖母禮拜堂",
+        "紅色尖塔、老城屋頂，還有記憶中鮮明的色彩。"
+      ]
+    ],
+    "collectionLabel": "維爾茨堡主題肖像設計概念",
+    "collectionTitle": [
+      "你的面孔。",
+      "你的城市。",
+      "你的專屬作品。"
+    ],
+    "collectionText": "讓旅行紀念擁有獨特的視角。您的肖像是主角，瑪利恩堡要塞、老美因橋或城市天際線融入整體構圖。先選一種方向，再與 Phil 一起確認最終設計。",
+    "designs": [
+      [
+        "City Color",
+        "把瑪利恩堡畫進你的故事",
+        "鮮明的肖像線條、藍綠色點綴，以及融入人物輪廓的要塞。"
+      ],
+      [
+        "City Ink",
+        "讓美因河流進你的線條",
+        "黑色墨線、一抹紅色，老美因橋成為肖像的一部分。"
+      ],
+      [
+        "Original",
+        "Phil Splash 的原作風格",
+        "Phil 的真實原創肖像。幾筆線條、一點色彩，畫出獨特的你。"
+      ]
+    ],
+    "selectDesign": "選擇一個設計方向",
+    "designField": "偏好的肖像設計方向",
+    "chooseCTA": "洽詢這款肖像",
+    "collectionFoot": "照片訂製肖像每幅{price}歐元。兩款城市構圖為基於 Phil 原作、由 AI 輔助開發的設計概念。背景、形式及額外工作量須在下單前約定。",
+    "steps": [
+      [
+        "01",
+        "選擇設計方向"
+      ],
+      [
+        "02",
+        "確認細節後寄送照片"
+      ],
+      [
+        "03",
+        "讓旅程多一份專屬記憶"
+      ]
+    ],
+    "liveLabel": "城市有風景，旅行團有屬於自己的精彩時刻。",
+    "liveTitle": [
+      "不只看風景。",
+      "你也可以，",
+      "成為藝術。"
+    ],
+    "liveText": "一位真正的藝術家，一整個旅行團，一幅幅在眼前誕生的肖像。邀請 Phil 加入您的維爾茨堡行程，可在飯店或美因-法蘭肯地區約定場地安排。",
+    "liveFact": "{min}人起 · 專屬團體報價",
+    "liveFilm": "觀看真實的 Phil 現場作畫",
+    "liveImageLabel": "真實影片截圖 / PHIL 的巴伐利亞西裝",
+    "etchLabel": "古老的城，嶄新的故事。",
+    "etchTitle": [
+      "這位藝術家，",
+      "也值得專程遇見。"
+    ],
+    "etchText": "維爾茨堡有著名的風景，還有您會遇見的藝術家、共同經歷的片刻，以及他為您畫下的面孔。Phil 的百萬肖像計畫，讓您的旅行多了一個專屬的停靠點。",
+    "etchCaption": "老美因橋上的 Phil · 新創作的銅版畫風格 AI 插畫，非歷史資料，也不代表固定街頭作畫地點。",
+    "etchTag": "WÜRZBURG ORIGINALS / PHIL SPLASH",
+    "originalLabel": "藝術家親筆創作的線條",
+    "originalTitle": "認識幾幅真正的原作。",
+    "originalText": "這些肖像確由 Phil 繪製。上方的城市版本，則展示了進一步發展的設計靈感。",
+    "filmTitle": "按下播放，認識 PHIL。",
+    "contactTitle": [
+      "一座迷人的城。",
+      "一段屬於你的故事。"
+    ],
+    "stickyPhoto": "肖像 · {price}歐元",
+    "stickyLive": "旅行團洽詢",
+    "photoCredit": "攝影與創作說明",
+    "creditIntro": "城市照片為真實攝影，經縮小及 WebP 轉換，頁面可能裁切展示；各照片依對應連結所示授權使用。銅版畫插畫及 City Color、City Ink 為明確標註的 AI 設計概念。原創肖像 © Phil Splash。字型於本地提供，依 SIL Open Font License 使用。"
+  },
+  "ja": {
+    "heroTitle": [
+      "ヴュルツブルク。",
+      "あなたの顔。",
+      "ひとつの作品に。"
+    ],
+    "heroLead": "街に会いに来て、自分だけの一枚を持ち帰る。「100万人の肖像」を目指す Phil Splash と、ヴュルツブルクの旅を忘れられない似顔絵に。",
+    "photoCTA": "似顔絵 · {price}ユーロ",
+    "liveCTA": "団体で Phil を予約",
+    "heroEyebrow": "街のアーティスト。世界をめぐる夢。あなたの時間。",
+    "ticket": "あなた × ヴュルツブルク",
+    "ticketNote": "次のお気に入りのお土産に、こんな一枚。",
+    "conceptLabel": "AIによるデザイン案 · 実際の作品はご相談のうえ決定",
+    "explore": "街 × アートを見つける",
+    "cityLabel": "次の、お気に入りの風景へ",
+    "cityTitle": [
+      "この街が、",
+      "あなたの絵の舞台に。"
+    ],
+    "cityIntro": "要塞、橋、そしてこの街だけのディテール。歩いて、好きになって、自分だけの似顔絵の物語へ。",
+    "places": [
+      [
+        "アルテ・マイン橋",
+        "石像、川の眺め、人が集まるヴュルツブルクらしい場所。"
+      ],
+      [
+        "レジデンツと宮廷庭園",
+        "バロックの華やかさと庭の幾何学。少し長く過ごしたくなる風景。"
+      ],
+      [
+        "マリエンカペレ",
+        "赤い尖塔、旧市街の屋根。そして、記憶に残る街の色。"
+      ]
+    ],
+    "collectionLabel": "ヴュルツブルクの似顔絵デザイン案",
+    "collectionTitle": [
+      "あなたの顔。",
+      "街の風景。",
+      "あなただけの一枚。"
+    ],
+    "collectionText": "主役は、あなた。マリエンベルク要塞、橋、街のスカイラインを似顔絵の構図に織り込みます。好きな方向を選んで、実際のデザインを Phil とご相談ください。",
+    "designs": [
+      [
+        "City Color",
+        "あなたの物語に、マリエンベルクを",
+        "大胆な線とターコイズの色。要塞の風景が人物のシルエットにつながるデザイン。"
+      ],
+      [
+        "City Ink",
+        "あなたの線に、マイン川を",
+        "黒いインクと少しの赤。アルテ・マイン橋を似顔絵に組み込むデザイン。"
+      ],
+      [
+        "Original",
+        "Phil Splash らしさを、そのままに",
+        "Phil自身によるオリジナルの肖像。表情豊かな線と少しの色で、その人らしく。"
+      ]
+    ],
+    "selectDesign": "お好きな方向を選ぶ",
+    "designField": "ご希望の似顔絵デザイン",
+    "chooseCTA": "この似顔絵を相談する",
+    "collectionFoot": "写真からの似顔絵は1点{price}ユーロ。街を組み込んだ2点は、Philの原画をもとにAIで開発したデザイン案です。背景、形式、追加作業は注文前にご相談します。",
+    "steps": [
+      [
+        "01",
+        "デザインの方向を選ぶ"
+      ],
+      [
+        "02",
+        "詳細を相談し、写真を送る"
+      ],
+      [
+        "03",
+        "旅を自分だけの思い出に"
+      ]
+    ],
+    "liveLabel": "街には名所を。グループには、特別な時間を。",
+    "liveTitle": [
+      "見るだけでなく、",
+      "あなた自身が、",
+      "アートになる。"
+    ],
+    "liveText": "アーティストと旅の仲間たち、目の前で生まれる似顔絵。ヴュルツブルクの一日に Phil を招いてみませんか。ホテルやマインフランケンの合意した場所でご相談いただけます。",
+    "liveFact": "{min}名様から · 団体向け個別お見積もり",
+    "liveFilm": "実際の Phil の制作を見る",
+    "liveImageLabel": "実際の映像より / バイエルン柄のスーツの PHIL",
+    "etchLabel": "歴史ある街に、新しい物語を。",
+    "etchTitle": [
+      "この街で会いたい、",
+      "もうひとりの主役。"
+    ],
+    "etchText": "有名な風景の先に、出会うアーティスト、一緒に過ごす時間、描かれるあなたの表情があります。Philの100万人の肖像プロジェクトが、あなたの旅の個人的な一場面に。",
+    "etchCaption": "アルテ・マイン橋の Phil · 銅版画風に新しく制作したAIイラストです。歴史資料や定期的な制作場所を示すものではありません。",
+    "etchTag": "WÜRZBURG ORIGINALS / PHIL SPLASH",
+    "originalLabel": "アーティスト本人の線",
+    "originalTitle": "いくつかの、本物のオリジナル。",
+    "originalText": "こちらは実際にPhilが描いた作品です。上の街のデザインは、そこから広がるアイデアをご紹介しています。",
+    "filmTitle": "再生して、PHIL に会う。",
+    "contactTitle": [
+      "すてきな街で、",
+      "あなたの次の物語を。"
+    ],
+    "stickyPhoto": "似顔絵 · {price}ユーロ",
+    "stickyLive": "団体のお問い合わせ",
+    "photoCredit": "写真とデザインのクレジット",
+    "creditIntro": "街の写真は実際の撮影によるもので、縮小・WebP変換を行い、表示時にトリミングする場合があります。各写真のライセンスはリンク先をご覧ください。銅版画風イラストおよびCity Color・City Inkは、明記したAIデザイン案です。肖像原画 © Phil Splash。フォントはSIL Open Font Licenseに基づきローカルで提供しています。"
+  }
+}

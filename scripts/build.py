@@ -3,6 +3,7 @@
 import json, os, shutil, html
 from pathlib import Path
 from urllib.parse import urlencode
+from campaign import redesign
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'docs'
 CONFIG = json.loads((ROOT/'site.config.json').read_text())
@@ -25,7 +26,7 @@ def mailto(kind='general'):
     return 'mailto:'+CONFIG['email']+'?'+urlencode({'subject':subject,'body':body},quote_via=__import__('urllib.parse',fromlist=['quote']).quote)
 if OUT.exists(): shutil.rmtree(OUT)
 OUT.mkdir()
-shutil.copytree(ROOT/'assets',OUT/'assets',ignore=shutil.ignore_patterns('*.jpg','phil-avatar.webp'))
+shutil.copytree(ROOT/'assets',OUT/'assets',ignore=shutil.ignore_patterns('*.jpg','phil-avatar.webp','source','wuerzburg-illustration.webp'))
 for f in ['style.css','app.js','favicon.svg']:
     shutil.copy(ROOT/f,OUT/f)
 (OUT/'.nojekyll').touch()
@@ -60,6 +61,7 @@ for lang in LANGS:
 </main><footer class="site-footer section-wrap"><div class="footer-top"><a class="brand" href="#top"><span class="brand-name">phil splash<span class="brand-star">✳</span></span><span class="brand-sub">THE MILLION PAINTER</span></a><p>{e(c['footerLine'])}</p><a class="text-link" href="#top">{e(c['top'])} ↑</a></div><nav class="footer-languages" aria-label="{e(c['language'])}">{language_links}</nav><div class="footer-bottom"><span>© 2026 Phil Splash · Würzburg, Bavaria</span><div><a href="#legal">{e(c['legal'])}</a><a href="#privacy">{e(c['privacy'])}</a></div></div><p class="credit">{e(c['credit'])}</p><details class="legal-details" id="legal"><summary>{e(c['legalHeading'])}</summary><p>{e(c['legalText'])}</p></details><details class="legal-details" id="privacy"><summary>{e(c['privacyHeading'])}</summary><p>{e(c['privacyText'])}</p><p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">{e(c['hostPrivacy'])} ↗</a> · <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">{e(c['videoPrivacy'])} ↗</a></p></details></footer>
 <dialog id="video-dialog" aria-labelledby="video-heading"><div class="dialog-bar"><h2 id="video-heading">{e(c['videoTitle'])}</h2><button id="close-video" type="button" aria-label="{e(c['close'])}">×</button></div><div id="video-stage"><div class="video-consent"><p>{e(c['videoNotice'])}</p><button class="button" type="button" id="load-video">{e(c['videoLoad'])}</button><a id="video-external" class="text-link" target="_blank" rel="noopener" href="https://www.youtube.com/@Theartistphil">{e(c['videoExternal'])} ↗</a></div></div></dialog>
 </body></html>'''
+    doc=redesign(doc,c,lang,CONFIG,CONTENT)
     target=OUT/route(lang);target.mkdir(exist_ok=True);(target/'index.html').write_text(doc)
 urls=''.join(f'<url><loc>{full(l)}</loc>'+''.join(f'<xhtml:link rel="alternate" hreflang="{CONTENT[a]["lang"]}" href="{full(a)}"/>' for a in LANGS)+'</url>' for l in LANGS)
 (OUT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">'+urls+'</urlset>')
