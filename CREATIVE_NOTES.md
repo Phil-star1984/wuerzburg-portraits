@@ -1,3 +1,13 @@
+# Anatomiekorrektur Galerie 03 – 27.10.2026
+
+Gezieltes Edit mit dem eingebauten Bildgenerator (keine CLI/API). Edit-Ziel: assets/experience-garden-v3.webp. Neue geprüfte Fassung: assets/experience-garden-v4.webp. Der Künstler hat zwei klar nachvollziehbare Arme: iPad halten und mit Apple Pencil zeichnen. Vorfassung unverändert zusätzlich unter archive/2026-10-27-garden-anatomy-fix/ gesichert.
+
+## Verwendeter Prompt
+
+Use case: precise-object-edit / anatomy correction. Edit THIS EXACT image only around the artist's arms, sleeves and hands. The seated artist Phil Splash in the blue-white Bavarian suit currently appears to have THREE arms. Correct him to EXACTLY TWO anatomically coherent arms and TWO hands, both clearly connected to his shoulders: ONE left hand supports the iPad from its lower left edge, with one continuous forearm and elbow; ONE right hand holds the WHITE Apple Pencil and draws on the screen, with one continuous forearm and elbow. Remove the entire extra duplicate blue-sleeved arm/forearm crossing his lap below the iPad and rebuild that small area as normal jacket torso or trouser fabric. Make the two limb paths unambiguous and physically natural, no crossing duplicate sleeves, phantom wrists, extra elbows, detached hands or fused fingers. You may slightly adjust both arm poses and the tablet position to achieve realistic anatomy. Retain a slim black-bezel iPad showing the same woman's black-line portrait; keep Apple Pencil contact believable. Preserve EXACT artist face, hair, sunglasses, straw hat, suit pattern, seated posture, all visitors, accurate Residence and garden, colors, lighting, framing and 3:2 ratio. No paper sketchbook or black marker. No added people, text, logos, AI mark or borders. This is a targeted repair, not a new composition.
+
+---
+
 # iPad und schmale Stadtlinie – Überarbeitung 27.10.2026
 
 Sechs neue Motive mit dem eingebauten Bildgenerator, keine CLI/API. Vier präzise Geräte-Edits, zwei neue Porträtkonzepte mit jeweils anschließender Verkleinerung des Stadtstreifens. Alte Websitefassungen unverändert in archive/2026-10-27-before-ipad-and-line-panorama/. Reine ursprüngliche KI-Sehenswürdigkeitenbilder wieder in der Highlights-Sektion.
