@@ -28,6 +28,9 @@ for locale in ['', 'de','ja','zh-cn','zh-tw']:
  assert len(p.alternates)==6,f'Missing language links: {locale}'
  assert '{price}' not in source and '{min}' not in source,'Unrendered content'
  assert config['email'] in source and 'mailto:' in source,'Missing contact route'
+ assert 'Würzburg Moments' in source, 'Missing travel brand'
+ assert '/assets/city-' not in source, 'Previous photographer image still in use'
+ assert 'class="live-photo"' not in source, 'Nested live-photo presentation returned'
  assert 'iframe' not in source,'Video must be opt-in, not loaded initially'
  for tag,ref in p.refs:
   u=urlsplit(ref)

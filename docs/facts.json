@@ -1,5 +1,5 @@
 {
-  "name": "Phil Splash — Würzburg portraits",
+  "name": "Würzburg Moments",
   "artist": "Philipp Mulfinger",
   "location": "Würzburg, Bavaria, Germany",
   "email": "info@phil-splash.de",
@@ -32,5 +32,17 @@
     "de": "https://phil-star1984.github.io/wuerzburg-portraits/de/"
   },
   "bookingUrl": "https://phil-star1984.github.io/wuerzburg-portraits/#enquire",
-  "sourceWebsite": "https://www.phil-splash.de/"
+  "sourceWebsite": "https://www.phil-splash.de/",
+  "audience": [
+    "Visitors from China",
+    "Visitors from Japan",
+    "International visitors to Würzburg"
+  ],
+  "websiteType": "Independent travel inspiration with portrait experiences; not the official tourist information service",
+  "sights": [
+    "Marienberg Fortress",
+    "Old Main Bridge",
+    "Würzburg Residence and Court Gardens",
+    "Marienkapelle and Old Town"
+  ]
 }

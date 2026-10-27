@@ -1,6 +1,6 @@
-# Phil Splash — Würzburg Portraits
+# Würzburg Moments
 
-Mehrsprachige Landingpage für Reisegruppen und Foto-Porträts. Statische HTML-Seiten: Englisch, vereinfachtes/traditionelles Chinesisch, Japanisch, Deutsch. Alle Inhalte sind bereits ohne JavaScript lesbar.
+Mehrsprachige Reiseinspiration für Besucher aus China und Japan: Würzburger Sehenswürdigkeiten entdecken und Porträt-Erlebnisse bei Phil Splash anfragen. Statische HTML-Seiten: Englisch, vereinfachtes/traditionelles Chinesisch, Japanisch, Deutsch. Alle Inhalte sind bereits ohne JavaScript lesbar.
 
 ## Vorschau und Änderungen
 
@@ -28,6 +28,8 @@ Vercel ist als Alternative vorbereitet: Repository importieren, `vercel.json` wi
 
 Eigene Sprach-URLs, vollständiges statisches HTML, gegenseitige hreflang-Verweise, selbstreferenzierende Canonicals, Sitemap, Social-Metadaten und strukturierte Daten (Person, Services, Preis, FAQ). `facts.json` und `llms.txt` ergänzen die öffentlich lesbaren Informationen; sie sind kein Rankingversprechen.
 
+Der Name **Würzburg Moments** stellt das Reiseziel in den Vordergrund. Der bestehende GitHub-Pages-Pfad wird erhalten; es wurde keine neue Domain registriert. Seitentitel, Beschreibungen, WebSite-Daten und Agenteninformationen verwenden die neue Marke. Der Betreiber wird klar als Phil Splash benannt; es besteht keine Darstellung als offizielle Tourist-Information.
+
 Die `robots.txt` ist für einen späteren Betrieb auf einer eigenen Domain vorbereitet. Bei GitHub-Projektseiten unter `/wuerzburg-portraits/` gilt die robots.txt der Host-Domain, nicht die Datei im Projekt-Unterordner. Inhalte werden nicht mit `noindex` blockiert.
 
 Nach der Veröffentlichung: Von der bestehenden Künstlerwebsite auf die Sprachseiten verlinken. Eigene Domain in Google Search Console und Bing Webmaster Tools verifizieren und Sitemap einreichen. Das setzt Zugriff auf diese Konten bzw. DNS voraus und erfolgt nicht automatisch durch dieses Projekt. Für Festlandchina bietet die Seite lokale Bilder, Systemschriften und eine direkte E-Mail-Anfrage; YouTube bleibt optional. Erreichbarkeit aus Festlandchina wurde nicht vor Ort geprüft. Muttersprachliche Endredaktion wird für die Übersetzungen empfohlen.
@@ -47,7 +49,8 @@ YouTube lädt erst nach expliziter Zustimmung im Video-Dialog. Beim Schließen w
 - Originalporträts: vom Nutzer bereitgestellte eigene Galerie https://phil-splash.imgbb.com/albums (Vietnam 2026, VR Bank Würzburg, ServiceNow).
 - Live-Bild und erster Film: https://www.youtube.com/watch?v=4OF5U2tFSXY
 - Zweiter Film/Vorschaubild: https://www.youtube.com/watch?v=YGdoD-1dvJ4
-- Stadtfotografie: originale, unveränderte Würzburg-Fotografien aus Wikimedia Commons; Quellen, Urheber, Lizenzen und Web-Anpassungen in `assets/photo-credits.json` und im öffentlichen Footer. Für die einzelnen Fotos bleiben die dort verlinkten CC-Lizenzen erhalten.
+- Aktuelle Stadtbilder: neu mit dem eingebauten Bildgenerator erzeugte Reiseillustrationen (`assets/moments-*.webp`), ohne die zuvor verwendeten Fotografenbilder als Vorlagen. Alle Stadtansichten sind als KI-Interpretationen kenntlich gemacht; sie sind keine dokumentarischen Ansichten. Architektur und Blickwinkel können von der Realität abweichen.
+- Die vorherigen fremden Stadtfotografien wurden aus dem aktuellen Webauftritt entfernt. Ihre früheren Quellen und Lizenzangaben bleiben zur Dokumentation unter `archive/previous-photo-credits.json` erhalten. Dies ist kein aktuelles Bilderverzeichnis der Website.
 - Neue Bildkonzepte: `assets/phil-mainbridge-engraving.webp`, `assets/portrait-city-color.webp`, `assets/portrait-city-ink.webp`. Mit dem eingebauten Bildgenerator entwickelt; auf der Seite klar als Illustration bzw. Gestaltungsidee gekennzeichnet. Keine historischen Nachweise, dokumentierten Termine oder zugesicherten fertigen Produktproben. Referenzen und vollständige Prompts: `CREATIVE_NOTES.md`.
 - Lokal eingebundene Schriften: Barlow Condensed und Space Grotesk, Lizenztexte in `assets/fonts/`.
 - Tourismus: https://www.wuerzburg.de/en/
@@ -55,3 +58,13 @@ YouTube lädt erst nach expliziter Zustimmung im Video-Dialog. Beim Schließen w
 Impressum und Datenschutzhinweise verwenden vorhandene öffentliche Anbieterangaben und beschreiben die implementierte Funktion. Ggf. vorhandene USt-IdNr./W-IdNr., aktuelle Anbieterangaben sowie die steuerliche Behandlung des Endpreises sind vom Betreiber zu ergänzen bzw. zu bestätigen. Nicht bestätigte Leistungsversprechen (feste Dauer, Liefergarantie, regelmäßiger Standplatz, enthaltene Live-Übersetzung) werden nicht gemacht.
 
 Inhalte und Kunstwerke © Phil Splash. Keine offene Lizenz für Kunstwerke oder Marketingmaterial.
+
+## Touristische Fakten
+
+Die Texte richten sich ausdrücklich an Reisende aus China und Japan. Fakten zu UNESCO-Welterbe, Mainbrücke, Altstadt und Romantischer Straße sind von den KI-Bildwelten getrennt. Quellen:
+- https://whc.unesco.org/en/list/169/
+- https://www.wuerzburg.de/tourismus/wuerzburg-entdecken/sehenswuerdigkeiten/alte-mainbruecke/index.html
+- https://www.wuerzburg.de/tourismus/wuerzburg-entdecken/sehenswuerdigkeiten/festung-marienberg/index.html
+- https://romantischestrasse.de/en/wuerzburg/
+
+Eintritte und Stadtführungen sind keine eingeschlossenen Produkte der Seite. Öffnungszeiten und Zugänglichkeit werden an die offiziellen Stellen verwiesen.

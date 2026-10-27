@@ -1,4 +1,33 @@
-# Würzburg Originals — Bildkonzepte
+# Würzburg Moments — Bildkonzepte
+
+## Neue Stadtbildwelten für Würzburg Moments
+
+Alle vier Stadtillustrationen wurden neu mit dem eingebauten Bildgenerator erzeugt. Es wurden keine Fotografenbilder als Referenzdateien verwendet. Keine CLI/API-Generierung. Die Bilder werden im Webauftritt als KI-Reiseillustrationen gekennzeichnet. Sie sind keine dokumentarischen Fotografien; Gebäude, Blickwinkel und Details sind künstlerische Interpretationen. Touristische Fakten werden unabhängig davon mit offiziellen Quellen verknüpft.
+
+### Würzburg Moments / Hero
+
+Datei: assets/moments-hero.webp
+
+Use case: ads-marketing, original cinematic travel visualization. Create a spectacular new travel-campaign image of Würzburg, Bavaria, from scratch, landscape 3:2. No reference photograph is supplied; do not copy a specific photograph. The real Marienberg Fortress crowns its vineyard-covered hill on the RIGHT HALF, its long cream sandstone Renaissance complex with rust-red roofs, square towers and restrained onion-domed corner towers, not a fantasy castle. The historic Alte Mainbrücke crosses the lower LEFT foreground diagonally towards the old riverside houses; broad stone arches, weathered sandstone parapets and characteristic baroque saint statues. The Main river reflects luminous peach and apricot sunset clouds, wine-green hillside, warm fortress lights and deep teal water. Exquisite atmospheric depth, sophisticated cinematic travel editorial, photorealistic architectural textures with a subtle painterly art-directed finish, rich but believable golden-hour light, breathtaking inviting destination mood for young travelers. Strong genuine Würzburg architectural identity and believable geography. Keep the left upper third mostly luminous atmospheric sky and distant hill for website lettering, main fortress unobstructed at upper right, detailed bridge leading the eye into the image. No text, logos, watermark, frames, portraits, extra monuments, alpine peaks or fairy-tale towers. This is an original AI travel illustration, to be labelled as such, not a documentary photograph.
+
+### Alte Mainbrücke
+
+Datei: assets/moments-bridge.webp
+
+Create an original cinematic travel visualization of the real Alte Mainbrücke in Würzburg, Germany, from scratch, no reference photo. Wide landscape 3:2. Eye-level viewpoint from the eastern end of the pedestrian bridge looking towards the vineyard hill and real Marienberg Fortress in the upper LEFT distance. Broad old sandstone paving and low parapets draw the eye forward, genuine baroque saint statues on substantial plinths line the bridge, subtle café life and a few small unidentifiable adult travelers in the far distance only. Marienberg has a restrained cream Renaissance complex with red tiled roofs and square towers, not a fairytale castle. A radiant early summer morning, champagne sunlight grazing stone textures, translucent blue sky with wisps of pink cloud, fresh green vineyards. Sophisticated youthful travel magazine art direction, photorealistic textures with a subtly painterly editorial finish, luminous and aspirational without excessive saturation. Strong perspective, honest architectural character, sense of being there and wanting to walk across. Main subject bridge, room for the stone statues and fortress, no huge foreground faces, no readable text, logos, watermark, frames, cars, Alps or fantasy architecture. To be labelled on the website as an original AI travel illustration, not a real photo.
+
+### Residenz und Hofgarten
+
+Datei: assets/moments-palace.webp
+
+Create an original magnificent destination-campaign visualization of Würzburg Residence (Residenz Würzburg) and its Hofgarten in Bavaria, from scratch with no reference photograph. Landscape 3:2. A believable architectural view of the long pale sandstone Baroque garden facade designed in the era of Balthasar Neumann: central rounded pavilion, rhythm of tall windows, red-grey slate roof, carved balustrades, restrained royal grandeur. An elegantly symmetrical foreground of formal clipped hedges, flowering rose beds and a circular fountain leads toward the palace, delicate water sparkle and vibrant fresh greens. Luminous clear late-spring morning, creamy sunlit stone, soft blue sky, warm rose pink flowers. Refined cinematic travel magazine aesthetic with photorealistic architectural detail and subtle painterly editorial finish, extraordinary but believable beauty, serene invitation to explore Germany. Avoid inventing a grand staircase, extra palaces, mountains or fairy-tale towers. No close-up people, text, flags, logos, frames, watermarks or portraits. Strong sense of actual Würzburg's baroque architecture. This is an AI travel illustration to be clearly labelled on the website, not a documentary photo and not a replica of an existing photographer's work.
+
+### Altstadt / Marienkapelle
+
+Datei: assets/moments-oldtown.webp
+
+Create a beautiful original travel-editorial visualization of Würzburg's old town and Marienkapelle at the market square, Bavaria, from scratch with no reference photograph. Landscape 3:2. The actual distinctive red-and-cream Gothic Marienkapelle church rises on the left with one very tall delicate red stone spire, detailed tracery windows and flying vertical lines; adjoining smaller pale rococo Falkenhaus-style townhouses and warm pastel old-town facades enclose a cobblestone market square. Warm softly glowing windows and café terraces at early blue hour, romantic rose-pink sky, exquisite red sandstone detail and cobalt atmosphere, a few tiny unidentifiable adult travelers enjoying a walk. Cinematic high-end youthful travel magazine art direction, inviting, sophisticated, photorealistic textures with a subtle painterly finish. The contrast of terracotta Gothic architecture, intimate cafés and glowing evening sky should make someone want to include this town on a Germany trip. No fantasy castle, alpine mountains, extra church spires, huge foreground people, text, logos, watermark or frames. Clearly an original AI travel illustration for the website, not a documentary photograph or a replica of a specific photographer's work.
+
 
 Die drei neuen Illustrationen wurden mit dem eingebauten Bildgenerator erstellt. Keine API/CLI-Generierung. Originalporträts und Videobilder wurden als vom Nutzer bereitgestellte Künstlerreferenzen verwendet. Stadtfotos sind getrennte, echte Fotografien mit eigenem Lizenznachweis.
 

@@ -2,35 +2,35 @@
   "en": {
     "heroTitle": [
       "WÜRZBURG.",
-      "YOUR FACE.",
-      "YOUR ART."
+      "LOVE AT",
+      "FIRST SIGHT."
     ],
-    "heroLead": "Come for the city. Leave with your own piece of it. Meet Phil Splash, the artist turning a Würzburg visit into a portrait worth keeping.",
+    "heroLead": "Travelling to Germany from China or Japan? Make room for Würzburg: a riverside fortress, UNESCO-listed splendour and a local artist who turns your visit into a portrait.",
     "photoCTA": "Your portrait · €{price}",
     "liveCTA": "Bring Phil to your group",
-    "heroEyebrow": "LOCAL ARTIST. WORLDWIDE MISSION. YOUR MOMENT.",
+    "heroEyebrow": "GERMANY, THROUGH A DIFFERENT LENS.",
     "ticket": "YOU × WÜRZBURG",
     "ticketNote": "An idea for your next favourite souvenir.",
     "conceptLabel": "AI design concept · final artwork by agreement",
     "explore": "Explore the city × art",
-    "cityLabel": "YOUR NEXT CAMERA ROLL, BUT BETTER",
+    "cityLabel": "THE WÜRZBURG SHORTLIST",
     "cityTitle": [
-      "THIS CITY.",
-      "YOUR BACKDROP."
+      "THREE SIGHTS.",
+      "A CITY TO FALL FOR."
     ],
-    "cityIntro": "The fortress. The bridge. The city’s unmistakable details. See them, fall for them — then make them part of your own portrait story.",
+    "cityIntro": "Build your visit around the bridge, the Residence and the old town. Marienberg Fortress is the landmark above it all. Here is what makes each stop worth your time.",
     "places": [
       [
-        "Alte Mainbrücke",
-        "Stone statues, river views and the place where Würzburg comes together."
+        "Old Main Bridge & Marienberg",
+        "Walk among the baroque stone saints and look towards the fortress and vineyard slopes. These are the lines that can become part of your portrait."
       ],
       [
-        "Residenz & Hofgarten",
-        "Baroque drama. Garden geometry. A very good reason to slow down."
+        "Residence & Court Gardens",
+        "The Würzburg Residence, Court Gardens and Residence Square form a UNESCO World Heritage site. Come for the baroque architecture; leave time for the gardens."
       ],
       [
-        "Marienkapelle",
-        "The red spire, the old-town rooftops, the colour you remember."
+        "Marienkapelle & the Old Town",
+        "Look up at the red Gothic Marienkapelle, discover the rococo Falkenhaus nearby and wander the market square before your art encounter."
       ]
     ],
     "collectionLabel": "THE WÜRZBURG PORTRAIT CONCEPTS",
@@ -39,7 +39,7 @@
       "YOUR CITY.",
       "YOUR ORIGINAL."
     ],
-    "collectionText": "A travel memory with a point of view. Your portrait takes centre stage; Marienberg, the bridge or the city skyline becomes part of the composition. Pick a direction and develop the final idea with Phil.",
+    "collectionText": "The most personal way to remember Würzburg: your face, Phil’s expressive lines and a city motif you choose together. Request a portrait from a photo before your trip, or arrange a live session for your travel group. The city designs below show creative directions to discuss with the artist.",
     "designs": [
       [
         "City Color",
@@ -75,13 +75,12 @@
         "Make your visit personal"
       ]
     ],
-    "liveLabel": "THE CITY HAS SIGHTS. YOUR GROUP GETS A MOMENT.",
+    "liveLabel": "A SPECIAL STOP FOR YOUR CHINA OR JAPAN TOUR GROUP",
     "liveTitle": [
-      "LESS WATCHING.",
-      "MORE BEING PART",
-      "OF THE ART."
+      "MEET THE CITY.",
+      "BECOME THE ART."
     ],
-    "liveText": "A real artist, your whole group and portraits taking shape in front of you. Invite Phil to your Würzburg itinerary — at your hotel or an agreed location in Mainfranken.",
+    "liveText": "Travelling with a group from China or Japan? Add an encounter with a Würzburg artist to your Germany itinerary. Phil joins you at a suitable hotel or agreed venue and draws your guests live. Your guide plans the sightseeing; Phil creates the personal art moment.",
     "liveFact": "FROM {min} PEOPLE · INDIVIDUAL GROUP QUOTE",
     "liveFilm": "See the real Phil in action",
     "liveImageLabel": "REAL VIDEO STILL / PHIL IN HIS BAVARIAN SUIT",
@@ -103,41 +102,74 @@
     ],
     "stickyPhoto": "Portrait · €{price}",
     "stickyLive": "Group enquiry",
-    "photoCredit": "Photography & creative credits",
-    "creditIntro": "Original photographs, resized to WebP and cropped in layout. Each photograph retains the linked licence. The new copperplate illustration and City Color / City Ink artworks were created with AI as clearly labelled concepts; original portraits © Phil Splash. Fonts hosted locally under the SIL Open Font License."
+    "photoCredit": "Images & creative notes",
+    "creditIntro": "The city scenes on this page were newly created with AI without using the previous photographers’ images as references. They are artistic travel visualizations, not documentary photos. The copperplate scene and City Color / City Ink are also AI-developed concepts. Original portraits and the artist’s video stills are supplied from Phil Splash’s own material. Fonts are hosted locally under the SIL Open Font License.",
+    "discoverCTA": "Discover Würzburg",
+    "brandSub": "BAVARIA · TRAVEL INSPIRATION · ART",
+    "siteDisclosure": "Independent travel inspiration & portrait experiences, operated by Phil Splash. Not the official tourist information service.",
+    "introLabel": "FOR TRAVELLERS FROM CHINA & JAPAN",
+    "introTitle": [
+      "YOUR GERMANY TRIP.",
+      "A WÜRZBURG CHAPTER."
+    ],
+    "introText": "Beyond the big-city checklist, Würzburg invites you into baroque gardens, vineyard views and the rhythm of the Main. Start your Romantic Road story here — and meet The Million Painter, Phil Splash, for a portrait that makes the city part of your own story.",
+    "placeFacts": [
+      "THE RIVER · THE FORTRESS · THE VIEW",
+      "UNESCO WORLD HERITAGE",
+      "GOTHIC DETAIL · ROCOCO · OLD-TOWN LIFE"
+    ],
+    "sightInfo": "Visitor information",
+    "cityNotice": "Check official opening times and access before your visit. Parts of Marienberg Fortress are under restoration; this page does not sell landmark admission or a guided city tour.",
+    "aiLabel": "AI travel illustration",
+    "aiNotice": "Imagined with AI to evoke Würzburg. Architecture, viewpoints and details are artistically interpreted; these are not documentary photographs.",
+    "sourceLabel": "Tourism facts: official sources",
+    "faqTrip": [
+      "Is Würzburg a good stop on a Germany trip from China or Japan?",
+      "If you want baroque architecture, a riverside old town and the start of the Romantic Road, put Würzburg on your Germany itinerary. Würzburg Moments is written with visitors from China and Japan in mind, with Chinese and Japanese pages. A portrait by Phil Splash can be requested separately as a personal art experience."
+    ],
+    "title": "Würzburg travel inspiration, sights & portrait experiences | Würzburg Moments",
+    "description": "Visiting Germany from China or Japan? Discover Würzburg’s top sights, Marienberg Fortress and the Residence. Meet local artist Phil Splash: photo portraits €{price}, live groups from {min}.",
+    "nav": [
+      "Sights",
+      "Portraits",
+      "Meet Phil",
+      "Films",
+      "Questions"
+    ],
+    "formMotifNote": "Please confirm the final city motif, format, deadline and total price before ordering."
   },
   "de": {
     "heroTitle": [
       "WÜRZBURG.",
-      "MIT DIR.",
-      "ALS KUNST."
+      "DEINE NEUE",
+      "REISELIEBE."
     ],
-    "heroLead": "Komm für die Stadt. Nimm dein eigenes Stück davon mit. Triff Phil Splash, den Millionenmaler, und mach aus deinem Würzburg-Besuch ein Porträt, das bleibt.",
+    "heroLead": "Ihr reist aus China oder Japan durch Deutschland? Plant Würzburg ein: Festung über dem Main, UNESCO-Welterbe und ein Künstler von hier, der euren Besuch als Porträt festhält.",
     "photoCTA": "Dein Porträt · {price} €",
     "liveCTA": "Phil für eure Gruppe",
-    "heroEyebrow": "KÜNSTLER VON HIER. MISSION WELTWEIT. DEIN MOMENT.",
+    "heroEyebrow": "DEUTSCHLAND ENTDECKEN. EINEN LIEBLINGSORT FINDEN.",
     "ticket": "DU × WÜRZBURG",
     "ticketNote": "Eine Idee für dein neues Lieblingssouvenir.",
     "conceptLabel": "KI-Gestaltungsidee · finale Arbeit nach Absprache",
     "explore": "Stadt × Kunst entdecken",
-    "cityLabel": "DEIN NÄCHSTER LIEBLINGSORT",
+    "cityLabel": "DIE WÜRZBURG-AUSWAHL",
     "cityTitle": [
-      "DIESE STADT.",
-      "DEIN HINTERGRUND."
+      "DREI HIGHLIGHTS.",
+      "EINE GROSSE REISELIEBE."
     ],
-    "cityIntro": "Die Festung. Die Brücke. Die Details, die nur Würzburg hat. Anschauen, verlieben — und zum Teil deiner eigenen Porträtgeschichte machen.",
+    "cityIntro": "Mainbrücke, Residenz und Altstadt geben eurem Besuch einen roten Faden. Die Festung Marienberg thront über allem. Das macht diese Stopps besonders.",
     "places": [
       [
-        "Alte Mainbrücke",
-        "Steinfiguren, Mainblick und der Ort, an dem Würzburg zusammenkommt."
+        "Alte Mainbrücke & Marienberg",
+        "Zwischen barocken Steinfiguren spazieren und zur Festung über den Weinbergen schauen. Diese Linien können später Teil eures Porträts werden."
       ],
       [
         "Residenz & Hofgarten",
-        "Barocke Kulisse. Klare Gartenlinien. Ein guter Grund, länger zu bleiben."
+        "Die Würzburger Residenz, der Hofgarten und der Residenzplatz gehören zum UNESCO-Welterbe. Kommt für die barocke Architektur und nehmt euch Zeit für die Gärten."
       ],
       [
-        "Marienkapelle",
-        "Der rote Turm, die Dächer der Altstadt und die Farbe, die im Kopf bleibt."
+        "Marienkapelle & Altstadt",
+        "Zur roten gotischen Marienkapelle aufschauen, daneben die Rokoko-Fassade des Falkenhauses entdecken und vor eurem Kunsterlebnis über den Marktplatz schlendern."
       ]
     ],
     "collectionLabel": "DIE WÜRZBURG-PORTRÄTKONZEPTE",
@@ -146,7 +178,7 @@
       "DEINE STADT.",
       "DEIN ORIGINAL."
     ],
-    "collectionText": "Eine Reiseerinnerung mit eigener Handschrift. Dein Porträt steht im Mittelpunkt; Marienberg, Mainbrücke oder die Stadtsilhouette werden Teil der Komposition. Wähle eine Richtung und entwickle die finale Idee mit Phil.",
+    "collectionText": "Die persönlichste Erinnerung an Würzburg: euer Gesicht, Phils markante Linien und ein gemeinsam gewähltes Stadtmotiv. Fragt vor der Reise ein Porträt nach Foto an oder vereinbart ein Live-Erlebnis für eure Reisegruppe. Die Stadtentwürfe zeigen Richtungen, die ihr mit dem Künstler weiterentwickeln könnt.",
     "designs": [
       [
         "City Color",
@@ -182,13 +214,12 @@
         "Deinen Besuch persönlich machen"
       ]
     ],
-    "liveLabel": "DIE STADT HAT SEHENSWÜRDIGKEITEN. IHR HABT EINEN MOMENT.",
+    "liveLabel": "EIN BESONDERER STOPP FÜR REISEGRUPPEN AUS CHINA & JAPAN",
     "liveTitle": [
-      "NICHT NUR SEHEN.",
-      "SELBST ZUM",
-      "KUNSTWERK WERDEN."
+      "DIE STADT TREFFEN.",
+      "SELBST KUNST WERDEN."
     ],
-    "liveText": "Ein echter Künstler, eure ganze Gruppe und Porträts, die vor euren Augen entstehen. Holt Phil in euren Würzburg-Tag — ins Hotel oder an einen vereinbarten Ort in Mainfranken.",
+    "liveText": "Ihr seid als Reisegruppe aus China oder Japan unterwegs? Ergänzt eure Deutschlandreise um eine Begegnung mit einem Würzburger Künstler. Phil kommt in ein geeignetes Hotel oder an einen vereinbarten Ort und porträtiert eure Gäste live. Eure Reiseleitung plant die Sehenswürdigkeiten; Phil schafft den persönlichen Kunstmoment.",
     "liveFact": "AB {min} PERSONEN · INDIVIDUELLES GRUPPENANGEBOT",
     "liveFilm": "Den echten Phil in Aktion sehen",
     "liveImageLabel": "ECHTES VIDEO-STANDBILD / PHIL IM BAYERN-ANZUG",
@@ -210,41 +241,74 @@
     ],
     "stickyPhoto": "Porträt · {price} €",
     "stickyLive": "Gruppenanfrage",
-    "photoCredit": "Fotos & Gestaltung",
-    "creditIntro": "Originalfotografien, für das Web verkleinert und im Layout beschnitten. Für jedes Foto gilt die jeweils verlinkte Lizenz. Die neue Kupferstich-Illustration und die Motive City Color / City Ink wurden mit KI als gekennzeichnete Konzepte entwickelt; Originalporträts © Phil Splash. Lokal eingebundene Schriften unter SIL Open Font License."
+    "photoCredit": "Bildwelten & Gestaltung",
+    "creditIntro": "Die Stadtansichten dieser Seite wurden neu mit KI erzeugt, ohne die bisherigen Fotografenbilder als Vorlagen zu verwenden. Es sind künstlerische Reisevisualisierungen, keine dokumentarischen Fotos. Auch die Kupferstich-Szene und City Color / City Ink sind KI-Gestaltungskonzepte. Originalporträts und Video-Standbilder stammen aus Phils eigenem Material. Schriften werden lokal unter SIL Open Font License eingebunden.",
+    "discoverCTA": "Würzburg entdecken",
+    "brandSub": "BAYERN · REISEINSPIRATION · KUNST",
+    "siteDisclosure": "Private Reiseinspiration und Porträt-Erlebnisse, betrieben von Phil Splash. Kein offizielles Angebot der Tourist-Information.",
+    "introLabel": "FÜR REISENDE AUS CHINA & JAPAN",
+    "introTitle": [
+      "DEUTSCHLAND SEHEN.",
+      "WÜRZBURG ERLEBEN."
+    ],
+    "introText": "Zwischen großen Städten und bekannten Deutschland-Motiven wartet Würzburg mit barocken Gärten, Weinbergblicken und dem Leben am Main. Beginnt hier eure Geschichte an der Romantischen Straße – und trefft den Millionenmaler Phil Splash für ein Porträt, das die Stadt mit eurer eigenen Geschichte verbindet.",
+    "placeFacts": [
+      "DER MAIN · DIE FESTUNG · DIE AUSSICHT",
+      "UNESCO-WELTERBE",
+      "GOTIK · ROKOKO · ALTSTADTLEBEN"
+    ],
+    "sightInfo": "Besuchsinformationen",
+    "cityNotice": "Öffnungszeiten und Zugänglichkeit vor dem Besuch bei den offiziellen Stellen prüfen. Teile der Festung Marienberg werden saniert. Diese Seite verkauft keine Eintrittskarten oder Stadtführungen.",
+    "aiLabel": "KI-Reiseillustration",
+    "aiNotice": "Mit KI als Reiseinspiration entwickelt. Architektur, Blickwinkel und Details sind künstlerisch interpretiert; es sind keine dokumentarischen Fotografien.",
+    "sourceLabel": "Touristische Angaben: offizielle Quellen",
+    "faqTrip": [
+      "Warum Würzburg bei einer Deutschlandreise aus China oder Japan einplanen?",
+      "Wer barocke Architektur, eine Altstadt am Fluss und den Beginn der Romantischen Straße erleben möchte, sollte Würzburg auf seine Deutschland-Reiseliste setzen. Würzburg Moments spricht Reisende aus China und Japan gezielt an und bietet chinesische und japanische Sprachversionen. Ein Porträt von Phil Splash ist als persönliches Kunsterlebnis separat anfragbar."
+    ],
+    "title": "Würzburg entdecken: Sehenswürdigkeiten & Porträt-Erlebnisse | Würzburg Moments",
+    "description": "Reiseinspiration für Gäste aus China und Japan: Würzburgs Sehenswürdigkeiten, Festung Marienberg und Residenz entdecken. Phil Splash treffen: Foto-Porträts {price} €, Live-Gruppen ab {min} Personen.",
+    "nav": [
+      "Sehenswürdigkeiten",
+      "Porträts",
+      "Phil treffen",
+      "Filme",
+      "Fragen"
+    ],
+    "formMotifNote": "Bitte Stadtmotiv, Format, Termin und Gesamtpreis vor der Bestellung bestätigen."
   },
   "zh-cn": {
     "heroTitle": [
-      "维尔茨堡。",
-      "你的面孔。",
-      "一起成画。"
+      "德国之旅，",
+      "别错过",
+      "维尔茨堡。"
     ],
-    "heroLead": "为这座城而来，带走属于自己的一幅画。遇见“百万肖像画家”Phil Splash，让维尔茨堡之旅成为值得珍藏的肖像。",
+    "heroLead": "从中国或日本来德国旅行？把维尔茨堡加入行程：美因河上的老桥、山顶要塞、世界遗产，以及为你留下一幅专属肖像的本地艺术家。",
     "photoCTA": "定制肖像 · {price}欧元",
     "liveCTA": "为旅行团预约 Phil",
-    "heroEyebrow": "本地艺术家 · 环球创作计划 · 您的独特时刻",
+    "heroEyebrow": "发现德国，也发现属于你的心动之城。",
     "ticket": "你 × 维尔茨堡",
     "ticketNote": "为下一件心爱的旅行纪念，找个灵感。",
     "conceptLabel": "AI 设计概念 · 最终作品另行确认",
     "explore": "探索城市 × 艺术",
-    "cityLabel": "下一处，让你心动的风景",
+    "cityLabel": "维尔茨堡值得打卡的风景",
     "cityTitle": [
-      "这座城市。",
-      "你的画中风景。"
+      "三处精彩，",
+      "一座让人心动的城。"
     ],
-    "cityIntro": "要塞、老桥，以及属于维尔茨堡的细节。看见它、爱上它，再让它走进您的肖像故事。",
+    "cityIntro": "用老美因桥、主教宫和老城串起一天，山顶的玛利恩堡要塞则是这座城市的标志。每一站，都有值得停留的理由。",
     "places": [
       [
-        "老美因桥",
-        "石雕、美因河景，以及这座城市相聚的地方。"
+        "老美因桥与玛利恩堡",
+        "走过巴洛克石像，望向葡萄园上方的玛利恩堡要塞。这些桥拱与城市线条，也可以成为肖像设计的灵感。"
       ],
       [
         "主教宫与宫廷花园",
-        "巴洛克建筑、花园的几何线条，让人想多停留一会儿。"
+        "维尔茨堡主教宫、宫廷花园及宫殿广场共同列入联合国教科文组织世界遗产。欣赏巴洛克建筑，也给花园留一点时间。"
       ],
       [
-        "圣母礼拜堂",
-        "红色尖塔、老城屋顶，还有记忆中鲜明的色彩。"
+        "圣母礼拜堂与老城",
+        "抬头欣赏红色哥特式圣母礼拜堂，发现旁边猎鹰之家的洛可可立面，再到集市广场散步，为艺术相遇慢下脚步。"
       ]
     ],
     "collectionLabel": "维尔茨堡主题肖像设计概念",
@@ -253,7 +317,7 @@
       "你的城市。",
       "你的专属作品。"
     ],
-    "collectionText": "让旅行纪念拥有独特的视角。您的肖像是主角，玛利恩堡要塞、老美因桥或城市天际线融入整体构图。先选一种方向，再与 Phil 一起确认最终设计。",
+    "collectionText": "用最个人的方式记住维尔茨堡：你的面孔、Phil 的鲜明线条，以及共同选定的城市元素。可在出发前咨询照片定制肖像，也可为旅行团预约现场体验。下方城市设计仅为创意方向，最终作品由您与艺术家协商。",
     "designs": [
       [
         "City Color",
@@ -289,13 +353,12 @@
         "让旅程多一份专属记忆"
       ]
     ],
-    "liveLabel": "城市有风景，旅行团有属于自己的精彩时刻。",
+    "liveLabel": "为中国与日本旅行团增添一个特别的停靠点",
     "liveTitle": [
-      "不止看风景。",
-      "你也可以，",
-      "成为艺术。"
+      "不只游览城市，",
+      "也让自己成为艺术。"
     ],
-    "liveText": "一位真正的艺术家，一整个旅行团，一幅幅在眼前诞生的肖像。邀请 Phil 加入您的维尔茨堡行程，可在酒店或美因-弗兰肯地区约定场地安排。",
+    "liveText": "跟随旅行团从中国或日本来德国？让行程多一次与维尔茨堡艺术家的真实相遇。Phil 可前往合适的酒店或约定场地，为团员现场画肖像。景点路线由您的导游安排，Phil 为大家创造专属的艺术时刻。",
     "liveFact": "{min}人起 · 专属团队报价",
     "liveFilm": "观看真实的 Phil 现场作画",
     "liveImageLabel": "真实视频截图 / PHIL 的巴伐利亚西装",
@@ -317,41 +380,74 @@
     ],
     "stickyPhoto": "肖像 · {price}欧元",
     "stickyLive": "旅行团咨询",
-    "photoCredit": "摄影与创作说明",
-    "creditIntro": "城市照片为真实摄影，经缩小及 WebP 转换，页面可能裁切展示；各照片依对应链接所示许可使用。铜版画插画及 City Color、City Ink 为明确标注的 AI 设计概念。原创肖像 © Phil Splash。字体在本地提供，依 SIL Open Font License 使用。"
+    "photoCredit": "视觉创作说明",
+    "creditIntro": "本站城市画面均为新创作的 AI 旅行意境图，未使用此前摄影师的图片作为参考，不是实景摄影。铜版画场景及 City Color、City Ink 也是 AI 设计概念。原创肖像及艺术家视频截图来自 Phil 的自有素材。字体在本地提供，并依 SIL Open Font License 使用。",
+    "discoverCTA": "探索维尔茨堡",
+    "brandSub": "巴伐利亚 · 旅行灵感 · 艺术体验",
+    "siteDisclosure": "由 Phil Splash 运营的独立旅行灵感与肖像体验网站，并非官方旅游局网站。",
+    "introLabel": "为来自中国与日本的旅行者而写",
+    "introTitle": [
+      "你的德国之旅，",
+      "值得留一站给维尔茨堡。"
+    ],
+    "introText": "在德国的大城市之外，维尔茨堡有巴洛克花园、葡萄园山景和美因河畔的生活气息。这里是浪漫之路的起点，也可以是你与“百万肖像画家”Phil Splash 相遇的地方。看过这座城，再让一幅画把它与你的故事连在一起。",
+    "placeFacts": [
+      "美因河 · 山顶要塞 · 城市风景",
+      "联合国教科文组织世界遗产",
+      "哥特式 · 洛可可 · 老城漫步"
+    ],
+    "sightInfo": "查看参观信息",
+    "cityNotice": "出行前请向官方渠道确认开放时间与参观条件。玛利恩堡要塞部分区域正在修缮。本站不销售景点门票或城市导览。",
+    "aiLabel": "AI 旅行意境图",
+    "aiNotice": "由 AI 创作的旅行灵感画面。建筑、视角与细节经过艺术化演绎，并非实景摄影。",
+    "sourceLabel": "旅游信息：官方来源",
+    "faqTrip": [
+      "从中国或日本去德国旅行，为什么要安排维尔茨堡？",
+      "如果您想体验巴洛克建筑、河畔老城和浪漫之路的起点，值得把维尔茨堡加入德国行程。Würzburg Moments 特别面向中国与日本旅客，提供中文和日文内容。Phil Splash 的肖像体验可另外咨询预约，为旅途留下一份专属纪念。"
+    ],
+    "title": "维尔茨堡旅游：必看景点与专属肖像体验｜Würzburg Moments",
+    "description": "为中国与日本旅客准备的德国旅行灵感：维尔茨堡主教宫、玛利恩堡要塞、老美因桥与老城。可向 Phil Splash 咨询照片肖像，每幅{price}欧元，现场旅行团{min}人起。",
+    "nav": [
+      "城市景点",
+      "专属肖像",
+      "遇见 Phil",
+      "观看影片",
+      "常见问题"
+    ],
+    "formMotifNote": "下单前请确认城市元素、作品形式、完成日期与总价。"
   },
   "zh-tw": {
     "heroTitle": [
-      "維爾茨堡。",
-      "你的面孔。",
-      "一起成畫。"
+      "德國之旅，",
+      "別錯過",
+      "維爾茨堡。"
     ],
-    "heroLead": "為這座城而來，帶走屬於自己的一幅畫。遇見「百萬肖像畫家」Phil Splash，讓維爾茨堡之旅成為值得珍藏的肖像。",
+    "heroLead": "從中國或日本來德國旅行？把維爾茨堡加入行程：美因河上的老橋、山頂要塞、世界遺產，以及為你留下一幅專屬肖像的在地藝術家。",
     "photoCTA": "訂製肖像 · {price}歐元",
     "liveCTA": "為旅行團預約 Phil",
-    "heroEyebrow": "在地藝術家 · 環球創作計畫 · 您的獨特時刻",
+    "heroEyebrow": "發現德國，也發現屬於你的心動之城。",
     "ticket": "你 × 維爾茨堡",
     "ticketNote": "為下一件心愛的旅行紀念，找個靈感。",
     "conceptLabel": "AI 設計概念 · 最終作品另行確認",
     "explore": "探索城市 × 藝術",
-    "cityLabel": "下一處，讓你心動的風景",
+    "cityLabel": "維爾茨堡值得造訪的風景",
     "cityTitle": [
-      "這座城市。",
-      "你的畫中風景。"
+      "三處精彩，",
+      "一座讓人心動的城。"
     ],
-    "cityIntro": "要塞、老橋，以及屬於維爾茨堡的細節。看見它、愛上它，再讓它走進您的肖像故事。",
+    "cityIntro": "用老美因橋、主教宮和老城串起一天，山頂的瑪利恩堡要塞則是這座城市的標誌。每一站，都有值得停留的理由。",
     "places": [
       [
-        "老美因橋",
-        "石雕、美因河景，以及這座城市相聚的地方。"
+        "老美因橋與瑪利恩堡",
+        "走過巴洛克石像，望向葡萄園上方的瑪利恩堡要塞。這些橋拱與城市線條，也可以成為肖像設計的靈感。"
       ],
       [
         "主教宮與宮廷花園",
-        "巴洛克建築、花園的幾何線條，讓人想多停留一會兒。"
+        "維爾茨堡主教宮、宮廷花園及宮殿廣場共同列入聯合國教科文組織世界遺產。欣賞巴洛克建築，也給花園留一點時間。"
       ],
       [
-        "聖母禮拜堂",
-        "紅色尖塔、老城屋頂，還有記憶中鮮明的色彩。"
+        "聖母禮拜堂與老城",
+        "抬頭欣賞紅色哥德式聖母禮拜堂，發現旁邊獵鷹之家的洛可可立面，再到市集廣場散步，為藝術相遇慢下腳步。"
       ]
     ],
     "collectionLabel": "維爾茨堡主題肖像設計概念",
@@ -360,7 +456,7 @@
       "你的城市。",
       "你的專屬作品。"
     ],
-    "collectionText": "讓旅行紀念擁有獨特的視角。您的肖像是主角，瑪利恩堡要塞、老美因橋或城市天際線融入整體構圖。先選一種方向，再與 Phil 一起確認最終設計。",
+    "collectionText": "用最個人的方式記住維爾茨堡：你的面孔、Phil 的鮮明線條，以及共同選定的城市元素。可在出發前洽詢照片訂製肖像，也可為旅行團預約現場體驗。下方城市設計僅為創意方向，最終作品由您與藝術家協商。",
     "designs": [
       [
         "City Color",
@@ -396,13 +492,12 @@
         "讓旅程多一份專屬記憶"
       ]
     ],
-    "liveLabel": "城市有風景，旅行團有屬於自己的精彩時刻。",
+    "liveLabel": "為中國與日本旅行團增添一個特別的停靠點",
     "liveTitle": [
-      "不只看風景。",
-      "你也可以，",
-      "成為藝術。"
+      "不只遊覽城市，",
+      "也讓自己成為藝術。"
     ],
-    "liveText": "一位真正的藝術家，一整個旅行團，一幅幅在眼前誕生的肖像。邀請 Phil 加入您的維爾茨堡行程，可在飯店或美因-法蘭肯地區約定場地安排。",
+    "liveText": "跟隨旅行團從中國或日本來德國？讓行程多一次與維爾茨堡藝術家的真實相遇。Phil 可前往合適的飯店或約定場地，為團員現場畫肖像。景點路線由您的導遊安排，Phil 為大家創造專屬的藝術時刻。",
     "liveFact": "{min}人起 · 專屬團體報價",
     "liveFilm": "觀看真實的 Phil 現場作畫",
     "liveImageLabel": "真實影片截圖 / PHIL 的巴伐利亞西裝",
@@ -424,41 +519,74 @@
     ],
     "stickyPhoto": "肖像 · {price}歐元",
     "stickyLive": "旅行團洽詢",
-    "photoCredit": "攝影與創作說明",
-    "creditIntro": "城市照片為真實攝影，經縮小及 WebP 轉換，頁面可能裁切展示；各照片依對應連結所示授權使用。銅版畫插畫及 City Color、City Ink 為明確標註的 AI 設計概念。原創肖像 © Phil Splash。字型於本地提供，依 SIL Open Font License 使用。"
+    "photoCredit": "視覺創作說明",
+    "creditIntro": "本站城市畫面均為新創作的 AI 旅行意境圖，未使用此前攝影師的圖片作為參考，不是實景攝影。銅版畫場景及 City Color、City Ink 也是 AI 設計概念。原創肖像及藝術家影片截圖來自 Phil 的自有素材。字型於本地提供，並依 SIL Open Font License 使用。",
+    "discoverCTA": "探索維爾茨堡",
+    "brandSub": "巴伐利亞 · 旅行靈感 · 藝術體驗",
+    "siteDisclosure": "由 Phil Splash 營運的獨立旅行靈感與肖像體驗網站，並非官方觀光單位網站。",
+    "introLabel": "為來自中國與日本的旅行者而寫",
+    "introTitle": [
+      "你的德國之旅，",
+      "值得留一站給維爾茨堡。"
+    ],
+    "introText": "在德國的大城市之外，維爾茨堡有巴洛克花園、葡萄園山景和美因河畔的生活氣息。這裡是浪漫之路的起點，也可以是你與「百萬肖像畫家」Phil Splash 相遇的地方。看過這座城，再讓一幅畫把它與你的故事連在一起。",
+    "placeFacts": [
+      "美因河 · 山頂要塞 · 城市風景",
+      "聯合國教科文組織世界遺產",
+      "哥德式 · 洛可可 · 老城漫步"
+    ],
+    "sightInfo": "查看參觀資訊",
+    "cityNotice": "出行前請向官方管道確認開放時間與參觀條件。瑪利恩堡要塞部分區域正在修繕。本站不銷售景點門票或城市導覽。",
+    "aiLabel": "AI 旅行意境圖",
+    "aiNotice": "由 AI 創作的旅行靈感畫面。建築、視角與細節經過藝術化演繹，並非實景攝影。",
+    "sourceLabel": "旅遊資訊：官方來源",
+    "faqTrip": [
+      "從中國或日本去德國旅行，為什麼要安排維爾茨堡？",
+      "如果您想體驗巴洛克建築、河畔老城和浪漫之路的起點，值得把維爾茨堡加入德國行程。Würzburg Moments 特別面向中國與日本旅客，提供中文和日文內容。Phil Splash 的肖像體驗可另外洽詢預約，為旅途留下一份專屬紀念。"
+    ],
+    "title": "維爾茨堡旅遊：必看景點與專屬肖像體驗｜Würzburg Moments",
+    "description": "為中國與日本旅客準備的德國旅行靈感：維爾茨堡主教宮、瑪利恩堡要塞、老美因橋與老城。可向 Phil Splash 洽詢照片肖像，每幅{price}歐元，現場旅行團{min}人起。",
+    "nav": [
+      "城市景點",
+      "專屬肖像",
+      "遇見 Phil",
+      "觀看影片",
+      "常見問題"
+    ],
+    "formMotifNote": "下單前請確認城市元素、作品形式、完成日期與總價。"
   },
   "ja": {
     "heroTitle": [
-      "ヴュルツブルク。",
-      "あなたの顔。",
-      "ひとつの作品に。"
+      "ドイツ旅に、",
+      "ときめく街。",
+      "ヴュルツブルク。"
     ],
-    "heroLead": "街に会いに来て、自分だけの一枚を持ち帰る。「100万人の肖像」を目指す Phil Splash と、ヴュルツブルクの旅を忘れられない似顔絵に。",
+    "heroLead": "日本や中国からドイツへ。ヴュルツブルクを旅の一場面にしませんか。川沿いの橋、丘の上の要塞、世界遺産。そして、あなたを描く地元のアーティスト。",
     "photoCTA": "似顔絵 · {price}ユーロ",
     "liveCTA": "団体で Phil を予約",
-    "heroEyebrow": "街のアーティスト。世界をめぐる夢。あなたの時間。",
+    "heroEyebrow": "ドイツを知る旅で、好きになる街を見つけよう。",
     "ticket": "あなた × ヴュルツブルク",
     "ticketNote": "次のお気に入りのお土産に、こんな一枚。",
     "conceptLabel": "AIによるデザイン案 · 実際の作品はご相談のうえ決定",
     "explore": "街 × アートを見つける",
-    "cityLabel": "次の、お気に入りの風景へ",
+    "cityLabel": "ヴュルツブルクで訪ねたい風景",
     "cityTitle": [
-      "この街が、",
-      "あなたの絵の舞台に。"
+      "3つの見どころ。",
+      "好きになる街。"
     ],
-    "cityIntro": "要塞、橋、そしてこの街だけのディテール。歩いて、好きになって、自分だけの似顔絵の物語へ。",
+    "cityIntro": "橋、レジデンツ、旧市街を軸に歩く一日。丘の上のマリエンベルク要塞が、その街を見守ります。それぞれの魅力をご紹介します。",
     "places": [
       [
-        "アルテ・マイン橋",
-        "石像、川の眺め、人が集まるヴュルツブルクらしい場所。"
+        "アルテ・マイン橋と要塞",
+        "バロックの石像の間を歩き、ブドウ畑の上にそびえるマリエンベルク要塞を眺めて。橋のアーチと街の線は、似顔絵のデザインのヒントにも。"
       ],
       [
         "レジデンツと宮廷庭園",
-        "バロックの華やかさと庭の幾何学。少し長く過ごしたくなる風景。"
+        "ヴュルツブルクのレジデンツ、宮廷庭園、宮殿広場はユネスコ世界遺産。バロック建築を味わい、庭園を散策する時間も残して。"
       ],
       [
-        "マリエンカペレ",
-        "赤い尖塔、旧市街の屋根。そして、記憶に残る街の色。"
+        "マリエンカペレと旧市街",
+        "赤いゴシック様式の礼拝堂を見上げ、隣のファルケンハウスのロココの壁面を発見。広場を歩いて、アートとの出会いへ。"
       ]
     ],
     "collectionLabel": "ヴュルツブルクの似顔絵デザイン案",
@@ -467,7 +595,7 @@
       "街の風景。",
       "あなただけの一枚。"
     ],
-    "collectionText": "主役は、あなた。マリエンベルク要塞、橋、街のスカイラインを似顔絵の構図に織り込みます。好きな方向を選んで、実際のデザインを Phil とご相談ください。",
+    "collectionText": "顔、Philらしい線、一緒に選ぶ街のモチーフ。ヴュルツブルクを自分らしく覚えておくための一枚です。旅行前に写真からの似顔絵をご相談いただくか、団体でライブ制作をご予約ください。下の街のデザインは、ご相談のためのアイデアです。",
     "designs": [
       [
         "City Color",
@@ -503,13 +631,12 @@
         "旅を自分だけの思い出に"
       ]
     ],
-    "liveLabel": "街には名所を。グループには、特別な時間を。",
+    "liveLabel": "日本・中国からの団体旅行に、特別な立ち寄りを",
     "liveTitle": [
-      "見るだけでなく、",
-      "あなた自身が、",
-      "アートになる。"
+      "街に会う。",
+      "あなたがアートになる。"
     ],
-    "liveText": "アーティストと旅の仲間たち、目の前で生まれる似顔絵。ヴュルツブルクの一日に Phil を招いてみませんか。ホテルやマインフランケンの合意した場所でご相談いただけます。",
+    "liveText": "日本や中国から団体でドイツへ。ヴュルツブルクのアーティストと出会う時間を、旅程に加えてみませんか。Phil が適切なホテルや合意した会場を訪れ、皆さまの似顔絵をその場で描きます。観光ルートはガイドが計画し、Phil は個人的なアートの時間をお届けします。",
     "liveFact": "{min}名様から · 団体向け個別お見積もり",
     "liveFilm": "実際の Phil の制作を見る",
     "liveImageLabel": "実際の映像より / バイエルン柄のスーツの PHIL",
@@ -531,7 +658,40 @@
     ],
     "stickyPhoto": "似顔絵 · {price}ユーロ",
     "stickyLive": "団体のお問い合わせ",
-    "photoCredit": "写真とデザインのクレジット",
-    "creditIntro": "街の写真は実際の撮影によるもので、縮小・WebP変換を行い、表示時にトリミングする場合があります。各写真のライセンスはリンク先をご覧ください。銅版画風イラストおよびCity Color・City Inkは、明記したAIデザイン案です。肖像原画 © Phil Splash。フォントはSIL Open Font Licenseに基づきローカルで提供しています。"
+    "photoCredit": "ビジュアル制作について",
+    "creditIntro": "街の風景は、以前使用した写真家の写真を参考画像に使わず、新たにAIで制作したイメージです。実際に撮影した写真ではありません。銅版画風の場面とCity Color・City InkもAIのデザイン案です。肖像原画と映像の静止画はPhil自身の素材より。フォントはSIL Open Font Licenseに基づきローカルで提供します。",
+    "discoverCTA": "ヴュルツブルクを知る",
+    "brandSub": "バイエルン · 旅のヒント · アート",
+    "siteDisclosure": "Phil Splash が運営する独立した旅のインスピレーションと肖像体験のサイトです。公式観光案内所のサイトではありません。",
+    "introLabel": "日本・中国からドイツを訪れる皆さまへ",
+    "introTitle": [
+      "あなたのドイツ旅行に、",
+      "ヴュルツブルクの一章を。"
+    ],
+    "introText": "大都市をめぐる旅の合間に、バロックの庭園、ブドウ畑の眺め、マイン川のほとりの時間を。ロマンチック街道の起点から、あなたらしいドイツの物語を始めましょう。「100万人の肖像」を目指す Phil Splash との出会いが、街の思い出を一枚の似顔絵につなげます。",
+    "placeFacts": [
+      "川 · 要塞 · ブドウ畑の風景",
+      "ユネスコ世界遺産",
+      "ゴシック · ロココ · 旧市街の時間"
+    ],
+    "sightInfo": "見学情報を見る",
+    "cityNotice": "開館時間や見学条件は訪問前に公式情報をご確認ください。マリエンベルク要塞の一部は修復中です。このサイトでは名所の入場券や市内ガイドツアーを販売していません。",
+    "aiLabel": "AIによる旅のイメージ",
+    "aiNotice": "ヴュルツブルクを題材にAIで制作した旅のイメージです。建築、視点、細部は芸術的な解釈であり、実際の撮影写真ではありません。",
+    "sourceLabel": "観光情報の公式出典",
+    "faqTrip": [
+      "日本や中国からのドイツ旅行で、ヴュルツブルクを訪れる理由は？",
+      "バロック建築、川沿いの旧市街、ロマンチック街道の起点に魅力を感じたら、ヴュルツブルクをドイツ旅行の予定に加えてみてください。Würzburg Momentsは日本・中国からの旅行者を意識し、日本語・中国語でもご案内します。Phil Splashの似顔絵体験は、旅の個人的な思い出として別途ご相談いただけます。"
+    ],
+    "title": "ヴュルツブルク観光：名所と似顔絵体験 | Würzburg Moments",
+    "description": "日本・中国からのドイツ旅行にヴュルツブルクを。レジデンツ、マリエンベルク要塞、アルテ・マイン橋と旧市街をご紹介。Phil Splashの写真からの似顔絵は{price}ユーロ、ライブ制作は{min}名様から。",
+    "nav": [
+      "街の見どころ",
+      "似顔絵",
+      "Philに会う",
+      "映像",
+      "よくある質問"
+    ],
+    "formMotifNote": "注文前に、街のモチーフ、形式、完成日、総額をご確認ください。"
   }
 }

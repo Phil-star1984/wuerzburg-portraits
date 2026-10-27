@@ -48,3 +48,162 @@ label{font-size:11px}input,select,textarea{font-size:14px}.city-card p{font-size
  .campaign-hero h1{font-size:clamp(64px,18vw,110px)}
  html:lang(de) .engraving-heading h2{font-size:clamp(36px,10.8vw,60px)}
 }
+/* Würzburg Moments: an open travel editorial, without nested presentation cards. */
+.moments .brand-name{display:block;font-size:29px;line-height:.88;letter-spacing:.15px}
+.moments .brand-line{display:flex;align-items:center;margin-top:3px}
+.moments .brand-star{font-size:26px;line-height:.7;margin-left:8px}
+.moments .brand-sub{font-size:6px;letter-spacing:1.1px;margin-top:9px}
+.moments .site-header{height:100px}
+.moments .desktop-nav{gap:24px}
+.moments .hero-copy{max-width:850px}
+.moments .hero-intro{max-width:390px;font-size:14px;line-height:1.85}
+.moments .hero-backdrop img{object-position:64% 38%}
+.hero-artwork{position:absolute;right:7%;bottom:80px;width:215px;z-index:3;transform:rotate(5deg);display:block;transition:transform .3s}
+.hero-artwork:hover{transform:rotate(0) translateY(-5px)}
+.hero-artwork img{width:100%;filter:drop-shadow(0 12px 18px #0004)}
+.hero-artwork>span{display:block;font-size:9px;font-weight:600;letter-spacing:1px;margin-top:12px}
+.hero-artwork>small{display:block;font-size:7px;line-height:1.6;color:#f2f1e9bb;margin-top:4px}
+.hero-image-label{position:absolute;right:30px;bottom:22px;font-size:8px;color:#f2f1e9c9;z-index:4}
+.destination-intro{padding-top:90px;padding-bottom:45px}
+.intro-columns{display:grid;grid-template-columns:1.15fr .85fr;gap:80px;align-items:center;margin-top:20px}
+.intro-columns h2{font-size:clamp(51px,5.7vw,86px)}
+.intro-columns>p{font-size:14px;line-height:1.95;max-width:450px}
+.moments .city-section{padding-top:55px;padding-bottom:75px}
+.moments .city-section .split-heading{margin-bottom:60px}
+.moments .city-section .split-heading h2{font-size:clamp(54px,6vw,90px)}
+.sight-stories{display:grid;gap:75px}
+.sight-story{display:grid;grid-template-columns:1.7fr 1fr;gap:65px;align-items:center}
+.sight-story figure{margin:0;min-width:0}
+.sight-story figure img{width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
+.sight-story figcaption{font-size:8px;color:#7c7e73;padding-top:9px}
+.sight-copy{max-width:360px;min-width:0}
+.sight-number{font-size:10px;letter-spacing:2px;display:block;margin-bottom:22px;color:#748055}
+.sight-copy .eyebrow{font-size:8px;letter-spacing:1px;line-height:1.8;color:#68705d}
+.sight-copy h3{font:800 47px/1 var(--display);text-transform:uppercase;letter-spacing:-.01em;margin:15px 0 22px}
+.sight-copy>p:not(.eyebrow){font-size:14px;line-height:1.9}
+.sight-copy .text-link{margin-top:24px;font-size:10px}
+.sight-story-1{grid-template-columns:1fr 1.7fr}
+.sight-story-1 figure{order:2}
+.sight-story-1 .sight-copy{order:1}
+.city-planning{display:flex;gap:50px;margin-top:55px;padding-top:20px;border-top:1px solid var(--line)}
+.city-planning p{font-size:10px;line-height:1.8;flex:1}
+.moments .collection-art{border:0;background:transparent;display:block;align-self:center;min-width:0;padding:0 20px}
+.moments #portrait-stage{width:100%;max-width:385px;margin:auto;transform:none;box-shadow:none}
+.moments #portrait-stage img{width:100%;height:auto;aspect-ratio:2/3;object-fit:contain;filter:drop-shadow(0 10px 20px #0002)}
+.moments #design-credit{padding:18px 0 0;text-align:center;font-size:9px;color:#b9c0ac}
+.moments #design-edition{display:block;text-align:center;font-size:7px;letter-spacing:1.5px;color:#9fa992;margin-top:9px}
+.moments .design-tab{border:0;border-bottom:1px solid #f2f1e94f;padding:12px 4px;background:none;color:var(--paper);min-width:82px;justify-content:center;font-size:12px}
+.moments .design-tab[aria-pressed=true]{background:none;border-bottom:3px solid var(--acid);color:var(--acid)}
+.moments .design-selector{gap:23px}
+.moments .portrait-steps{border-top:0;padding-top:10px}
+.live-encounter{background:#e7e4d9;padding-top:85px}
+.live-intro{display:grid;grid-template-columns:1.1fr .9fr;gap:85px;align-items:center;padding-bottom:55px}
+.live-intro h2{font-size:clamp(56px,6.4vw,95px);margin-top:20px}
+.live-details>p:not(.live-fact):not(.fine-print){font-size:14px;line-height:1.9}
+.live-details .live-fact{border:0;padding:0;font-size:10px;line-height:1.8;margin:24px 0 20px}
+.live-details>.fine-print{margin-top:18px;max-width:440px;font-size:10px}
+.moments .engraving-figure{max-width:1500px}
+.moments .engraving-figure img{display:block;max-height:820px;object-fit:cover}
+.moments .engraving-figure figcaption{border-bottom:0;padding-top:14px}
+.moments .artist-bio{padding-top:30px}
+.moments .originals-section{padding-top:65px;padding-bottom:65px}
+.moments .portrait-gallery figure{border:0;background:none;padding:0}
+.moments .portrait-gallery img{height:300px;background:transparent}
+.moments .portrait-gallery figcaption{font-size:7px;color:#737c64;text-align:center;display:block}
+.moments .films-section{background:var(--paper);color:var(--ink);padding-top:55px;padding-bottom:65px}
+.moments .films-section .section-heading>p:not(.eyebrow){color:var(--muted)}
+.moments .film-index{color:#68764e}
+.moments .film-info p,.moments .film-fallback{color:var(--muted)}
+.moments .contact{background:#e2e8d4}
+.moments .contact form{background:transparent;padding:0}
+.moments .contact input,.moments .contact textarea,.moments .contact select{background:transparent;border:0;border-bottom:1px solid #a9b39c;padding-left:0;padding-right:0}
+.operator-disclosure{font-size:9px;color:#9ea994;margin-top:25px;max-width:850px;line-height:1.8}
+@media(max-width:1150px){
+ .moments .desktop-nav{gap:17px;font-size:10px}
+ .hero-artwork{width:190px;right:6%}
+ .intro-columns{gap:50px}
+ .sight-story{gap:45px}
+ .sight-copy h3{font-size:40px}
+ .live-intro{gap:55px}
+}
+@media(max-width:940px){
+ .hero-artwork{width:170px;right:5%}
+ .moments .hero-intro{max-width:350px;font-size:13px}
+ .intro-columns{gap:35px}
+ .intro-columns h2{font-size:54px}
+ .sight-story,.sight-story-1{grid-template-columns:1.3fr 1fr;gap:30px}
+ .sight-copy h3{font-size:34px}
+ .sight-copy>p:not(.eyebrow){font-size:13px}
+ .live-intro{gap:35px}
+ .live-intro h2{font-size:61px}
+}
+@media(max-width:700px){
+ .moments .site-header{height:95px;padding-left:24px;padding-right:24px}
+ .moments .brand-name{font-size:27px}
+ .moments .brand-sub{font-size:5px;letter-spacing:1px}
+ .moments .hero-copy{padding-top:70px;padding-bottom:330px}
+ .moments .hero-intro{font-size:14px;max-width:335px}
+ .moments .hero-backdrop img{height:62%;min-height:500px;object-position:67% top}
+ .moments .hero-shade{background:linear-gradient(0deg,#132a30 0%,#132a30 18%,#132a3000 66%),linear-gradient(90deg,#07111272,transparent 94%)}
+ .hero-artwork{width:138px;right:35px;bottom:75px}
+ .hero-artwork>span{font-size:7px;margin-top:9px;letter-spacing:.5px}
+ .hero-artwork>small{font-size:6px;margin-top:4px;line-height:1.5}
+ .hero-image-label{font-size:7px;right:24px;bottom:22px}
+ .destination-intro{padding-top:60px;padding-bottom:25px}
+ .intro-columns{display:block;margin-top:18px}
+ .intro-columns h2{font-size:54px}
+ .intro-columns>p{font-size:14px;line-height:1.9;margin-top:25px}
+ .moments .city-section{padding-top:35px;padding-bottom:55px}
+ .moments .city-section .split-heading{margin-bottom:32px}
+ .moments .city-section .split-heading h2{font-size:57px}
+ .sight-stories{gap:45px}
+ .sight-story,.sight-story-1{display:flex;flex-direction:column;gap:20px;align-items:stretch}
+ .sight-story figure,.sight-story-1 figure{order:0}
+ .sight-copy,.sight-story-1 .sight-copy{order:1;max-width:none}
+ .sight-copy h3{font-size:38px;margin:11px 0 17px}
+ .sight-copy>p:not(.eyebrow){font-size:14px;line-height:1.9}
+ .sight-number{font-size:9px;margin-bottom:12px}
+ .sight-copy .eyebrow{font-size:8px}
+ .sight-copy .text-link{font-size:11px;margin-top:17px}
+ .sight-story figcaption{font-size:8px;padding-top:8px}
+ .city-planning{display:block;margin-top:35px;padding-top:15px}
+ .city-planning p{font-size:10px;margin-top:12px}
+ .moments .collection-art{padding:10px 0 0;align-self:stretch}
+ .moments #portrait-stage{max-width:290px}
+ .moments #design-credit{font-size:9px;line-height:1.7;max-width:310px;margin:auto}
+ .moments #design-edition{font-size:7px}
+ .moments .design-selector{gap:22px;margin-bottom:15px}
+ .moments .design-tab{min-width:75px;font-size:12px;padding:10px 4px}
+ .moments .design-description{margin-top:22px}
+ .live-encounter{padding-top:55px}
+ .live-intro{display:block;padding-bottom:30px}
+ .live-intro h2{font-size:58px;margin-top:18px}
+ .live-details{margin-top:25px}
+ .live-details>p:not(.live-fact):not(.fine-print){font-size:14px;line-height:1.9}
+ .live-details .live-fact{font-size:10px}
+ .live-details>.fine-print{font-size:10px}
+ .moments .engraving-figure img{height:auto;max-height:none;object-fit:contain}
+ .moments .engraving-figure figcaption{font-size:8px;line-height:1.8}
+ .moments .artist-bio{padding-top:25px}
+ .moments .originals-section{padding-top:50px;padding-bottom:40px}
+ .moments .portrait-gallery{gap:13px}
+ .moments .portrait-gallery img{height:155px}
+ .moments .portrait-gallery figcaption{font-size:4px;letter-spacing:.2px}
+ .moments .films-section{padding-top:35px;padding-bottom:45px}
+ .moments .contact form{padding:0;margin-top:35px}
+ .operator-disclosure{font-size:9px;line-height:1.9}
+ html:lang(zh-Hans) .intro-columns h2,html:lang(zh-Hant) .intro-columns h2,html:lang(ja) .intro-columns h2,html:lang(zh-Hans) .moments .city-section .split-heading h2,html:lang(zh-Hant) .moments .city-section .split-heading h2,html:lang(ja) .moments .city-section .split-heading h2,html:lang(zh-Hans) .live-intro h2,html:lang(zh-Hant) .live-intro h2,html:lang(ja) .live-intro h2{font-size:clamp(30px,8.4vw,46px);line-height:1.25}
+ html:lang(zh-Hans) .sight-copy h3,html:lang(zh-Hant) .sight-copy h3,html:lang(ja) .sight-copy h3{font-family:var(--sans);font-size:26px;font-weight:600;line-height:1.3}
+}
+@media(max-width:380px){
+ .moments .site-header{padding-left:20px;padding-right:20px}
+ .moments .brand-name{font-size:25px}
+ .moments .hero-intro{font-size:13px}
+ .hero-artwork{right:28px;width:133px}
+ .intro-columns h2{font-size:49px}
+ .moments .city-section .split-heading h2{font-size:50px}
+ .sight-copy h3{font-size:34px}
+ .moments #portrait-stage{max-width:250px}
+ .moments .portrait-gallery img{height:130px}
+ .live-intro h2{font-size:52px}
+}
