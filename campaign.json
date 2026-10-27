@@ -5,10 +5,10 @@
       "LOVE AT",
       "FIRST SIGHT."
     ],
-    "heroLead": "Travelling to Germany from China or Japan? Make room for Würzburg: a riverside fortress, UNESCO-listed splendour and a local artist who turns your visit into a portrait.",
+    "heroLead": "Visiting Germany from China or Japan? Make Würzburg personal: meet local portrait artist Phil Splash, have your travel group drawn live, or order a portrait from a photo before you arrive.",
     "photoCTA": "Your portrait · €{price}",
     "liveCTA": "Bring Phil to your group",
-    "heroEyebrow": "GERMANY, THROUGH A DIFFERENT LENS.",
+    "heroEyebrow": "DISCOVER WÜRZBURG. MEET PHIL SPLASH.",
     "ticket": "YOU × WÜRZBURG",
     "ticketNote": "An idea for your next favourite souvenir.",
     "conceptLabel": "AI design concept · final artwork by agreement",
@@ -43,13 +43,13 @@
     "designs": [
       [
         "City Color",
-        "Marienberg in your story",
-        "Bold portrait lines, turquoise accents and the fortress woven into the silhouette."
+        "Your portrait, your Würzburg collage",
+        "Your portrait with two separate ink vignettes: the Old Main Bridge and the real Marienberg silhouette. Turquoise, black and a small red accent."
       ],
       [
         "City Ink",
-        "The river in your lines",
-        "Black ink, a red accent and the Old Main Bridge becoming part of the portrait."
+        "Two views. One personal collage.",
+        "Expressive portrait lines and separate bridge and fortress sketches, with subtle city colours. Each view keeps its own perspective."
       ],
       [
         "Original",
@@ -77,8 +77,9 @@
     ],
     "liveLabel": "A SPECIAL STOP FOR YOUR CHINA OR JAPAN TOUR GROUP",
     "liveTitle": [
-      "MEET THE CITY.",
-      "BECOME THE ART."
+      "YOUR GROUP.",
+      "PHIL’S PEN.",
+      "A WÜRZBURG ORIGINAL."
     ],
     "liveText": "Travelling with a group from China or Japan? Add an encounter with a Würzburg artist to your Germany itinerary. Phil joins you at a suitable hotel or agreed venue and draws your guests live. Your guide plans the sightseeing; Phil creates the personal art moment.",
     "liveFact": "FROM {min} PEOPLE · INDIVIDUAL GROUP QUOTE",
@@ -103,7 +104,7 @@
     "stickyPhoto": "Portrait · €{price}",
     "stickyLive": "Group enquiry",
     "photoCredit": "Images & creative notes",
-    "creditIntro": "The city scenes on this page were newly created with AI without using the previous photographers’ images as references. They are artistic travel visualizations, not documentary photos. The copperplate scene and City Color / City Ink are also AI-developed concepts. Original portraits and the artist’s video stills are supplied from Phil Splash’s own material. Fonts are hosted locally under the SIL Open Font License.",
+    "creditIntro": "Images marked AI were generated using real location references and Phil’s own portrait and artist material. They are visualizations, not documentary photographs. The two city portraits are collage concepts; final artwork is agreed with Phil. Earlier image versions are preserved in the project archive. Location-reference credits and licenses are listed below. Original portraits and video stills remain Phil’s own material.",
     "discoverCTA": "Discover Würzburg",
     "brandSub": "BAVARIA · TRAVEL INSPIRATION · ART",
     "siteDisclosure": "Independent travel inspiration & portrait experiences, operated by Phil Splash. Not the official tourist information service.",
@@ -120,8 +121,8 @@
     ],
     "sightInfo": "Visitor information",
     "cityNotice": "Check official opening times and access before your visit. Parts of Marienberg Fortress are under restoration; this page does not sell landmark admission or a guided city tour.",
-    "aiLabel": "AI travel illustration",
-    "aiNotice": "Imagined with AI to evoke Würzburg. Architecture, viewpoints and details are artistically interpreted; these are not documentary photographs.",
+    "aiLabel": "AI-generated visualization",
+    "aiNotice": "Images marked AI are generated visualizations guided by real location references. The gallery imagines possible experiences; it does not document past events.",
     "sourceLabel": "Tourism facts: official sources",
     "faqTrip": [
       "Is Würzburg a good stop on a Germany trip from China or Japan?",
@@ -136,7 +137,24 @@
       "Films",
       "Questions"
     ],
-    "formMotifNote": "Please confirm the final city motif, format, deadline and total price before ordering."
+    "formMotifNote": "Please confirm the final city motif, format, deadline and total price before ordering.",
+    "heroLiveCTA": "Live portraits for your group",
+    "heroScene": "PHIL SPLASH × YOUR TRAVEL GROUP",
+    "galleryLabel": "YOUR GROUP. YOUR WÜRZBURG MOMENT.",
+    "galleryTitle": "A city visit with a face to remember.",
+    "galleryNote": "AI visualizations of possible portrait experiences, not photographs of past bookings. Locations and any required permissions are agreed individually.",
+    "galleryCaptions": [
+      "Old Main Bridge · a shared live-art moment",
+      "The handover · your first look at your portrait",
+      "Residence & Court Gardens · art meets baroque",
+      "Marienkapelle · a portrait to take home"
+    ],
+    "galleryAlts": [
+      "AI scene: Phil Splash in his Bavarian suit drawing with an adult travel group on the Old Main Bridge, Marienberg behind",
+      "AI scene: Phil showing a delighted Japanese visitor his portrait on the bridge",
+      "AI scene: Phil drawing an adult visitor beside the Residence and Court Gardens",
+      "AI scene: Phil presenting a portrait to a delighted Chinese visitor at Marienkapelle"
+    ]
   },
   "de": {
     "heroTitle": [
@@ -144,10 +162,10 @@
       "DEINE NEUE",
       "REISELIEBE."
     ],
-    "heroLead": "Ihr reist aus China oder Japan durch Deutschland? Plant Würzburg ein: Festung über dem Main, UNESCO-Welterbe und ein Künstler von hier, der euren Besuch als Porträt festhält.",
+    "heroLead": "Auf Deutschlandreise aus China oder Japan? Macht euren Würzburg-Stopp persönlich: Lasst euch vom Würzburger Schnellzeichner Phil Splash live als Reisegruppe porträtieren – oder bestellt euer Porträt vorab nach Foto.",
     "photoCTA": "Dein Porträt · {price} €",
     "liveCTA": "Phil für eure Gruppe",
-    "heroEyebrow": "DEUTSCHLAND ENTDECKEN. EINEN LIEBLINGSORT FINDEN.",
+    "heroEyebrow": "WÜRZBURG ENTDECKEN. PHIL SPLASH TREFFEN.",
     "ticket": "DU × WÜRZBURG",
     "ticketNote": "Eine Idee für dein neues Lieblingssouvenir.",
     "conceptLabel": "KI-Gestaltungsidee · finale Arbeit nach Absprache",
@@ -182,13 +200,13 @@
     "designs": [
       [
         "City Color",
-        "Marienberg in deiner Geschichte",
-        "Markante Porträtlinien, Türkis und die Festung als Teil deiner Silhouette."
+        "Dein Porträt, deine Würzburg-Collage",
+        "Dein Porträt mit zwei getrennten Tusche-Vignetten: Alte Mainbrücke und die reale Marienberg-Silhouette. Türkis, Schwarz und ein kleiner roter Akzent."
       ],
       [
         "City Ink",
-        "Der Main in deinen Linien",
-        "Schwarze Tusche, ein roter Akzent und die Alte Mainbrücke, die im Porträt weiterlebt."
+        "Zwei Ansichten. Deine Collage.",
+        "Ausdrucksstarke Porträtlinien und getrennte Skizzen von Brücke und Festung, mit dezenten Stadtfarben. Jede Ansicht behält ihre eigene Perspektive."
       ],
       [
         "Original",
@@ -216,8 +234,9 @@
     ],
     "liveLabel": "EIN BESONDERER STOPP FÜR REISEGRUPPEN AUS CHINA & JAPAN",
     "liveTitle": [
-      "DIE STADT TREFFEN.",
-      "SELBST KUNST WERDEN."
+      "EURE GRUPPE.",
+      "PHILS STIFT.",
+      "EIN WÜRZBURGER ORIGINAL."
     ],
     "liveText": "Ihr seid als Reisegruppe aus China oder Japan unterwegs? Ergänzt eure Deutschlandreise um eine Begegnung mit einem Würzburger Künstler. Phil kommt in ein geeignetes Hotel oder an einen vereinbarten Ort und porträtiert eure Gäste live. Eure Reiseleitung plant die Sehenswürdigkeiten; Phil schafft den persönlichen Kunstmoment.",
     "liveFact": "AB {min} PERSONEN · INDIVIDUELLES GRUPPENANGEBOT",
@@ -242,7 +261,7 @@
     "stickyPhoto": "Porträt · {price} €",
     "stickyLive": "Gruppenanfrage",
     "photoCredit": "Bildwelten & Gestaltung",
-    "creditIntro": "Die Stadtansichten dieser Seite wurden neu mit KI erzeugt, ohne die bisherigen Fotografenbilder als Vorlagen zu verwenden. Es sind künstlerische Reisevisualisierungen, keine dokumentarischen Fotos. Auch die Kupferstich-Szene und City Color / City Ink sind KI-Gestaltungskonzepte. Originalporträts und Video-Standbilder stammen aus Phils eigenem Material. Schriften werden lokal unter SIL Open Font License eingebunden.",
+    "creditIntro": "Mit AI markierte Bilder wurden mit realen Ortsreferenzen sowie Phils eigenen Porträt- und Künstlerbildern generiert. Sie sind Visualisierungen, keine dokumentarischen Fotos. Die beiden Stadtporträts sind Collage-Konzepte; die fertige Arbeit wird mit Phil vereinbart. Frühere Bildfassungen bleiben im Projektarchiv erhalten. Quellen und Lizenzen der Ortsreferenzen stehen unten. Originalporträts und Videobilder stammen weiterhin aus Phils eigenem Material.",
     "discoverCTA": "Würzburg entdecken",
     "brandSub": "BAYERN · REISEINSPIRATION · KUNST",
     "siteDisclosure": "Private Reiseinspiration und Porträt-Erlebnisse, betrieben von Phil Splash. Kein offizielles Angebot der Tourist-Information.",
@@ -259,8 +278,8 @@
     ],
     "sightInfo": "Besuchsinformationen",
     "cityNotice": "Öffnungszeiten und Zugänglichkeit vor dem Besuch bei den offiziellen Stellen prüfen. Teile der Festung Marienberg werden saniert. Diese Seite verkauft keine Eintrittskarten oder Stadtführungen.",
-    "aiLabel": "KI-Reiseillustration",
-    "aiNotice": "Mit KI als Reiseinspiration entwickelt. Architektur, Blickwinkel und Details sind künstlerisch interpretiert; es sind keine dokumentarischen Fotografien.",
+    "aiLabel": "KI-generierte Visualisierung",
+    "aiNotice": "Mit AI markierte Bilder sind generierte Visualisierungen nach realen Ortsreferenzen. Die Galerie zeigt mögliche Erlebnisse und dokumentiert keine vergangenen Veranstaltungen.",
     "sourceLabel": "Touristische Angaben: offizielle Quellen",
     "faqTrip": [
       "Warum Würzburg bei einer Deutschlandreise aus China oder Japan einplanen?",
@@ -275,7 +294,24 @@
       "Filme",
       "Fragen"
     ],
-    "formMotifNote": "Bitte Stadtmotiv, Format, Termin und Gesamtpreis vor der Bestellung bestätigen."
+    "formMotifNote": "Bitte Stadtmotiv, Format, Termin und Gesamtpreis vor der Bestellung bestätigen.",
+    "heroLiveCTA": "Live-Porträts für eure Gruppe",
+    "heroScene": "PHIL SPLASH × EURE REISEGRUPPE",
+    "galleryLabel": "EURE GRUPPE. EUER WÜRZBURG-MOMENT.",
+    "galleryTitle": "So persönlich kann ein Stadtbesuch werden.",
+    "galleryNote": "KI-Visualisierungen möglicher Porträt-Erlebnisse, keine Fotos bisheriger Buchungen. Ort und gegebenenfalls erforderliche Genehmigungen werden individuell vereinbart.",
+    "galleryCaptions": [
+      "Alte Mainbrücke · gemeinsam Kunst erleben",
+      "Die Übergabe · der erste Blick auf dein Porträt",
+      "Residenz & Hofgarten · Kunst trifft Barock",
+      "Marienkapelle · ein Porträt zum Mitnehmen"
+    ],
+    "galleryAlts": [
+      "KI-Szene: Phil Splash im Bayern-Anzug zeichnet mit einer erwachsenen Reisegruppe auf der Alten Mainbrücke, dahinter Marienberg",
+      "KI-Szene: Phil zeigt einem begeisterten japanischen Besucher sein Porträt auf der Mainbrücke",
+      "KI-Szene: Phil porträtiert einen erwachsenen Gast bei Residenz und Hofgarten",
+      "KI-Szene: Phil überreicht einer begeisterten chinesischen Besucherin ihr Porträt bei der Marienkapelle"
+    ]
   },
   "zh-cn": {
     "heroTitle": [
@@ -283,10 +319,10 @@
       "别错过",
       "维尔茨堡。"
     ],
-    "heroLead": "从中国或日本来德国旅行？把维尔茨堡加入行程：美因河上的老桥、山顶要塞、世界遗产，以及为你留下一幅专属肖像的本地艺术家。",
+    "heroLead": "从中国或日本开启德国之旅？让维尔茨堡这一站更有纪念意义：预约本地速写艺术家Phil Splash为旅行团现场画肖像，或在出发前发送照片定制肖像。",
     "photoCTA": "定制肖像 · {price}欧元",
     "liveCTA": "为旅行团预约 Phil",
-    "heroEyebrow": "发现德国，也发现属于你的心动之城。",
+    "heroEyebrow": "探索维尔茨堡，遇见PHIL SPLASH。",
     "ticket": "你 × 维尔茨堡",
     "ticketNote": "为下一件心爱的旅行纪念，找个灵感。",
     "conceptLabel": "AI 设计概念 · 最终作品另行确认",
@@ -321,13 +357,13 @@
     "designs": [
       [
         "City Color",
-        "把玛利恩堡画进你的故事",
-        "鲜明的肖像线条、蓝绿色点缀，以及融入人物轮廓的要塞。"
+        "你的肖像，你的维尔茨堡拼贴",
+        "将老美因桥与真实的玛利恩堡轮廓，作为两个独立的钢笔画片段融入肖像。绿松石色、黑色与少量红色点缀。"
       ],
       [
         "City Ink",
-        "让美因河流进你的线条",
-        "黑色墨线、一抹红色，老美因桥成为肖像的一部分。"
+        "两处风景，一幅专属拼贴。",
+        "富有表现力的肖像线条，搭配独立的桥梁与要塞速写及柔和城市色彩。每处景观保留各自自然的视角。"
       ],
       [
         "Original",
@@ -355,8 +391,9 @@
     ],
     "liveLabel": "为中国与日本旅行团增添一个特别的停靠点",
     "liveTitle": [
-      "不只游览城市，",
-      "也让自己成为艺术。"
+      "你的旅行团。",
+      "PHIL的画笔。",
+      "专属城市记忆。"
     ],
     "liveText": "跟随旅行团从中国或日本来德国？让行程多一次与维尔茨堡艺术家的真实相遇。Phil 可前往合适的酒店或约定场地，为团员现场画肖像。景点路线由您的导游安排，Phil 为大家创造专属的艺术时刻。",
     "liveFact": "{min}人起 · 专属团队报价",
@@ -381,7 +418,7 @@
     "stickyPhoto": "肖像 · {price}欧元",
     "stickyLive": "旅行团咨询",
     "photoCredit": "视觉创作说明",
-    "creditIntro": "本站城市画面均为新创作的 AI 旅行意境图，未使用此前摄影师的图片作为参考，不是实景摄影。铜版画场景及 City Color、City Ink 也是 AI 设计概念。原创肖像及艺术家视频截图来自 Phil 的自有素材。字体在本地提供，并依 SIL Open Font License 使用。",
+    "creditIntro": "带AI标记的图片参考真实地点资料及Phil本人的肖像作品与艺术家图片生成，并非纪实照片。两款城市肖像为拼贴设计构想，最终作品须与Phil协商。旧版图片仍保存在项目中。地点参考资料的来源与许可列于下方。原创肖像和视频画面仍来自Phil本人的素材。",
     "discoverCTA": "探索维尔茨堡",
     "brandSub": "巴伐利亚 · 旅行灵感 · 艺术体验",
     "siteDisclosure": "由 Phil Splash 运营的独立旅行灵感与肖像体验网站，并非官方旅游局网站。",
@@ -398,8 +435,8 @@
     ],
     "sightInfo": "查看参观信息",
     "cityNotice": "出行前请向官方渠道确认开放时间与参观条件。玛利恩堡要塞部分区域正在修缮。本站不销售景点门票或城市导览。",
-    "aiLabel": "AI 旅行意境图",
-    "aiNotice": "由 AI 创作的旅行灵感画面。建筑、视角与细节经过艺术化演绎，并非实景摄影。",
+    "aiLabel": "AI生成示意图",
+    "aiNotice": "带AI标记的图片参考真实地点资料生成。画廊展示可协商的体验构想，并非过去活动的记录。",
     "sourceLabel": "旅游信息：官方来源",
     "faqTrip": [
       "从中国或日本去德国旅行，为什么要安排维尔茨堡？",
@@ -414,7 +451,24 @@
       "观看影片",
       "常见问题"
     ],
-    "formMotifNote": "下单前请确认城市元素、作品形式、完成日期与总价。"
+    "formMotifNote": "下单前请确认城市元素、作品形式、完成日期与总价。",
+    "heroLiveCTA": "旅行团现场肖像体验",
+    "heroScene": "PHIL SPLASH × 你的旅行团",
+    "galleryLabel": "与旅伴一起，留下维尔茨堡的专属记忆。",
+    "galleryTitle": "让城市之旅，留下你的笑容。",
+    "galleryNote": "以下为AI生成的体验示意图，并非以往订单或活动的实拍照片。地点及所需许可须另行协商。",
+    "galleryCaptions": [
+      "老美因桥 · 与旅伴共享现场艺术",
+      "交付的瞬间 · 第一次看到自己的肖像",
+      "官邸与宫廷花园 · 艺术邂逅巴洛克",
+      "圣母礼拜堂 · 把旅行记忆带回家"
+    ],
+    "galleryAlts": [
+      "AI场景：身穿巴伐利亚菱格西装的Phil在老美因桥为成年旅行团画肖像，远处是玛利恩堡要塞",
+      "AI场景：日本游客在桥上欣喜地欣赏Phil为他画的肖像",
+      "AI场景：Phil在官邸与宫廷花园旁为成年游客画肖像",
+      "AI场景：Phil在圣母礼拜堂前向欣喜的中国游客展示肖像"
+    ]
   },
   "zh-tw": {
     "heroTitle": [
@@ -422,10 +476,10 @@
       "別錯過",
       "維爾茨堡。"
     ],
-    "heroLead": "從中國或日本來德國旅行？把維爾茨堡加入行程：美因河上的老橋、山頂要塞、世界遺產，以及為你留下一幅專屬肖像的在地藝術家。",
+    "heroLead": "從中國或日本展開德國之旅？讓維爾茨堡這一站更有紀念意義：預約在地速寫藝術家Phil Splash為旅行團現場畫肖像，或在出發前傳送照片訂製肖像。",
     "photoCTA": "訂製肖像 · {price}歐元",
     "liveCTA": "為旅行團預約 Phil",
-    "heroEyebrow": "發現德國，也發現屬於你的心動之城。",
+    "heroEyebrow": "探索維爾茨堡，遇見PHIL SPLASH。",
     "ticket": "你 × 維爾茨堡",
     "ticketNote": "為下一件心愛的旅行紀念，找個靈感。",
     "conceptLabel": "AI 設計概念 · 最終作品另行確認",
@@ -460,13 +514,13 @@
     "designs": [
       [
         "City Color",
-        "把瑪利恩堡畫進你的故事",
-        "鮮明的肖像線條、藍綠色點綴，以及融入人物輪廓的要塞。"
+        "你的肖像，你的維爾茨堡拼貼",
+        "將老美因橋與真實的瑪利恩堡輪廓，作為兩個獨立的鋼筆畫片段融入肖像。綠松石色、黑色與少量紅色點綴。"
       ],
       [
         "City Ink",
-        "讓美因河流進你的線條",
-        "黑色墨線、一抹紅色，老美因橋成為肖像的一部分。"
+        "兩處風景，一幅專屬拼貼。",
+        "富有表現力的肖像線條，搭配獨立的橋樑與要塞速寫及柔和城市色彩。每處景觀保留各自自然的視角。"
       ],
       [
         "Original",
@@ -494,8 +548,9 @@
     ],
     "liveLabel": "為中國與日本旅行團增添一個特別的停靠點",
     "liveTitle": [
-      "不只遊覽城市，",
-      "也讓自己成為藝術。"
+      "你的旅行團。",
+      "PHIL的畫筆。",
+      "專屬城市記憶。"
     ],
     "liveText": "跟隨旅行團從中國或日本來德國？讓行程多一次與維爾茨堡藝術家的真實相遇。Phil 可前往合適的飯店或約定場地，為團員現場畫肖像。景點路線由您的導遊安排，Phil 為大家創造專屬的藝術時刻。",
     "liveFact": "{min}人起 · 專屬團體報價",
@@ -520,7 +575,7 @@
     "stickyPhoto": "肖像 · {price}歐元",
     "stickyLive": "旅行團洽詢",
     "photoCredit": "視覺創作說明",
-    "creditIntro": "本站城市畫面均為新創作的 AI 旅行意境圖，未使用此前攝影師的圖片作為參考，不是實景攝影。銅版畫場景及 City Color、City Ink 也是 AI 設計概念。原創肖像及藝術家影片截圖來自 Phil 的自有素材。字型於本地提供，並依 SIL Open Font License 使用。",
+    "creditIntro": "帶AI標記的圖片參考真實地點資料及Phil本人的肖像作品與藝術家圖片生成，並非紀實照片。兩款城市肖像為拼貼設計構想，最終作品須與Phil協商。舊版圖片仍保存在專案中。地點參考資料的來源與許可列於下方。原創肖像和影片畫面仍來自Phil本人的素材。",
     "discoverCTA": "探索維爾茨堡",
     "brandSub": "巴伐利亞 · 旅行靈感 · 藝術體驗",
     "siteDisclosure": "由 Phil Splash 營運的獨立旅行靈感與肖像體驗網站，並非官方觀光單位網站。",
@@ -537,8 +592,8 @@
     ],
     "sightInfo": "查看參觀資訊",
     "cityNotice": "出行前請向官方管道確認開放時間與參觀條件。瑪利恩堡要塞部分區域正在修繕。本站不銷售景點門票或城市導覽。",
-    "aiLabel": "AI 旅行意境圖",
-    "aiNotice": "由 AI 創作的旅行靈感畫面。建築、視角與細節經過藝術化演繹，並非實景攝影。",
+    "aiLabel": "AI生成示意圖",
+    "aiNotice": "帶AI標記的圖片參考真實地點資料生成。畫廊展示可協商的體驗構想，並非過去活動的紀錄。",
     "sourceLabel": "旅遊資訊：官方來源",
     "faqTrip": [
       "從中國或日本去德國旅行，為什麼要安排維爾茨堡？",
@@ -553,7 +608,24 @@
       "觀看影片",
       "常見問題"
     ],
-    "formMotifNote": "下單前請確認城市元素、作品形式、完成日期與總價。"
+    "formMotifNote": "下單前請確認城市元素、作品形式、完成日期與總價。",
+    "heroLiveCTA": "旅行團現場肖像體驗",
+    "heroScene": "PHIL SPLASH × 你的旅行團",
+    "galleryLabel": "與旅伴一起，留下維爾茨堡的專屬記憶。",
+    "galleryTitle": "讓城市之旅，留下你的笑容。",
+    "galleryNote": "以下為AI生成的體驗示意圖，並非過往訂單或活動的實拍照片。地點及所需許可須另行協商。",
+    "galleryCaptions": [
+      "老美因橋 · 與旅伴共享現場藝術",
+      "交付的瞬間 · 第一次看到自己的肖像",
+      "官邸與宮廷花園 · 藝術邂逅巴洛克",
+      "聖母禮拜堂 · 把旅行記憶帶回家"
+    ],
+    "galleryAlts": [
+      "AI場景：身穿巴伐利亞菱格西裝的Phil在老美因橋為成年旅行團畫肖像，遠處是瑪利恩堡要塞",
+      "AI場景：日本遊客在橋上欣喜地欣賞Phil為他畫的肖像",
+      "AI場景：Phil在官邸與宮廷花園旁為成年遊客畫肖像",
+      "AI場景：Phil在聖母禮拜堂前向欣喜的中國遊客展示肖像"
+    ]
   },
   "ja": {
     "heroTitle": [
@@ -561,10 +633,10 @@
       "ときめく街。",
       "ヴュルツブルク。"
     ],
-    "heroLead": "日本や中国からドイツへ。ヴュルツブルクを旅の一場面にしませんか。川沿いの橋、丘の上の要塞、世界遺産。そして、あなたを描く地元のアーティスト。",
+    "heroLead": "日本や中国からドイツ旅行へ。ヴュルツブルクでは、地元の似顔絵アーティストPhil Splashに旅の思い出を描いてもらいませんか。グループでのライブ制作、または出発前に写真からの制作を相談できます。",
     "photoCTA": "似顔絵 · {price}ユーロ",
     "liveCTA": "団体で Phil を予約",
-    "heroEyebrow": "ドイツを知る旅で、好きになる街を見つけよう。",
+    "heroEyebrow": "ヴュルツブルクを歩き、PHIL SPLASHに会おう。",
     "ticket": "あなた × ヴュルツブルク",
     "ticketNote": "次のお気に入りのお土産に、こんな一枚。",
     "conceptLabel": "AIによるデザイン案 · 実際の作品はご相談のうえ決定",
@@ -599,13 +671,13 @@
     "designs": [
       [
         "City Color",
-        "あなたの物語に、マリエンベルクを",
-        "大胆な線とターコイズの色。要塞の風景が人物のシルエットにつながるデザイン。"
+        "あなたと街を、一枚のコラージュに",
+        "アルテ・マイン橋と実際のマリエンベルクの輪郭を、独立した二つのスケッチとして配置。ターコイズ、黒、小さな赤のアクセント。"
       ],
       [
         "City Ink",
-        "あなたの線に、マイン川を",
-        "黒いインクと少しの赤。アルテ・マイン橋を似顔絵に組み込むデザイン。"
+        "二つの景色、あなただけの一枚。",
+        "表情豊かな似顔絵と、橋・要塞の独立したスケッチ。街の淡い色と、それぞれの自然な視点を大切にした構成です。"
       ],
       [
         "Original",
@@ -633,8 +705,9 @@
     ],
     "liveLabel": "日本・中国からの団体旅行に、特別な立ち寄りを",
     "liveTitle": [
-      "街に会う。",
-      "あなたがアートになる。"
+      "旅の仲間と。",
+      "PHILのペンで。",
+      "街の思い出を。"
     ],
     "liveText": "日本や中国から団体でドイツへ。ヴュルツブルクのアーティストと出会う時間を、旅程に加えてみませんか。Phil が適切なホテルや合意した会場を訪れ、皆さまの似顔絵をその場で描きます。観光ルートはガイドが計画し、Phil は個人的なアートの時間をお届けします。",
     "liveFact": "{min}名様から · 団体向け個別お見積もり",
@@ -659,7 +732,7 @@
     "stickyPhoto": "似顔絵 · {price}ユーロ",
     "stickyLive": "団体のお問い合わせ",
     "photoCredit": "ビジュアル制作について",
-    "creditIntro": "街の風景は、以前使用した写真家の写真を参考画像に使わず、新たにAIで制作したイメージです。実際に撮影した写真ではありません。銅版画風の場面とCity Color・City InkもAIのデザイン案です。肖像原画と映像の静止画はPhil自身の素材より。フォントはSIL Open Font Licenseに基づきローカルで提供します。",
+    "creditIntro": "AIマーク付きの画像は、実在する場所の資料とPhil自身の作品・人物画像を参考に生成しています。記録写真ではありません。街を組み合わせた似顔絵はコラージュの制作案で、完成作品はPhilと相談して決定します。以前の画像もプロジェクトに保存しています。場所の参考資料の出典・ライセンスは下記をご覧ください。オリジナルの似顔絵と動画画像はPhil自身の素材です。",
     "discoverCTA": "ヴュルツブルクを知る",
     "brandSub": "バイエルン · 旅のヒント · アート",
     "siteDisclosure": "Phil Splash が運営する独立した旅のインスピレーションと肖像体験のサイトです。公式観光案内所のサイトではありません。",
@@ -676,8 +749,8 @@
     ],
     "sightInfo": "見学情報を見る",
     "cityNotice": "開館時間や見学条件は訪問前に公式情報をご確認ください。マリエンベルク要塞の一部は修復中です。このサイトでは名所の入場券や市内ガイドツアーを販売していません。",
-    "aiLabel": "AIによる旅のイメージ",
-    "aiNotice": "ヴュルツブルクを題材にAIで制作した旅のイメージです。建築、視点、細部は芸術的な解釈であり、実際の撮影写真ではありません。",
+    "aiLabel": "AI生成イメージ",
+    "aiNotice": "AIマーク付きの画像は、実在する場所の資料を参考に生成したイメージです。ギャラリーは体験の提案であり、過去のイベント写真ではありません。",
     "sourceLabel": "観光情報の公式出典",
     "faqTrip": [
       "日本や中国からのドイツ旅行で、ヴュルツブルクを訪れる理由は？",
@@ -692,6 +765,23 @@
       "映像",
       "よくある質問"
     ],
-    "formMotifNote": "注文前に、街のモチーフ、形式、完成日、総額をご確認ください。"
+    "formMotifNote": "注文前に、街のモチーフ、形式、完成日、総額をご確認ください。",
+    "heroLiveCTA": "グループでライブ似顔絵",
+    "heroScene": "PHIL SPLASH × あなたの旅行グループ",
+    "galleryLabel": "仲間と楽しむ、特別な旅のひととき。",
+    "galleryTitle": "街の思い出に、あなたの表情を。",
+    "galleryNote": "AIで制作した体験イメージです。実際の依頼・イベントの記録写真ではありません。会場と必要な許可は個別に相談します。",
+    "galleryCaptions": [
+      "アルテ・マイン橋 · 仲間と楽しむライブアート",
+      "手渡す瞬間 · 初めて見る自分の似顔絵",
+      "レジデンツと宮廷庭園 · バロックとアート",
+      "マリエンカペレ · 持ち帰る旅の思い出"
+    ],
+    "galleryAlts": [
+      "AIイメージ：マリエンベルク要塞を背景に、バイエルン柄のスーツのPhilがアルテ・マイン橋で大人の旅行グループを描く",
+      "AIイメージ：橋の上で似顔絵を見て喜ぶ日本人旅行者とPhil",
+      "AIイメージ：レジデンツと宮廷庭園で大人の旅行者を描くPhil",
+      "AIイメージ：マリエンカペレ前で中国人旅行者に似顔絵を手渡すPhil"
+    ]
   }
 }

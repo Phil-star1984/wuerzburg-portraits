@@ -13,6 +13,7 @@
     if (index < 0) return;
     const design = designData.designs[index];
     designSelect.value = key;
+    document.getElementById('design-ai-badge').hidden = !design.isConcept;
     const image = document.getElementById('design-image');
     image.src = design.file;
     image.alt = design.heading + ' — ' + (design.isConcept ? designData.conceptLabel : designData.originalLabel);

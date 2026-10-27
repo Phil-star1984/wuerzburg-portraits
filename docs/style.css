@@ -207,3 +207,85 @@ label{font-size:11px}input,select,textarea{font-size:14px}.city-card p{font-size
  .moments .portrait-gallery img{height:130px}
  .live-intro h2{font-size:52px}
 }
+/* Reference-guided scenes: one typography system, small external AI marks. */
+.ai-badge{position:absolute;right:12px;bottom:12px;z-index:5;display:flex;align-items:center;justify-content:center;width:30px;height:30px;border:1px solid #fff9;border-radius:50%;background:#131614d9;color:#fff;font:600 10px/1 var(--sans);letter-spacing:.02em;box-shadow:0 1px 8px #0002}
+.ai-badge:hover{background:var(--ink);color:var(--acid)}
+.hero-ai{right:26px;bottom:24px}
+.hero-encounter{position:absolute;z-index:3;right:5%;bottom:95px;width:330px;max-width:36%;margin:0}
+.hero-encounter img{width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
+.hero-encounter figcaption{font:600 10px/1.7 var(--sans);letter-spacing:.05em;margin-top:12px;color:var(--paper)}
+.hero-encounter .ai-badge{bottom:46px}
+.moments .hero-intro{max-width:420px}
+.moments .hero-backdrop img{object-position:64% 45%}
+.moments .hero-copy .eyebrow{font-size:10px;line-height:1.7}
+.moments .hero-copy{padding-top:95px}
+.moments .campaign-hero{min-height:800px}
+.experience-section{padding-bottom:50px}
+.gallery-heading{display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:end;margin-bottom:30px}
+.gallery-heading h3{font:600 24px/1.35 var(--sans);letter-spacing:-.03em;margin-top:12px;max-width:420px}
+.gallery-heading>p{font-size:11px;line-height:1.85;max-width:470px}
+.experience-gallery{display:grid;grid-template-columns:1fr 1fr;gap:35px 24px}
+.experience-scene{min-width:0}
+.scene-image{position:relative;overflow:hidden}
+.scene-image img{width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
+.experience-scene figcaption{font:400 11px/1.7 var(--sans);letter-spacing:0;color:var(--muted);margin-top:12px;display:flex;gap:15px;align-items:baseline}
+.experience-scene figcaption>span{font-size:10px;color:#69704e}
+.moments #portrait-stage{position:relative}
+#design-ai-badge .ai-badge{right:12px;bottom:12px}
+.moments .sight-stories{grid-template-columns:repeat(3,minmax(0,1fr));gap:45px}
+.moments .sight-story,.moments .sight-story-1{display:block}
+.moments .sight-copy{max-width:none}
+.moments .sight-copy h3{font:800 clamp(30px,3.2vw,44px)/1.05 var(--display);letter-spacing:-.015em;margin:15px 0 20px}
+.moments .sight-copy>p:not(.eyebrow){font-size:14px;line-height:1.85}
+.moments .city-section{padding-top:35px}
+.moments .eyebrow{font-size:10px;letter-spacing:.1em;line-height:1.7}
+.reference-credits a{text-decoration:underline;text-underline-offset:3px}
+.reference-credits li{margin:14px 0;line-height:1.8}
+html:lang(ja),html:lang(zh-Hans),html:lang(zh-Hant){--sans:Space,'Noto Sans CJK SC','Noto Sans CJK TC','Hiragino Kaku Gothic ProN','Yu Gothic','Microsoft YaHei',Arial,sans-serif}
+html:lang(ja) .moments h1,html:lang(zh-Hans) .moments h1,html:lang(zh-Hant) .moments h1,html:lang(ja) .moments h2,html:lang(zh-Hans) .moments h2,html:lang(zh-Hant) .moments h2{font-family:var(--sans);font-weight:600;letter-spacing:-.025em}
+html:lang(ja) .moments .sight-copy h3,html:lang(zh-Hans) .moments .sight-copy h3,html:lang(zh-Hant) .moments .sight-copy h3{font-family:var(--sans);font-weight:600;font-size:27px;line-height:1.35;letter-spacing:0}
+@media(min-width:1400px){.hero-encounter{width:420px;right:6%;bottom:85px}.moments .hero-intro{max-width:460px}}
+@media(max-width:940px){.hero-encounter{width:295px}.moments .hero-intro{max-width:390px}.moments .sight-stories{gap:27px}.gallery-heading{gap:35px}.moments .live-intro h2{font-size:clamp(44px,6vw,61px)}}
+@media(max-width:700px){
+ .moments .campaign-hero{min-height:1010px;height:auto;max-height:none}
+ .moments .hero-copy{padding-top:75px;padding-bottom:345px}
+ .moments .hero-intro{font-size:14px;line-height:1.85;max-width:370px}
+ .moments .hero-copy .eyebrow{font-size:9px;letter-spacing:.08em}
+ .moments .hero-backdrop img{height:64%;min-height:560px;object-position:66% center}
+ .hero-encounter{width:260px;max-width:calc(100% - 48px);right:24px;bottom:82px}
+ .hero-encounter figcaption{font-size:9px;margin-top:10px}
+ .hero-encounter .ai-badge{bottom:39px}
+ .hero-ai{right:24px;bottom:22px}
+ .moments .hero-scroll{font-size:10px;max-width:65%;gap:20px}
+ .gallery-heading{display:block;margin-bottom:24px}
+ .gallery-heading h3{font-size:23px;line-height:1.4}
+ .gallery-heading>p{font-size:11px;margin-top:18px;line-height:1.85}
+ .experience-gallery{grid-template-columns:1fr;gap:28px}
+ .experience-section{padding-bottom:30px}
+ .experience-scene figcaption{font-size:11px;margin-top:10px;gap:12px}
+ .moments .sight-stories{grid-template-columns:1fr;gap:36px}
+ .moments .sight-copy h3{font-size:36px}
+ .moments .eyebrow{font-size:9px;letter-spacing:.08em}
+ .moments .live-intro h2{font-size:clamp(38px,10vw,66px);line-height:.98}
+ html:lang(ja) .moments .live-intro h2,html:lang(zh-Hans) .moments .live-intro h2,html:lang(zh-Hant) .moments .live-intro h2{font-size:clamp(30px,8.4vw,46px);line-height:1.3}
+ html:lang(ja) .moments .sight-copy h3,html:lang(zh-Hans) .moments .sight-copy h3,html:lang(zh-Hant) .moments .sight-copy h3{font-size:27px}
+}
+@media(max-width:380px){.moments .hero-intro{font-size:13px}.hero-encounter{width:245px;right:20px}.moments .hero-buttons .button{font-size:10px;padding:13px 14px;gap:14px}.moments .campaign-hero{min-height:1010px}}
+
+html:lang(ja){--sans:Space,'Noto Sans CJK JP','Hiragino Kaku Gothic ProN','Yu Gothic',Arial,sans-serif}
+html:lang(zh-Hans){--sans:Space,'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif}
+html:lang(zh-Hant){--sans:Space,'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei',Arial,sans-serif}
+@media(max-width:700px){
+ .hero-encounter{width:calc(100% - 48px);max-width:none;right:24px;bottom:82px}
+ .moments .hero-scroll{bottom:22px;left:24px;right:auto;display:inline-flex;flex-direction:row;align-items:center;gap:20px;max-width:65%}
+ .moments .hero-scroll>span:last-child{font-size:23px}
+}
+@media(max-width:380px){.hero-encounter{width:calc(100% - 40px);right:20px}.moments .hero-scroll{left:20px}}
+/* Let translated hero copy determine its own height on phones. */
+@media(max-width:700px){
+ .moments .campaign-hero{min-height:0;height:auto;max-height:none;padding-bottom:82px}
+ .moments .hero-copy{padding-top:75px;padding-bottom:32px}
+ .hero-encounter{position:relative;right:auto;bottom:auto;width:calc(100% - 48px);max-width:none;margin:0 24px}
+ .moments .hero-backdrop img{height:100%;min-height:0}
+}
+@media(max-width:380px){.hero-encounter{width:calc(100% - 40px);margin:0 20px}}

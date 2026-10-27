@@ -38,7 +38,7 @@ Nach der Veröffentlichung: Von der bestehenden Künstlerwebsite auf die Sprachs
 
 Die Buttons wählen das passende Angebot vor. Die Maske bereitet eine strukturierte englische E-Mail inklusive bevorzugter Korrespondenzsprache vor. Keine automatische Zusendung, keine Foto-Uploads und keine serverseitige Speicherung. Kopierfunktion und sichtbarer Text als Alternative zum E-Mail-Programm. Fotos werden nach Vereinbarung als E-Mail-Anhang geschickt.
 
-Die Motivauswahl bietet City Color, City Ink und Original. Das gewählte Motiv erscheint in der E-Mail-Anfrage. City Color und City Ink sind als KI-Gestaltungskonzepte gekennzeichnet; fertige Hintergründe und Mehrarbeit werden vor einer Bestellung vereinbart.
+Die Motivauswahl bietet City Color, City Ink und Original. Die neuen Stadtkonzepte sind bewusst Collagen mit getrennten Ortsansichten; sie suggerieren keine unmögliche durchgehende Perspektive. Das gewählte Motiv erscheint in der E-Mail-Anfrage. City Color und City Ink sind als KI-Gestaltungskonzepte gekennzeichnet; fertige Hintergründe und Mehrarbeit werden vor einer Bestellung vereinbart.
 
 YouTube lädt erst nach expliziter Zustimmung im Video-Dialog. Beim Schließen wird die Verbindung beendet; die Zustimmung wird nicht gespeichert. Keine Analysewerkzeuge oder externen Fonts.
 
@@ -49,15 +49,15 @@ YouTube lädt erst nach expliziter Zustimmung im Video-Dialog. Beim Schließen w
 - Originalporträts: vom Nutzer bereitgestellte eigene Galerie https://phil-splash.imgbb.com/albums (Vietnam 2026, VR Bank Würzburg, ServiceNow).
 - Live-Bild und erster Film: https://www.youtube.com/watch?v=4OF5U2tFSXY
 - Zweiter Film/Vorschaubild: https://www.youtube.com/watch?v=YGdoD-1dvJ4
-- Aktuelle Stadtbilder: neu mit dem eingebauten Bildgenerator erzeugte Reiseillustrationen (`assets/moments-*.webp`), ohne die zuvor verwendeten Fotografenbilder als Vorlagen. Alle Stadtansichten sind als KI-Interpretationen kenntlich gemacht; sie sind keine dokumentarischen Ansichten. Architektur und Blickwinkel können von der Realität abweichen.
+- Aktuelle Bildwelt: sieben referenzgestützt mit dem eingebauten Bildgenerator erzeugte Motive (`assets/*-v2.webp`) plus zwei responsive Fassungen. Reale Ortsansichten geben Silhouetten und Perspektiven vor; Phil ist anhand eigener Künstlerbilder dargestellt. Kleine runde AI-Overlays verweisen auf die Bildhinweise. Die Galerie zeigt mögliche Buchungsszenen, keine dokumentierten Veranstaltungen. Prompts: `CREATIVE_NOTES.md`. Ortsreferenzen, Bearbeitungen und Lizenzen: `image-references.json`; auch im Bildernachweis jeder Sprachseite genannt. Die auf DXR-Ansichten beruhenden Bilddateien werden unter CC BY-SA 3.0 veröffentlicht. Das gilt nicht pauschal für Website oder unveränderte Originalporträts.
 - Die vorherigen fremden Stadtfotografien wurden aus dem aktuellen Webauftritt entfernt. Ihre früheren Quellen und Lizenzangaben bleiben zur Dokumentation unter `archive/previous-photo-credits.json` erhalten. Dies ist kein aktuelles Bilderverzeichnis der Website.
-- Neue Bildkonzepte: `assets/phil-mainbridge-engraving.webp`, `assets/portrait-city-color.webp`, `assets/portrait-city-ink.webp`. Mit dem eingebauten Bildgenerator entwickelt; auf der Seite klar als Illustration bzw. Gestaltungsidee gekennzeichnet. Keine historischen Nachweise, dokumentierten Termine oder zugesicherten fertigen Produktproben. Referenzen und vollständige Prompts: `CREATIVE_NOTES.md`.
+- Frühere Bildkonzepte (erhalten, derzeit nicht eingesetzt): `assets/phil-mainbridge-engraving.webp`, `assets/portrait-city-color.webp`, `assets/portrait-city-ink.webp`. Mit dem eingebauten Bildgenerator entwickelt; auf der Seite klar als Illustration bzw. Gestaltungsidee gekennzeichnet. Keine historischen Nachweise, dokumentierten Termine oder zugesicherten fertigen Produktproben. Referenzen und vollständige Prompts: `CREATIVE_NOTES.md`.
 - Lokal eingebundene Schriften: Barlow Condensed und Space Grotesk, Lizenztexte in `assets/fonts/`.
 - Tourismus: https://www.wuerzburg.de/en/
 
 Impressum und Datenschutzhinweise verwenden vorhandene öffentliche Anbieterangaben und beschreiben die implementierte Funktion. Ggf. vorhandene USt-IdNr./W-IdNr., aktuelle Anbieterangaben sowie die steuerliche Behandlung des Endpreises sind vom Betreiber zu ergänzen bzw. zu bestätigen. Nicht bestätigte Leistungsversprechen (feste Dauer, Liefergarantie, regelmäßiger Standplatz, enthaltene Live-Übersetzung) werden nicht gemacht.
 
-Inhalte und Kunstwerke © Phil Splash. Keine offene Lizenz für Kunstwerke oder Marketingmaterial.
+Inhalte und Originalkunstwerke © Phil Splash. Ausgenommen sind ausdrücklich lizenzierte Referenzen und daraus abgeleitete Bilddateien gemäß `image-references.json`. Alle früheren Motive bleiben unverändert erhalten; Übersicht: `archive/visual-history.md`.
 
 ## Touristische Fakten
 
