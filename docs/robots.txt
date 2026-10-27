@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://phil-star1984.github.io/wuerzburg-portraits/sitemap.xml

@@ -1,0 +1,25 @@
+# Phil Splash — Portrait experiences in Würzburg
+
+> Official landing page for Phil Splash (Philipp Mulfinger), a portrait artist based in Würzburg, Bavaria, Germany. His mission is to portray one million people. His project started in Munich’s underground in 2010.
+
+## Services
+- Live portrait sessions for tour groups from 10 people in Würzburg and Mainfranken; other Bavarian locations on request. Advance booking, suitable location and individual quote required. No scheduled street presence or public walk-in studio.
+- Portraits commissioned from photos: EUR 30 per portrait. Larger orders: ask for a group quote. Format, special backgrounds, deadline and handover agreed before ordering. A Marienberg Fortress background may be requested; the image on the page is a layout concept.
+- Enquiries are non-binding. No instant availability, guaranteed same-day service or automatic contract.
+
+## Contact
+- Email: info@phil-splash.de
+- Enquiry form: https://phil-star1984.github.io/wuerzburg-portraits/#enquire (prepares an email in the visitor’s email app; does not send automatically)
+- Machine-readable service facts: https://phil-star1984.github.io/wuerzburg-portraits/facts.json
+
+## Language pages
+- English: https://phil-star1984.github.io/wuerzburg-portraits/
+- 简体中文: https://phil-star1984.github.io/wuerzburg-portraits/zh-cn/
+- 繁體中文: https://phil-star1984.github.io/wuerzburg-portraits/zh-tw/
+- 日本語: https://phil-star1984.github.io/wuerzburg-portraits/ja/
+- Deutsch: https://phil-star1984.github.io/wuerzburg-portraits/de/
+
+## Artist sources
+- https://www.phil-splash.de/
+- https://www.youtube.com/@Theartistphil
+- https://phil-splash.imgbb.com/albums

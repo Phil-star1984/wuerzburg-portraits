@@ -1,0 +1,36 @@
+{
+  "name": "Phil Splash — Würzburg portraits",
+  "artist": "Philipp Mulfinger",
+  "location": "Würzburg, Bavaria, Germany",
+  "email": "info@phil-splash.de",
+  "bookingRequired": true,
+  "walkIn": false,
+  "offers": [
+    {
+      "type": "live portrait session",
+      "minimumGroupSize": 10,
+      "price": "Individual quote",
+      "area": [
+        "Würzburg",
+        "Mainfranken",
+        "Bavaria by request"
+      ]
+    },
+    {
+      "type": "Portrait from photo",
+      "price": 30,
+      "currency": "EUR",
+      "unit": "per portrait",
+      "notes": "Special backgrounds, format, deadline and handover agreed before ordering."
+    }
+  ],
+  "languages": {
+    "en": "https://phil-star1984.github.io/wuerzburg-portraits/",
+    "zh-cn": "https://phil-star1984.github.io/wuerzburg-portraits/zh-cn/",
+    "zh-tw": "https://phil-star1984.github.io/wuerzburg-portraits/zh-tw/",
+    "ja": "https://phil-star1984.github.io/wuerzburg-portraits/ja/",
+    "de": "https://phil-star1984.github.io/wuerzburg-portraits/de/"
+  },
+  "bookingUrl": "https://phil-star1984.github.io/wuerzburg-portraits/#enquire",
+  "sourceWebsite": "https://www.phil-splash.de/"
+}
