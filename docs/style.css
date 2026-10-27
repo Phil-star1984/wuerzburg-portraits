@@ -289,3 +289,10 @@ html:lang(zh-Hant){--sans:Space,'Noto Sans CJK TC','PingFang TC','Microsoft Jhen
  .moments .hero-backdrop img{height:100%;min-height:0}
 }
 @media(max-width:380px){.hero-encounter{width:calc(100% - 40px);margin:0 20px}}
+
+/* Restored people-free destination illustrations. */
+.moments .sight-image{position:relative;margin:0 0 25px}
+.moments .sight-image img{width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
+.moments .legal-details h3{font:600 15px/1.5 var(--sans);letter-spacing:0;margin:25px 0 10px;text-transform:none}
+.moments .legal-details p{max-width:950px;line-height:1.9}
+@media(max-width:700px){.moments .sight-image{margin-bottom:22px}.moments .legal-details h3{font-size:14px}}

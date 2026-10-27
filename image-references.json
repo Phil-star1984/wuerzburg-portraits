@@ -1,38 +1,38 @@
 [
   {
-    "label": "AI: moments-hero-v2, portrait-city-color-v2, portrait-city-ink-v2",
+    "label": "AI: moments-hero-v2, portrait-city-color-v2, portrait-city-ink-v2; portrait-city-color-v3, portrait-city-ink-v3",
     "author": "Daniel Vorndran / DXR",
     "reference": "Alte Mainbrücke and Festung Marienberg, North View 20140604",
     "source": "https://commons.wikimedia.org/wiki/File:Alte_Mainbr%C3%BCcke_and_Festung_Marienberg,_North_View_20140604.jpg",
     "license": "CC BY-SA 3.0 · reference and derived image files",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "changes": "AI adaptation: sunset lighting, expanded sky/water; portrait collages in separate illustrated panels. No endorsement by the photographer."
+    "changes": "AI adaptation: sunset lighting and expanded sky/water; v2 portrait collages and v3 portraits with a narrow continuous grey panorama. No endorsement by the photographer."
   },
   {
-    "label": "AI: experience-group-v2, experience-handover-v2, portrait-city-color-v2, portrait-city-ink-v2",
+    "label": "AI: experience-group-v2, experience-handover-v2, portrait-city-color-v2, portrait-city-ink-v2; experience-group-v3, experience-handover-v3",
     "author": "Daniel Vorndran / DXR",
     "reference": "Alte Mainbrücke and Festung Marienberg, East View 20140604",
     "source": "https://commons.wikimedia.org/wiki/File:Alte_Mainbr%C3%BCcke_and_Festung_Marienberg,_East_View_20140604.jpg",
     "license": "CC BY-SA 3.0 · reference and derived image files",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "changes": "AI adaptation: imagined artist and travel-group scenes, new lighting and framing; illustrated portrait collages. No endorsement by the photographer."
+    "changes": "AI adaptation: imagined artist and travel-group scenes, lighting and framing; v3 scenes use iPad and Apple Pencil. The v2 portrait collages also use this reference. No endorsement by the photographer."
   },
   {
-    "label": "AI: experience-garden-v2",
+    "label": "AI: experience-garden-v2, experience-garden-v3",
     "author": "Dr.Xos",
     "reference": "Residenz Würzburg mit Hofgarten hinten",
     "source": "https://commons.wikimedia.org/wiki/File:Residenz_W%C3%BCrzburg_mit_Hofgarten_hinten.jpg",
     "license": "CC0 · location reference",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "AI visualization with an imagined artist encounter, retaining the referenced garden façade. Not a real booking photograph."
+    "changes": "AI visualization with an imagined artist encounter, retaining the referenced garden façade. Not a real booking photograph. V3 replaces paper with iPad and Apple Pencil."
   },
   {
-    "label": "AI: experience-market-v2",
+    "label": "AI: experience-market-v2, experience-market-v3",
     "author": "Daderot",
     "reference": "Marienkapelle Würzburg - DSC02778.JPG",
     "source": "https://commons.wikimedia.org/wiki/File:Marienkapelle_W%C3%BCrzburg_-_DSC02778.JPG",
     "license": "CC0 · location reference",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "AI visualization with an imagined portrait handover, lighting and foreground changes. Not a real booking photograph."
+    "changes": "AI visualization with an imagined portrait handover, lighting and foreground changes. Not a real booking photograph. V3 replaces paper with iPad and Apple Pencil."
   }
 ]

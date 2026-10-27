@@ -1,3 +1,53 @@
+# iPad und schmale Stadtlinie – Überarbeitung 27.10.2026
+
+Sechs neue Motive mit dem eingebauten Bildgenerator, keine CLI/API. Vier präzise Geräte-Edits, zwei neue Porträtkonzepte mit jeweils anschließender Verkleinerung des Stadtstreifens. Alte Websitefassungen unverändert in archive/2026-10-27-before-ipad-and-line-panorama/. Reine ursprüngliche KI-Sehenswürdigkeitenbilder wieder in der Highlights-Sektion.
+
+## experience-group-v3.webp
+
+Gespeichert: assets/experience-group-v3.webp
+
+Use case: precise-object-edit. Edit this exact Würzburg bridge group scene. Change ONLY the drawing medium and held portrait objects. Phil Splash, same man in blue-white Bavarian suit, same energetic wide lunge, is drawing DIGITALLY on a slim 13-inch iPad Pro held naturally in his left hand, using a WHITE Apple Pencil in his right hand touching the glass screen. The iPad must visibly be a tablet: thin black bezel, metallic grey back, no paper, no spiral binding, no clipboard, no black marker. Screen orientation toward Phil, plausible perspective, a little edge/glass visible. Replace the TWO paper portraits held by guests with normal small smartphones showing their black-line digital portraits on white screens; or guests simply hold their phones naturally with no paper. Preserve every person's exact face, anatomy, clothes, count, happy interaction, bridge, statues, fortress, buildings, camera angle, light, color and 3:2 framing. This is an imagined campaign scene, not a real event photograph. No text, logos or AI label burned into image.
+
+## experience-handover-v3.webp
+
+Gespeichert: assets/experience-handover-v3.webp
+
+Use case: precise-object-edit. Edit this exact close-up portrait reveal scene on Würzburg's Old Main Bridge. Replace ONLY the central white PAPER PORTRAIT with a real-looking slim 13-inch iPad Pro held upright portrait orientation, black glass bezel and thin metallic edge. The same expressive black-line digital portrait of the young smiling visitor with small turquoise/red accents appears on the bright white iPad SCREEN. Phil holds the lower and upper right side of tablet; the delighted visitor lightly holds left edge. Preserve plausible fingers grasping a solid tablet, no paper flapping, no clipboard, no spiral, no printed sheet anywhere. Phil also holds a slim WHITE Apple Pencil naturally against the tablet edge in one hand. Preserve EXACT recognizable Phil face/hair/hat/sunglasses/Bavarian suit, all other people and their expressions, actual fortress and bridge background, camera crop, 3:2 ratio and warm afternoon light. Only device and local hand positions may change enough for a correct grip. No text, logo or AI badge inside image. The website labels this an AI visualization, not a real booking photo.
+
+## experience-garden-v3.webp
+
+Gespeichert: assets/experience-garden-v3.webp
+
+Use case: precise-object-edit. Edit this EXACT portrait drawing scene by Würzburg Residence. Change ONLY drawing tools and portrait display devices. Replace Phil's spiral-bound white sketchpad with a slim 13-inch iPad Pro: thin metallic grey body, black glass bezel, white digital drawing canvas on screen showing the same woman's bold black-line portrait. Replace black marker in his drawing hand with a WHITE Apple Pencil contacting glass naturally. No paper, no spiral binding, no clipboard, no sketchbook. Replace the portrait sheet held by guest behind with a small smartphone displaying her digital portrait on white screen, held naturally; no physical printed portraits anywhere. Preserve ALL faces, bodies, clothes, artist's exact likeness, Bavarian suit, hat, sunglasses, seating poses, tourists, accurate Residence façade and garden, colors, framing and light. Only local hand positions can adjust for devices. Photorealistic tablet edges/glass and plausible pencil grip. No text, logos or AI badge in image. AI campaign visualization, not actual booking photography.
+
+## experience-market-v3.webp
+
+Gespeichert: assets/experience-market-v3.webp
+
+Use case: precise-object-edit. Edit this exact imagined portrait reveal at Würzburg Marienkapelle. Replace ONLY the large physical portrait sheet held by Phil and the delighted woman with a slim 13-inch iPad Pro held upright in portrait orientation. It is recognizably a real tablet: black glass bezel, rounded corners, thin metallic edges, bright white SCREEN displaying exactly the existing bold black-line portrait with turquoise jacket accent. Phil supports right and lower edge, woman lightly touches left edge; hands naturally grip a rigid tablet. Phil holds a WHITE Apple Pencil naturally near one side of device. No physical paper portrait, no clipboard, no spiral binding, no printed sheet. Keep exact Phil identity, curly hair, hat/sunglasses, blue-white Bavarian suit; preserve ALL faces, visitors, joyful expressions, camera, 3:2 framing, real Marienkapelle and market background, warm light and colors. Only device and local fingers change. No text/logo/watermark or AI badge in pixels. Website labels AI visualization, not documentary event photo.
+
+## portrait-city-color-v3.webp
+
+Gespeichert: assets/portrait-city-color-v3.webp
+
+Use case: compositing. Create ONE flat vertical 2:3 portrait artwork concept, plain white background, no frame, no paper collage edges. Input1 is Phil Splash's ORIGINAL portrait: preserve the exact bold black marker likeness of the woman with black bob, eyes, red lips, turquoise shirt and necklace; portrait dominates the upper 85 percent of the whole sheet. Remove original text/signature. Input2 is a real GEOGRAPHIC reference for one continuous Würzburg panorama: Alte Mainbrücke crossing from LEFT edge to mid-left riverbank, Marienberg Fortress on hill at RIGHT, actual low long fortress silhouette, small riverside buildings at base. In ONLY the bottom 12-15 PERCENT of the total sheet, draw this ENTIRE continuous left-to-right view as a very simple, delicate MEDIUM-GRAY marker outline, around 40% black visual weight. Single consistent viewpoint, same bridge/hill/fortress positions as reference, no separate panels or inset scenes. This strip must be small and subordinate: max 15% page height, horizontal baseline near bottom, thin grey lines, no solid black masses, no shading, no hatching, no filled mountains, no colored city accents. Leave clean white separation from the turquoise shoulders above, do not overlap the face. Portrait upper85% remains lively original thick black-line style; panorama bottom15% uses matching hand-drawn marker feel but lighter gray. No text, labels, signature, logos or AI badge. The location reference Daniel Vorndran CC BY-SA3.0 will be credited; the concept labeled AI on the page.
+
+### Letzte Präzisierung
+
+Precise layout refinement of this exact artwork. Keep the woman's entire portrait, face, colors, hair and marker lines UNCHANGED. The gray panorama is currently too tall. REDUCE only the bottom panorama to approximately HALF its current HEIGHT, keep full left-to-right width, move it DOWN so its highest fortress tower starts no higher than y=1340 on a 1024x1536 sheet and water baseline ends by y=1500. Thus the city occupies ONLY the bottom 10–13 percent of the page. Make this deliberately simplified grey marker line strip, no shading or filled areas, lighter gray than current. The resulting white gap above it is intentional. Keep a single coherent bridge-left fortress-right panorama, no vignettes and no duplicate city. Do not change portrait scale, do not redraw face, no text/logo/labels.
+
+## portrait-city-ink-v3.webp
+
+Gespeichert: assets/portrait-city-ink-v3.webp
+
+Use case: compositing. Create ONE flat vertical 2:3 portrait artwork concept, plain white background. Image1 original Phil Splash artwork: retain recognizable exact expressive face, spiky short black hair, earrings and red lips, bold spontaneous black marker linework; remove signatures and sponsor text. The portrait with shoulders occupies upper85% of sheet, face remains main focus. Image2 real Würzburg panorama establishes correct geography for a SINGLE continuous small left-to-right landscape drawing at the very bottom: Old Main Bridge enters from LEFT edge, crosses to real flat riverbank mid-left; Marienberg Fortress on hill to RIGHT, true low long Renaissance silhouette with restrained towers, tiny actual riverside buildings below. Draw that continuous view in ONLY BOTTOM12–15% of page, very simple light-to-medium GRAY marker outlines, 40% black visual weight. Entire bridge and fortress share SAME viewpoint and one baseline, not two cut-paper panels. Match reference perspective. No colored city details, no black shaded areas, no hatching, no solid grey filled hills; just minimal grey line drawing with lots of white. Clear quiet separation from portrait above. Do not add a second panorama or mini vignette; do not extend city higher than lower15%. No text, frame, logo, watermark, AI label or signature. Original portrait bold black plus small red lip; city strip grayscale only. Reference Daniel Vorndran CC BY-SA3.0 credited in site; AI concept labeled via HTML.
+
+### Letzte Präzisierung
+
+Precise layout refinement of this exact artwork. Keep the spiky-haired person's entire portrait, exact face, hair, earrings, lips and black marker lines UNCHANGED. The gray panorama is too tall. REDUCE ONLY that bottom panorama to roughly HALF its current HEIGHT, keep its full left-to-right width, and move it DOWN. On this 1024x1536 artwork the highest fortress tower must start at y=1340 or lower, water finishes by y=1500. City strip occupies only bottom10–13 percent. Simplified light-to-medium gray marker outlines, no shaded masses or filled areas. White gap above the panorama is intentional. Retain coherent bridge-left fortress-right geography, one single panorama and no vignettes. Do not alter portrait size or likeness, no text/logo/labels.
+
+---
+
 # Referenzgestützte Überarbeitung, 27.10.2026
 
 Sieben neue Motive mit dem eingebauten Bildgenerator. Keine CLI/API-Generierung. Alle bisherigen Dateien bleiben erhalten; die neue Website verwendet die v2-Dateien. Ortsreferenzen und Lizenzen: image-references.json. Kleine AI-Kennzeichnung als HTML-Overlay, keine eingebrannte Beschriftung. Die Erlebnisgalerie zeigt erfundene Buchungsszenen. Keine Behauptung einer dokumentierten Veranstaltung oder zugesicherter Auftrittsorte.

@@ -45,7 +45,7 @@
     if(offer.value==='live'&&Number(count.value)<config.min) count.setCustomValidity(config.text.minError);
     if(!form.reportValidity()) return null;
     const d=new FormData(form);
-    const kind=offer.value==='photo'?`Portraits from photos — EUR ${config.price} per portrait`:`Live portraits for a tour group (from ${config.min} people)`;
+    const kind=offer.value==='photo'?`Portraits from photos — EUR ${config.price} per portrait`:`Live iPad portraits for a tour group (from ${config.min} people)`;
     const body=['Hello Phil,','','I would like to enquire about: '+kind,
       'Preferred correspondence language: '+document.documentElement.lang,
       ...(offer.value === 'photo' ? ['Portrait direction: ' + designSelect.selectedOptions[0].textContent] : []),

@@ -1,0 +1,57 @@
+{
+  "de": {
+    "providerHeading": "Angaben gemäß § 5 DDG",
+    "vatLabel": "Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG",
+    "sections": [
+      ["Hinweis zu Bildern und Leistung", "Die mit AI markierten Bilder veranschaulichen mögliche Porträt-Erlebnisse. Sie zeigen keine dokumentierten Veranstaltungen oder verbindlich zugesagten Auftrittsorte. Phil Splash zeichnet seine Live-Porträts auf dem iPad mit Apple Pencil. Ort, Umfang, digitale Übergabe und gegebenenfalls erforderliche Genehmigungen werden vor einer Buchung vereinbart."],
+      ["Verantwortung für Inhalte", "Die Inhalte werden sorgfältig erstellt und gepflegt. Gesetzliche Verantwortung für eigene Inhalte bleibt unberührt. Reiseinformationen können sich ändern; für aktuelle Öffnungszeiten und Zugänge sind die verlinkten offiziellen Stellen maßgeblich. Hinweise auf Fehler oder Rechtsverletzungen können an info@phil-splash.de gerichtet werden und werden geprüft."],
+      ["Externe Links", "Für Inhalte verlinkter externer Seiten sind deren Anbieter verantwortlich. Auf deren spätere Gestaltung haben wir keinen Einfluss. Bei konkreten Hinweisen auf rechtswidrige Inhalte prüfen und entfernen wir betroffene Verlinkungen erforderlichenfalls."],
+      ["Urheberrecht und Bildlizenzen", "Eigene Texte und Originalkunstwerke sind urheberrechtlich geschützt. Gesetzlich erlaubte Nutzungen bleiben unberührt. Für gekennzeichnete Fremdmaterialien und daraus abgeleitete Bilder gelten die jeweils im Bildernachweis genannten Lizenzen, insbesondere CC BY-SA 3.0. Diese Lizenzangaben gehen einem allgemeinen Nutzungsvorbehalt vor. Die abgebildeten KI-Entwürfe sind keine bereits ausgeführten individuellen Aufträge."],
+      ["Datenschutz und Kontakt", "Die Verarbeitung durch diese Website, GitHub Pages und die optionalen Videos wird im gesonderten aufklappbaren Bereich Datenschutz beschrieben. Das Formular erstellt lediglich eine E-Mail-Vorlage im Browser. Eingesandte Fotovorlagen dürfen nicht automatisch öffentlich gezeigt werden. Der Verwendung der veröffentlichten Kontaktdaten für nicht angeforderte Werbung wird widersprochen."]
+    ]
+  },
+  "en": {
+    "providerHeading": "Provider information under Section 5 DDG (Germany)",
+    "vatLabel": "VAT identification number under Section 27a UStG",
+    "sections": [
+      ["Images and service", "Images marked AI visualize possible portrait experiences. They do not document past events or promise performance at a particular landmark. Phil Splash draws live portraits on an iPad with Apple Pencil. Venue, scope, digital delivery and any required permissions are agreed before booking."],
+      ["Responsibility for content", "Content is prepared and maintained with care. Statutory responsibility for our own content remains unaffected. Travel information may change; consult the linked official providers for current opening times and access. Report errors or possible infringements to info@phil-splash.de for review."],
+      ["External links", "External sites are the responsibility of their respective providers. We have no control over subsequent changes to their content. Specific reports of unlawful content will be reviewed and the relevant links removed where necessary."],
+      ["Copyright and image licenses", "Our original artwork and texts are protected by copyright, without limiting uses permitted by law. Identified third-party material and derived images carry the licenses stated in the image credits, including CC BY-SA 3.0. Those licenses take precedence over a general reservation of rights. AI portrait concepts are not previously completed individual commissions."],
+      ["Privacy and contact", "See the separate expandable Privacy section for this website, GitHub Pages and optional videos. The form only prepares an email draft in your browser. Submitted reference photos are not automatically authorized for public display. Published contact details may not be used for unsolicited advertising."]
+    ]
+  },
+  "ja": {
+    "providerHeading": "ドイツDDG第5条に基づく運営者情報",
+    "vatLabel": "ドイツUStG第27a条に基づくVAT識別番号",
+    "sections": [
+      ["画像とサービス", "AIマーク付きの画像は体験の提案です。過去のイベント写真や、特定の名所での出演保証ではありません。Phil SplashはiPadとApple Pencilでライブ制作します。会場・内容・デジタルでの受け渡し・必要な許可は予約前に相談します。"],
+      ["掲載内容", "掲載内容は注意を払って作成・更新しています。自己の内容に関する法的責任を制限するものではありません。観光情報は変更される場合があるため、開館時間や立入条件はリンク先の公式情報をご確認ください。誤りや権利侵害のご指摘はinfo@phil-splash.deへご連絡ください。"],
+      ["外部リンク", "外部サイトの内容は各運営者が責任を負います。当方はその後の変更を管理できません。違法な内容について具体的な通知があった場合は確認し、必要に応じてリンクを削除します。"],
+      ["著作権と画像ライセンス", "当方の原画・文章は著作権で保護されますが、法令で認められる利用を制限しません。第三者資料および派生画像には、画像クレジットに記載したCC BY-SA 3.0等のライセンスが適用され、一般的な権利留保に優先します。AI制作案は過去の個別注文の完成作品ではありません。"],
+      ["プライバシーと連絡先", "当サイト、GitHub Pagesおよび任意で読み込む動画の情報処理については、別途開閉できるプライバシー欄をご覧ください。フォームはブラウザー内でメール下書きを作ります。参考写真の送信は公開への同意ではありません。連絡先への無断の広告送付はお断りします。"]
+    ]
+  },
+  "zh-cn": {
+    "providerHeading": "依据德国DDG第5条的运营者信息",
+    "vatLabel": "依据德国UStG第27a条的增值税识别号",
+    "sections": [
+      ["图片与服务说明", "带AI标记的图片为体验构想，并非过去活动的实拍记录，也不承诺在特定景点演出。Phil Splash使用iPad和Apple Pencil现场创作。地点、内容、数字交付及所需许可须在预订前协商。"],
+      ["网站内容", "我们谨慎编写并维护内容，不限制依法应承担的自有内容责任。旅游信息可能变化，开放时间与进入条件请以链接的官方信息为准。如发现错误或涉嫌侵权，请联系info@phil-splash.de供我们核查。"],
+      ["外部链接", "外部网站内容由各自运营者负责，我们无法控制其后续修改。收到具体违法内容通知后，我们会核查，并在必要时移除相关链接。"],
+      ["版权与图片许可", "原创作品与文字受版权保护，法律允许的使用不受限制。注明的第三方素材及衍生图片适用图片说明中列明的许可，包括CC BY-SA 3.0；这些许可优先于一般权利保留。AI设计构想并非已经完成的个人委托作品。"],
+      ["隐私与联系", "本网站、GitHub Pages及可选视频的数据处理详见单独可展开的隐私说明。表单仅在浏览器中准备邮件草稿。提交参考照片不代表同意公开展示。请勿将公开联系方式用于未经请求的广告。"]
+    ]
+  },
+  "zh-tw": {
+    "providerHeading": "依據德國DDG第5條的營運者資訊",
+    "vatLabel": "依據德國UStG第27a條的增值稅識別號",
+    "sections": [
+      ["圖片與服務說明", "帶AI標記的圖片為體驗構想，並非過往活動的實拍紀錄，也不承諾在特定景點演出。Phil Splash使用iPad和Apple Pencil現場創作。地點、內容、數位交付及所需許可須在預訂前協商。"],
+      ["網站內容", "我們謹慎編寫並維護內容，不限制依法應承擔的自有內容責任。旅遊資訊可能變動，開放時間與進入條件請以連結的官方資訊為準。如發現錯誤或涉嫌侵權，請聯絡info@phil-splash.de供我們查核。"],
+      ["外部連結", "外部網站內容由各自營運者負責，我們無法控制其後續修改。收到具體違法內容通知後，我們會查核，並在必要時移除相關連結。"],
+      ["版權與圖片授權", "原創作品與文字受版權保護，法律允許的使用不受限制。註明的第三方素材及衍生圖片適用圖片說明中列明的授權，包括CC BY-SA 3.0；這些授權優先於一般權利保留。AI設計構想並非已完成的個人委託作品。"],
+      ["隱私與聯絡", "本網站、GitHub Pages及可選影片的資料處理詳見單獨可展開的隱私說明。表單僅在瀏覽器中準備郵件草稿。提交參考照片不代表同意公開展示。請勿將公開聯絡方式用於未經請求的廣告。"]
+    ]
+  }
+}

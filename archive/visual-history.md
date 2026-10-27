@@ -1,3 +1,7 @@
+# Aktueller Archivhinweis
+
+Die v2-Papierszenen und Collagen liegen zusätzlich im Ordner `2026-10-27-before-ipad-and-line-panorama/`. Die aktive Website verwendet v3-iPad-Szenen und v3-Porträts mit grauer Stadtlinie; die reinen ursprünglichen KI-Stadtansichten sind im Highlights-Abschnitt wieder eingebunden. Alle unten erwähnten früheren Dateien bleiben erhalten.
+
 # Erhaltene Bildfassungen
 
 Alle vor der referenzgestützten Überarbeitung vorhandenen WebP-Dateien bleiben unverändert unter `assets/` erhalten. Sie wurden nicht gelöscht oder überschrieben. Die Website verwendet jetzt neue Dateinamen mit `-v2`.
