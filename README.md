@@ -76,3 +76,9 @@ Die bisherigen Papier-Szenen und Collagen sind zusätzlich in `archive/2026-10-2
 ## Neue Souvenir-Porträts · 28. Oktober 2026
 
 Vier aktuelle KI-Layoutstudien nach Phils eigenem Original IMG_0352.JPG sind als optimierte lokale WebP-Dateien unter `assets/souvenir-*.webp` eingebunden. Die beiden Männerfassungen enthalten keine roten Kragenmarkierungen. City Color und City Ink verwenden die ostasiatischen Beispiele mit durchgehender grauer Stadtansicht und überlagernden Porträtlinien; die frühere kleine Stadtlinie wird in dieser Auswahl nicht mehr angezeigt. Eine offene Galerie zeigt alle vier Motive in vier Desktop- bzw. zwei Mobilspalten, mit Bildlinks, AI-Kennzeichnung und direkter Fotoanfrage. Texte in allen fünf Sprachen in `campaign.json`. Die Originalkunst-Galerie bleibt separat erhalten. Die Bilder sind KI-Gestaltungsideen, keine von Phil persönlich gezeichneten Kundenporträts.
+
+## Vereinfachtes Angebot · 29. Oktober 2026
+
+Eine dunkle Produktsektion zeigt ein großes Würzburg-Porträt und vier anklickbare Vorschaubilder. Keine Stil- oder Produktauswahl zwischen City Color, City Ink und Original mehr, auch nicht im Anfrageformular. Einzelporträts nach Foto kosten 30 EUR; Live-Gruppen ab 10 Personen erhalten ein individuelles Angebot. Die doppelte Souvenir-Galerie und die separate Originalgalerie entfallen. Frühere Dateien bleiben erhalten.
+
+Nur das Vietnam-Video wird groß dargestellt. Zwei aktualisierte KI-Erlebnisszenen zeigen die entwickelten Würzburg-Porträts auf dem iPad (`experience-handover-v5`, `experience-market-v5`). Einheitliche Zweispaltenraster für Bild/Text, gestapelte Abschnittsüberschriften, helle Flächen im Wechsel mit dunklem Produktabschnitt und einer Lime-Anfragefläche. Der Header wächst mit seinem Inhalt statt Buttons abzuschneiden. Geprüft: 2560px-Header ohne Überlauf, 390px-Handyansicht, Vorschaubildwechsel, Fotoanfrage mit Minimum 1, Gruppenanfrage mit Minimum 10, fünf Sprachrouten.

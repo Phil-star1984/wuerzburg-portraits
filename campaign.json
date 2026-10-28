@@ -2,8 +2,7 @@
   "en": {
     "heroTitle": [
       "WÜRZBURG.",
-      "LOVE AT",
-      "FIRST SIGHT."
+      "LOVE AT FIRST SIGHT."
     ],
     "heroLead": "Visiting Germany from China or Japan? Make Würzburg personal: have Phil Splash draw you live on his iPad with your travel group, or order a portrait from a photo before you arrive.",
     "photoCTA": "Your portrait · €{price}",
@@ -40,23 +39,6 @@
       "YOUR ORIGINAL."
     ],
     "collectionText": "Flowing lines, the Old Main Bridge and Marienberg Fortress on one sheet. Four AI-generated design studies based on an original drawn by Phil himself. Phil draws your personal portrait on his iPad.",
-    "designs": [
-      [
-        "City Color",
-        "Your face. In the heart of Würzburg.",
-        "Open black lines, a small colour accent and a grey panorama across the sheet. Portrait and Würzburg lettering deliberately overlap."
-      ],
-      [
-        "City Ink",
-        "Black lines. Your travel story.",
-        "An expressive line portrait with the Old Main Bridge and Marienberg Fortress. Portrait strokes flow into the city illustration."
-      ],
-      [
-        "Original",
-        "Pure Phil Splash",
-        "An original portrait by Phil. Expressive lines, a little colour, all personality."
-      ]
-    ],
     "selectDesign": "Choose a direction",
     "designField": "Preferred portrait direction",
     "chooseCTA": "Ask about this portrait",
@@ -155,17 +137,18 @@
       "AI scene: Phil drawing an adult visitor on an iPad by the Residence and Court Gardens",
       "AI scene: Phil showing a delighted Chinese visitor her iPad portrait at Marienkapelle"
     ],
-    "souvenir": {
-      "label": "TAKE YOUR WÜRZBURG HOME",
-      "title": "One face. One city. Your souvenir.",
-      "text": "Flowing lines, the Old Main Bridge and Marienberg Fortress on one sheet. Four AI-generated design studies based on an original drawn by Phil himself. Phil draws your personal portrait on his iPad.",
-      "cta": "Enquire about your portrait",
-      "alts": [
-        "Würzburg portrait of a woman",
-        "Würzburg portrait of a man",
-        "Würzburg portrait of a woman",
-        "Würzburg portrait of a man"
-      ]
+    "product": {
+      "label": "YOUR WÜRZBURG PORTRAIT",
+      "title": "Your face. Your Würzburg.",
+      "text": "Your personal portrait in Phil’s flowing line style, with the Old Main Bridge, Marienberg Fortress and Würzburg lettering. Phil draws on his iPad. Send a photo before your trip or book him for your travel group.",
+      "unit": "per individual portrait from a photo",
+      "photoCTA": "Enquire · portrait €30",
+      "groupCTA": "Enquire for your group",
+      "groupNote": "Live from {min} people · individual group quote",
+      "note": "Four AI examples based on Phil’s own original. Format, background, delivery and deadline are agreed before ordering.",
+      "examples": "Four examples · one portrait offer",
+      "filmTitle": "One portrait. A real connection.",
+      "filmText": "Watch Phil drawing in Vietnam: a few lines, a shared moment and the joy of seeing the portrait. Bring that personal encounter to your travel group’s visit to Würzburg."
     }
   },
   "de": {
@@ -209,23 +192,6 @@
       "DEIN ORIGINAL."
     ],
     "collectionText": "Schwungvolle Linien, die Alte Mainbrücke und die Festung Marienberg auf einem Blatt. Vier KI-generierte Gestaltungsideen nach einem von Phil selbst gezeichneten Original. Dein persönliches Porträt zeichnet Phil auf dem iPad.",
-    "designs": [
-      [
-        "City Color",
-        "Dein Gesicht. Mitten in Würzburg.",
-        "Offene schwarze Linien, ein kleiner Farbakzent und eine graue Stadtansicht über die ganze Blattbreite. Porträt und Würzburg-Schriftzug überlagern sich bewusst."
-      ],
-      [
-        "City Ink",
-        "Schwarze Linien. Deine Reisegeschichte.",
-        "Ein ausdrucksstarkes Linienporträt mit Alter Mainbrücke und Festung Marienberg. Die Porträtlinien reichen in die Stadtansicht hinein."
-      ],
-      [
-        "Original",
-        "Unverkennbar Phil Splash",
-        "Ein echtes Originalporträt von Phil. Ausdrucksstarke Linien, ein wenig Farbe, viel Persönlichkeit."
-      ]
-    ],
     "selectDesign": "Wähle eine Richtung",
     "designField": "Gewünschte Porträtrichtung",
     "chooseCTA": "Dieses Porträt anfragen",
@@ -324,17 +290,18 @@
       "KI-Szene: Phil porträtiert einen erwachsenen Gast auf dem iPad bei Residenz und Hofgarten",
       "KI-Szene: Phil zeigt einer begeisterten chinesischen Besucherin ihr iPad-Porträt bei der Marienkapelle"
     ],
-    "souvenir": {
-      "label": "DEIN WÜRZBURG ZUM MITNEHMEN",
-      "title": "Ein Gesicht. Eine Stadt. Dein Souvenir.",
-      "text": "Schwungvolle Linien, die Alte Mainbrücke und die Festung Marienberg auf einem Blatt. Vier KI-generierte Gestaltungsideen nach einem von Phil selbst gezeichneten Original. Dein persönliches Porträt zeichnet Phil auf dem iPad.",
-      "cta": "Dein Porträt anfragen",
-      "alts": [
-        "Würzburg-Porträt einer Frau",
-        "Würzburg-Porträt eines Mannes",
-        "Würzburg-Porträt einer Frau",
-        "Würzburg-Porträt eines Mannes"
-      ]
+    "product": {
+      "label": "DEIN WÜRZBURG-PORTRÄT",
+      "title": "Dein Gesicht. Dein Würzburg.",
+      "text": "Dein persönliches Porträt in Phils schwungvollem Linienstil – mit Alter Mainbrücke, Festung Marienberg und Würzburg-Schriftzug. Phil zeichnet auf dem iPad. Schicke vorab ein Foto oder buche ihn für eure Reisegruppe.",
+      "unit": "pro Einzelporträt nach Foto",
+      "photoCTA": "Einzelporträt · 30 € anfragen",
+      "groupCTA": "Reisegruppe anfragen",
+      "groupNote": "Live ab {min} Personen · individuelles Gruppenangebot",
+      "note": "Vier KI-Beispiele nach Phils eigenem Original. Format, Hintergrund, Übergabe und Fertigstellung werden vor der Bestellung vereinbart.",
+      "examples": "Vier Beispiele · ein Porträtangebot",
+      "filmTitle": "Ein Porträt. Eine Begegnung.",
+      "filmText": "Sieh Phil beim Zeichnen in Vietnam zu: wenige Linien, ein Blick und die Freude am fertigen Porträt. Genau diese persönliche Begegnung kannst du für eure Reisegruppe in Würzburg anfragen."
     }
   },
   "zh-cn": {
@@ -378,23 +345,6 @@
       "你的专属作品。"
     ],
     "collectionText": "流畅的线条、老美因桥和玛利恩堡要塞，留在同一张画纸上。这四幅AI设计示意以Phil亲手绘制的原作为参考。你的专属肖像由Phil在iPad上绘制。",
-    "designs": [
-      [
-        "City Color",
-        "你的面孔，融入维尔茨堡。",
-        "留白的黑色线条、一点色彩，以及横贯画纸的灰色城市风景。肖像线条与维尔茨堡字样交叠。"
-      ],
-      [
-        "City Ink",
-        "黑色线条，记录你的旅程。",
-        "将老美因桥和玛利恩堡要塞融入富有表现力的线描肖像，人物笔触与城市景观交叠。"
-      ],
-      [
-        "Original",
-        "Phil Splash 的原作风格",
-        "Phil 的真实原创肖像。几笔线条、一点色彩，画出独特的你。"
-      ]
-    ],
     "selectDesign": "选择一个设计方向",
     "designField": "偏好的肖像设计方向",
     "chooseCTA": "咨询这款肖像",
@@ -493,17 +443,18 @@
       "AI场景：Phil在官邸与宫廷花园旁用iPad为成年游客画肖像",
       "AI场景：Phil在圣母礼拜堂前向中国游客展示iPad肖像"
     ],
-    "souvenir": {
-      "label": "把维尔茨堡带回家",
-      "title": "一张面孔。一座城市。你的旅行纪念。",
-      "text": "流畅的线条、老美因桥和玛利恩堡要塞，留在同一张画纸上。这四幅AI设计示意以Phil亲手绘制的原作为参考。你的专属肖像由Phil在iPad上绘制。",
-      "cta": "咨询你的专属肖像",
-      "alts": [
-        "女性维尔茨堡肖像设计",
-        "男性维尔茨堡肖像设计",
-        "女性维尔茨堡肖像设计",
-        "男性维尔茨堡肖像设计"
-      ]
+    "product": {
+      "label": "你的维尔茨堡专属肖像",
+      "title": "你的面孔。你的维尔茨堡。",
+      "text": "Phil以流畅的线条，将你的肖像与老美因桥、玛利恩堡要塞及城市字样融合，在iPad上绘制。旅行前发送照片，或为旅行团预约现场肖像体验。",
+      "unit": "每幅单人照片肖像",
+      "photoCTA": "咨询单人肖像 · 30 €",
+      "groupCTA": "咨询旅行团预约",
+      "groupNote": "现场体验{min}人起 · 团体单独报价",
+      "note": "四幅AI示意参考Phil亲手绘制的原作。画幅、背景、交付方式与完成时间在订购前确认。",
+      "examples": "四幅示例 · 同一肖像服务",
+      "filmTitle": "一幅肖像，一次真诚相遇。",
+      "filmText": "看看Phil在越南画肖像：几笔线条、一次交流，以及看到成品时的笑容。你的旅行团也可以在维尔茨堡体验这样的相遇。"
     }
   },
   "zh-tw": {
@@ -547,23 +498,6 @@
       "你的專屬作品。"
     ],
     "collectionText": "流暢的線條、老美因橋和瑪利恩堡要塞，留在同一張畫紙上。這四幅AI設計示意以Phil親手繪製的原作為參考。你的專屬肖像由Phil在iPad上繪製。",
-    "designs": [
-      [
-        "City Color",
-        "你的面孔，融入維爾茨堡。",
-        "留白的黑色線條、一點色彩，以及橫貫畫紙的灰色城市風景。肖像線條與維爾茨堡字樣交疊。"
-      ],
-      [
-        "City Ink",
-        "黑色線條，記錄你的旅程。",
-        "將老美因橋和瑪利恩堡要塞融入富有表現力的線描肖像，人物筆觸與城市景觀交疊。"
-      ],
-      [
-        "Original",
-        "Phil Splash 的原作風格",
-        "Phil 的真實原創肖像。幾筆線條、一點色彩，畫出獨特的你。"
-      ]
-    ],
     "selectDesign": "選擇一個設計方向",
     "designField": "偏好的肖像設計方向",
     "chooseCTA": "洽詢這款肖像",
@@ -662,17 +596,18 @@
       "AI場景：Phil在官邸與宮廷花園旁用iPad為成年遊客畫肖像",
       "AI場景：Phil在聖母禮拜堂前向中國遊客展示iPad肖像"
     ],
-    "souvenir": {
-      "label": "把維爾茨堡帶回家",
-      "title": "一張面孔。一座城市。你的旅行紀念。",
-      "text": "流暢的線條、老美因橋和瑪利恩堡要塞，留在同一張畫紙上。這四幅AI設計示意以Phil親手繪製的原作為參考。你的專屬肖像由Phil在iPad上繪製。",
-      "cta": "詢問你的專屬肖像",
-      "alts": [
-        "女性維爾茨堡肖像設計",
-        "男性維爾茨堡肖像設計",
-        "女性維爾茨堡肖像設計",
-        "男性維爾茨堡肖像設計"
-      ]
+    "product": {
+      "label": "你的維爾茨堡專屬肖像",
+      "title": "你的面孔。你的維爾茨堡。",
+      "text": "Phil以流暢的線條，將你的肖像與老美因橋、瑪利恩堡要塞及城市字樣融合，在iPad上繪製。旅行前傳送照片，或為旅行團預約現場肖像體驗。",
+      "unit": "每幅單人照片肖像",
+      "photoCTA": "詢問單人肖像 · 30 €",
+      "groupCTA": "詢問旅行團預約",
+      "groupNote": "現場體驗{min}人起 · 團體單獨報價",
+      "note": "四幅AI示意參考Phil親手繪製的原作。畫幅、背景、交付方式與完成時間在訂購前確認。",
+      "examples": "四幅範例 · 同一肖像服務",
+      "filmTitle": "一幅肖像，一次真誠相遇。",
+      "filmText": "看看Phil在越南畫肖像：幾筆線條、一次交流，以及看到成品時的笑容。你的旅行團也可以在維爾茨堡體驗這樣的相遇。"
     }
   },
   "ja": {
@@ -716,23 +651,6 @@
       "あなただけの一枚。"
     ],
     "collectionText": "流れるような線、アルテ・マイン橋、マリエンベルク要塞を一枚に。フィル本人の原画をもとにしたAI生成のデザイン案4点です。あなたの肖像画はフィルがiPadで描きます。",
-    "designs": [
-      [
-        "City Color",
-        "あなたの顔と、ヴュルツブルク。",
-        "余白を生かした黒い線、小さな色のアクセント、用紙いっぱいに広がるグレーの街並み。肖像画と街の文字が重なるデザインです。"
-      ],
-      [
-        "City Ink",
-        "黒い線で、旅の思い出を。",
-        "アルテ・マイン橋とマリエンベルク要塞を合わせた線画の肖像画。人物の線が街並みに重なります。"
-      ],
-      [
-        "Original",
-        "Phil Splash らしさを、そのままに",
-        "Phil自身によるオリジナルの肖像。表情豊かな線と少しの色で、その人らしく。"
-      ]
-    ],
     "selectDesign": "お好きな方向を選ぶ",
     "designField": "ご希望の似顔絵デザイン",
     "chooseCTA": "この似顔絵を相談する",
@@ -831,17 +749,18 @@
       "AIイメージ：レジデンツと宮廷庭園で大人の旅行者をiPadで描くPhil",
       "AIイメージ：マリエンカペレで中国人旅行者にiPadの似顔絵を見せるPhil"
     ],
-    "souvenir": {
-      "label": "ヴュルツブルクを、あなたのお土産に",
-      "title": "あなたの顔。街の記憶。特別なお土産。",
-      "text": "流れるような線、アルテ・マイン橋、マリエンベルク要塞を一枚に。フィル本人の原画をもとにしたAI生成のデザイン案4点です。あなたの肖像画はフィルがiPadで描きます。",
-      "cta": "肖像画について問い合わせる",
-      "alts": [
-        "女性のヴュルツブルク肖像画",
-        "男性のヴュルツブルク肖像画",
-        "女性のヴュルツブルク肖像画",
-        "男性のヴュルツブルク肖像画"
-      ]
+    "product": {
+      "label": "あなただけのヴュルツブルク肖像画",
+      "title": "あなたの顔。あなたのヴュルツブルク。",
+      "text": "フィルの流れるような線に、アルテ・マイン橋、マリエンベルク要塞、街の文字を添えた肖像画。iPadで描きます。旅行前に写真を送るか、旅行グループ向けのライブ制作をご相談ください。",
+      "unit": "写真から描く肖像画・1名分",
+      "photoCTA": "肖像画を問い合わせる · 30 €",
+      "groupCTA": "グループで問い合わせる",
+      "groupNote": "ライブ制作は{min}名から・個別見積もり",
+      "note": "フィル本人の原画を参考にしたAI作例4点です。形式、背景、受け渡し、納期は注文前に相談します。",
+      "examples": "4つの作例・ひとつの肖像画サービス",
+      "filmTitle": "一枚の肖像画から、出会いが生まれる。",
+      "filmText": "ベトナムでフィルが描く様子をご覧ください。いくつかの線と、完成した絵を見たときの笑顔。その出会いをヴュルツブルクでのグループ旅行にも。"
     }
   }
 }

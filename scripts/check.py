@@ -32,6 +32,12 @@ for locale in ['', 'de','ja','zh-cn','zh-tw']:
  assert '/assets/city-' not in source, 'Previous photographer image still in use'
  assert 'class="live-photo"' not in source, 'Nested live-photo presentation returned'
  assert 'iframe' not in source,'Video must be opt-in, not loaded initially'
+ assert source.count('data-portrait-index=')==4, 'Four portrait thumbnails required'
+ assert source.count('data-video=')==1, 'Only the Vietnam video should be shown'
+ assert 'data-design=' not in source and 'name="design"' not in source, 'Retired style selection returned'
+ assert 'souvenir-section' not in source and 'originals-section' not in source, 'Duplicate portrait section returned'
+ assert 'experience-handover-v5.webp' in source and 'experience-market-v5.webp' in source, 'New portrait scenes missing'
+
  for tag,ref in p.refs:
   u=urlsplit(ref)
   if u.scheme or u.netloc:continue
