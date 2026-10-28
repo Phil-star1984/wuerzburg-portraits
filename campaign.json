@@ -39,17 +39,17 @@
       "YOUR CITY.",
       "YOUR ORIGINAL."
     ],
-    "collectionText": "The most personal way to remember Würzburg: your face, Phil’s expressive lines and a city motif you choose together. Request a portrait from a photo before your trip, or arrange a live session for your travel group. The city designs below show creative directions to discuss with the artist.",
+    "collectionText": "Flowing lines, the Old Main Bridge and Marienberg Fortress on one sheet. Four AI-generated design studies based on an original drawn by Phil himself. Phil draws your personal portrait on his iPad.",
     "designs": [
       [
         "City Color",
-        "Your face. Würzburg in a quiet line.",
-        "Your portrait takes centre stage. A small continuous view of the Old Main Bridge and fortress sits at the very bottom, drawn only in delicate grey marker lines."
+        "Your face. In the heart of Würzburg.",
+        "Open black lines, a small colour accent and a grey panorama across the sheet. Portrait and Würzburg lettering deliberately overlap."
       ],
       [
         "City Ink",
-        "Bold portrait. A hint of Würzburg.",
-        "Expressive black portrait lines above, a small grey city panorama in the bottom 10–15 percent. One continuous view from the bridge towards the fortress."
+        "Black lines. Your travel story.",
+        "An expressive line portrait with the Old Main Bridge and Marienberg Fortress. Portrait strokes flow into the city illustration."
       ],
       [
         "Original",
@@ -104,7 +104,7 @@
     "stickyPhoto": "Portrait · €{price}",
     "stickyLive": "Group enquiry",
     "photoCredit": "Images & creative notes",
-    "creditIntro": "Images marked AI are generated visualizations, not documentary photos. The iPad gallery uses real location references and Phil’s artist material. The three people-free sightseeing images come from the earlier AI series. The city portraits are concepts with a narrow grey panorama line; final artwork is agreed with Phil. Earlier versions remain in the project archive. Location reference credits and licenses follow below. Original portraits and video stills are Phil’s own material.",
+    "creditIntro": "Images marked AI are generated visualizations, not documentary photos. The iPad gallery uses real location references and Phil’s artist material. The three people-free sightseeing images come from the earlier AI series. The city portraits are concepts with a narrow grey panorama line; final artwork is agreed with Phil. Earlier versions remain in the project archive. Location reference credits and licenses follow below. Original portraits and video stills are Phil’s own material. Flowing lines, the Old Main Bridge and Marienberg Fortress on one sheet. Four AI-generated design studies based on an original drawn by Phil himself. Phil draws your personal portrait on his iPad.",
     "discoverCTA": "Discover Würzburg",
     "brandSub": "BAVARIA · TRAVEL INSPIRATION · ART",
     "siteDisclosure": "Independent travel inspiration & portrait experiences, operated by Phil Splash. Not the official tourist information service.",
@@ -154,7 +154,19 @@
       "AI scene: Phil showing a delighted Japanese visitor his digital portrait on an iPad",
       "AI scene: Phil drawing an adult visitor on an iPad by the Residence and Court Gardens",
       "AI scene: Phil showing a delighted Chinese visitor her iPad portrait at Marienkapelle"
-    ]
+    ],
+    "souvenir": {
+      "label": "TAKE YOUR WÜRZBURG HOME",
+      "title": "One face. One city. Your souvenir.",
+      "text": "Flowing lines, the Old Main Bridge and Marienberg Fortress on one sheet. Four AI-generated design studies based on an original drawn by Phil himself. Phil draws your personal portrait on his iPad.",
+      "cta": "Enquire about your portrait",
+      "alts": [
+        "Würzburg portrait of a woman",
+        "Würzburg portrait of a man",
+        "Würzburg portrait of a woman",
+        "Würzburg portrait of a man"
+      ]
+    }
   },
   "de": {
     "heroTitle": [
@@ -196,17 +208,17 @@
       "DEINE STADT.",
       "DEIN ORIGINAL."
     ],
-    "collectionText": "Die persönlichste Erinnerung an Würzburg: euer Gesicht, Phils markante Linien und ein gemeinsam gewähltes Stadtmotiv. Fragt vor der Reise ein Porträt nach Foto an oder vereinbart ein Live-Erlebnis für eure Reisegruppe. Die Stadtentwürfe zeigen Richtungen, die ihr mit dem Künstler weiterentwickeln könnt.",
+    "collectionText": "Schwungvolle Linien, die Alte Mainbrücke und die Festung Marienberg auf einem Blatt. Vier KI-generierte Gestaltungsideen nach einem von Phil selbst gezeichneten Original. Dein persönliches Porträt zeichnet Phil auf dem iPad.",
     "designs": [
       [
         "City Color",
-        "Dein Gesicht. Würzburg als leise Linie.",
-        "Dein Porträt steht im Mittelpunkt. Ganz unten begleitet es ein schmales, durchgehendes Panorama von Mainbrücke und Festung – nur als dezente graue Markerlinie."
+        "Dein Gesicht. Mitten in Würzburg.",
+        "Offene schwarze Linien, ein kleiner Farbakzent und eine graue Stadtansicht über die ganze Blattbreite. Porträt und Würzburg-Schriftzug überlagern sich bewusst."
       ],
       [
         "City Ink",
-        "Starke Porträtlinien. Ein Hauch Würzburg.",
-        "Ausdrucksstarke schwarze Linien oben, ein kleines graues Stadtpanorama in den unteren 10–15 Prozent. Eine einzige Ansicht von der Mainbrücke zur Festung."
+        "Schwarze Linien. Deine Reisegeschichte.",
+        "Ein ausdrucksstarkes Linienporträt mit Alter Mainbrücke und Festung Marienberg. Die Porträtlinien reichen in die Stadtansicht hinein."
       ],
       [
         "Original",
@@ -261,7 +273,7 @@
     "stickyPhoto": "Porträt · {price} €",
     "stickyLive": "Gruppenanfrage",
     "photoCredit": "Bildwelten & Gestaltung",
-    "creditIntro": "Mit AI markierte Bilder sind generierte Visualisierungen, keine dokumentarischen Fotos. Die iPad-Galerie wurde anhand realer Ortsansichten sowie Phils Künstlerbildern entwickelt. Die drei reinen Sehenswürdigkeitenbilder stammen aus der früheren KI-Bildserie. Die Stadtporträts zeigen Gestaltungsideen mit einer schmalen grauen Panorama-Linie; die fertige Arbeit wird mit Phil vereinbart. Frühere Fassungen bleiben im Projektarchiv erhalten. Quellen und Lizenzen der Ortsreferenzen stehen unten. Originalporträts und Videobilder stammen aus Phils eigenem Material.",
+    "creditIntro": "Mit AI markierte Bilder sind generierte Visualisierungen, keine dokumentarischen Fotos. Die iPad-Galerie wurde anhand realer Ortsansichten sowie Phils Künstlerbildern entwickelt. Die drei reinen Sehenswürdigkeitenbilder stammen aus der früheren KI-Bildserie. Die Stadtporträts zeigen Gestaltungsideen mit einer schmalen grauen Panorama-Linie; die fertige Arbeit wird mit Phil vereinbart. Frühere Fassungen bleiben im Projektarchiv erhalten. Quellen und Lizenzen der Ortsreferenzen stehen unten. Originalporträts und Videobilder stammen aus Phils eigenem Material. Schwungvolle Linien, die Alte Mainbrücke und die Festung Marienberg auf einem Blatt. Vier KI-generierte Gestaltungsideen nach einem von Phil selbst gezeichneten Original. Dein persönliches Porträt zeichnet Phil auf dem iPad.",
     "discoverCTA": "Würzburg entdecken",
     "brandSub": "BAYERN · REISEINSPIRATION · KUNST",
     "siteDisclosure": "Private Reiseinspiration und Porträt-Erlebnisse, betrieben von Phil Splash. Kein offizielles Angebot der Tourist-Information.",
@@ -311,7 +323,19 @@
       "KI-Szene: Phil zeigt einem begeisterten japanischen Besucher dessen digitales Porträt auf einem iPad",
       "KI-Szene: Phil porträtiert einen erwachsenen Gast auf dem iPad bei Residenz und Hofgarten",
       "KI-Szene: Phil zeigt einer begeisterten chinesischen Besucherin ihr iPad-Porträt bei der Marienkapelle"
-    ]
+    ],
+    "souvenir": {
+      "label": "DEIN WÜRZBURG ZUM MITNEHMEN",
+      "title": "Ein Gesicht. Eine Stadt. Dein Souvenir.",
+      "text": "Schwungvolle Linien, die Alte Mainbrücke und die Festung Marienberg auf einem Blatt. Vier KI-generierte Gestaltungsideen nach einem von Phil selbst gezeichneten Original. Dein persönliches Porträt zeichnet Phil auf dem iPad.",
+      "cta": "Dein Porträt anfragen",
+      "alts": [
+        "Würzburg-Porträt einer Frau",
+        "Würzburg-Porträt eines Mannes",
+        "Würzburg-Porträt einer Frau",
+        "Würzburg-Porträt eines Mannes"
+      ]
+    }
   },
   "zh-cn": {
     "heroTitle": [
@@ -353,17 +377,17 @@
       "你的城市。",
       "你的专属作品。"
     ],
-    "collectionText": "用最个人的方式记住维尔茨堡：你的面孔、Phil 的鲜明线条，以及共同选定的城市元素。可在出发前咨询照片定制肖像，也可为旅行团预约现场体验。下方城市设计仅为创意方向，最终作品由您与艺术家协商。",
+    "collectionText": "流畅的线条、老美因桥和玛利恩堡要塞，留在同一张画纸上。这四幅AI设计示意以Phil亲手绘制的原作为参考。你的专属肖像由Phil在iPad上绘制。",
     "designs": [
       [
         "City Color",
-        "你的肖像，一笔淡淡的城市记忆。",
-        "肖像始终是主角。最下方以细腻灰色线条，画出从老美因桥到要塞的一幅连续风景。"
+        "你的面孔，融入维尔茨堡。",
+        "留白的黑色线条、一点色彩，以及横贯画纸的灰色城市风景。肖像线条与维尔茨堡字样交叠。"
       ],
       [
         "City Ink",
-        "鲜明的肖像，轻轻点缀的维尔茨堡。",
-        "上方为富有表现力的黑色肖像线条，下方10–15％加入小幅灰色城市全景。从桥到要塞，只保留一个连贯视角。"
+        "黑色线条，记录你的旅程。",
+        "将老美因桥和玛利恩堡要塞融入富有表现力的线描肖像，人物笔触与城市景观交叠。"
       ],
       [
         "Original",
@@ -418,7 +442,7 @@
     "stickyPhoto": "肖像 · {price}欧元",
     "stickyLive": "旅行团咨询",
     "photoCredit": "视觉创作说明",
-    "creditIntro": "带AI标记的图片并非纪实照片。iPad体验图参考真实地点及Phil本人的艺术家图片生成。三幅无人景点图来自早期AI系列。城市肖像为底部配有细窄灰色全景线条的设计构想，最终作品须与Phil协商。旧版图片仍保存在项目中。参考资料来源与许可列于下方。原创肖像与视频画面来自Phil本人的素材。",
+    "creditIntro": "带AI标记的图片并非纪实照片。iPad体验图参考真实地点及Phil本人的艺术家图片生成。三幅无人景点图来自早期AI系列。城市肖像为底部配有细窄灰色全景线条的设计构想，最终作品须与Phil协商。旧版图片仍保存在项目中。参考资料来源与许可列于下方。原创肖像与视频画面来自Phil本人的素材。 流畅的线条、老美因桥和玛利恩堡要塞，留在同一张画纸上。这四幅AI设计示意以Phil亲手绘制的原作为参考。你的专属肖像由Phil在iPad上绘制。",
     "discoverCTA": "探索维尔茨堡",
     "brandSub": "巴伐利亚 · 旅行灵感 · 艺术体验",
     "siteDisclosure": "由 Phil Splash 运营的独立旅行灵感与肖像体验网站，并非官方旅游局网站。",
@@ -468,7 +492,19 @@
       "AI场景：Phil在iPad上向欣喜的日本游客展示数字肖像",
       "AI场景：Phil在官邸与宫廷花园旁用iPad为成年游客画肖像",
       "AI场景：Phil在圣母礼拜堂前向中国游客展示iPad肖像"
-    ]
+    ],
+    "souvenir": {
+      "label": "把维尔茨堡带回家",
+      "title": "一张面孔。一座城市。你的旅行纪念。",
+      "text": "流畅的线条、老美因桥和玛利恩堡要塞，留在同一张画纸上。这四幅AI设计示意以Phil亲手绘制的原作为参考。你的专属肖像由Phil在iPad上绘制。",
+      "cta": "咨询你的专属肖像",
+      "alts": [
+        "女性维尔茨堡肖像设计",
+        "男性维尔茨堡肖像设计",
+        "女性维尔茨堡肖像设计",
+        "男性维尔茨堡肖像设计"
+      ]
+    }
   },
   "zh-tw": {
     "heroTitle": [
@@ -510,17 +546,17 @@
       "你的城市。",
       "你的專屬作品。"
     ],
-    "collectionText": "用最個人的方式記住維爾茨堡：你的面孔、Phil 的鮮明線條，以及共同選定的城市元素。可在出發前洽詢照片訂製肖像，也可為旅行團預約現場體驗。下方城市設計僅為創意方向，最終作品由您與藝術家協商。",
+    "collectionText": "流暢的線條、老美因橋和瑪利恩堡要塞，留在同一張畫紙上。這四幅AI設計示意以Phil親手繪製的原作為參考。你的專屬肖像由Phil在iPad上繪製。",
     "designs": [
       [
         "City Color",
-        "你的肖像，一筆淡淡的城市記憶。",
-        "肖像始終是主角。最下方以細膩灰色線條，畫出從老美因橋到要塞的一幅連續風景。"
+        "你的面孔，融入維爾茨堡。",
+        "留白的黑色線條、一點色彩，以及橫貫畫紙的灰色城市風景。肖像線條與維爾茨堡字樣交疊。"
       ],
       [
         "City Ink",
-        "鮮明的肖像，輕輕點綴的維爾茨堡。",
-        "上方為富有表現力的黑色肖像線條，下方10–15％加入小幅灰色城市全景。從橋到要塞，只保留一個連貫視角。"
+        "黑色線條，記錄你的旅程。",
+        "將老美因橋和瑪利恩堡要塞融入富有表現力的線描肖像，人物筆觸與城市景觀交疊。"
       ],
       [
         "Original",
@@ -575,7 +611,7 @@
     "stickyPhoto": "肖像 · {price}歐元",
     "stickyLive": "旅行團洽詢",
     "photoCredit": "視覺創作說明",
-    "creditIntro": "帶AI標記的圖片並非紀實照片。iPad體驗圖參考真實地點及Phil本人的藝術家圖片生成。三幅無人景點圖來自早期AI系列。城市肖像為底部配有細窄灰色全景線條的設計構想，最終作品須與Phil協商。舊版圖片仍保存在專案中。參考資料來源與許可列於下方。原創肖像與影片畫面來自Phil本人的素材。",
+    "creditIntro": "帶AI標記的圖片並非紀實照片。iPad體驗圖參考真實地點及Phil本人的藝術家圖片生成。三幅無人景點圖來自早期AI系列。城市肖像為底部配有細窄灰色全景線條的設計構想，最終作品須與Phil協商。舊版圖片仍保存在專案中。參考資料來源與許可列於下方。原創肖像與影片畫面來自Phil本人的素材。 流暢的線條、老美因橋和瑪利恩堡要塞，留在同一張畫紙上。這四幅AI設計示意以Phil親手繪製的原作為參考。你的專屬肖像由Phil在iPad上繪製。",
     "discoverCTA": "探索維爾茨堡",
     "brandSub": "巴伐利亞 · 旅行靈感 · 藝術體驗",
     "siteDisclosure": "由 Phil Splash 營運的獨立旅行靈感與肖像體驗網站，並非官方觀光單位網站。",
@@ -625,7 +661,19 @@
       "AI場景：Phil在iPad上向欣喜的日本遊客展示數位肖像",
       "AI場景：Phil在官邸與宮廷花園旁用iPad為成年遊客畫肖像",
       "AI場景：Phil在聖母禮拜堂前向中國遊客展示iPad肖像"
-    ]
+    ],
+    "souvenir": {
+      "label": "把維爾茨堡帶回家",
+      "title": "一張面孔。一座城市。你的旅行紀念。",
+      "text": "流暢的線條、老美因橋和瑪利恩堡要塞，留在同一張畫紙上。這四幅AI設計示意以Phil親手繪製的原作為參考。你的專屬肖像由Phil在iPad上繪製。",
+      "cta": "詢問你的專屬肖像",
+      "alts": [
+        "女性維爾茨堡肖像設計",
+        "男性維爾茨堡肖像設計",
+        "女性維爾茨堡肖像設計",
+        "男性維爾茨堡肖像設計"
+      ]
+    }
   },
   "ja": {
     "heroTitle": [
@@ -667,17 +715,17 @@
       "街の風景。",
       "あなただけの一枚。"
     ],
-    "collectionText": "顔、Philらしい線、一緒に選ぶ街のモチーフ。ヴュルツブルクを自分らしく覚えておくための一枚です。旅行前に写真からの似顔絵をご相談いただくか、団体でライブ制作をご予約ください。下の街のデザインは、ご相談のためのアイデアです。",
+    "collectionText": "流れるような線、アルテ・マイン橋、マリエンベルク要塞を一枚に。フィル本人の原画をもとにしたAI生成のデザイン案4点です。あなたの肖像画はフィルがiPadで描きます。",
     "designs": [
       [
         "City Color",
-        "あなたの表情に、街の細いラインを。",
-        "主役はあなたの似顔絵。最下部には、アルテ・マイン橋から要塞へ続く一つの風景を、控えめなグレーの線だけで添えます。"
+        "あなたの顔と、ヴュルツブルク。",
+        "余白を生かした黒い線、小さな色のアクセント、用紙いっぱいに広がるグレーの街並み。肖像画と街の文字が重なるデザインです。"
       ],
       [
         "City Ink",
-        "力強い似顔絵に、街の余韻を。",
-        "上は表情豊かな黒い線の似顔絵。下部10〜15％に、橋から要塞へ続く小さなグレーのパノラマを配置します。"
+        "黒い線で、旅の思い出を。",
+        "アルテ・マイン橋とマリエンベルク要塞を合わせた線画の肖像画。人物の線が街並みに重なります。"
       ],
       [
         "Original",
@@ -732,7 +780,7 @@
     "stickyPhoto": "似顔絵 · {price}ユーロ",
     "stickyLive": "団体のお問い合わせ",
     "photoCredit": "ビジュアル制作について",
-    "creditIntro": "AIマーク付きの画像は記録写真ではありません。iPadの体験イメージは実在する場所の資料とPhilの人物画像を参考に生成しています。人物のいない3点の風景は以前のAIシリーズです。街の似顔絵は下部に細いグレーのパノラマを添えた制作案で、完成作品はPhilと相談します。以前の画像は保存しています。参考資料の出典とライセンスは下記をご覧ください。原画と動画画像はPhil自身の素材です。",
+    "creditIntro": "AIマーク付きの画像は記録写真ではありません。iPadの体験イメージは実在する場所の資料とPhilの人物画像を参考に生成しています。人物のいない3点の風景は以前のAIシリーズです。街の似顔絵は下部に細いグレーのパノラマを添えた制作案で、完成作品はPhilと相談します。以前の画像は保存しています。参考資料の出典とライセンスは下記をご覧ください。原画と動画画像はPhil自身の素材です。 流れるような線、アルテ・マイン橋、マリエンベルク要塞を一枚に。フィル本人の原画をもとにしたAI生成のデザイン案4点です。あなたの肖像画はフィルがiPadで描きます。",
     "discoverCTA": "ヴュルツブルクを知る",
     "brandSub": "バイエルン · 旅のヒント · アート",
     "siteDisclosure": "Phil Splash が運営する独立した旅のインスピレーションと肖像体験のサイトです。公式観光案内所のサイトではありません。",
@@ -782,6 +830,18 @@
       "AIイメージ：日本人旅行者にiPadで完成した似顔絵を見せるPhil",
       "AIイメージ：レジデンツと宮廷庭園で大人の旅行者をiPadで描くPhil",
       "AIイメージ：マリエンカペレで中国人旅行者にiPadの似顔絵を見せるPhil"
-    ]
+    ],
+    "souvenir": {
+      "label": "ヴュルツブルクを、あなたのお土産に",
+      "title": "あなたの顔。街の記憶。特別なお土産。",
+      "text": "流れるような線、アルテ・マイン橋、マリエンベルク要塞を一枚に。フィル本人の原画をもとにしたAI生成のデザイン案4点です。あなたの肖像画はフィルがiPadで描きます。",
+      "cta": "肖像画について問い合わせる",
+      "alts": [
+        "女性のヴュルツブルク肖像画",
+        "男性のヴュルツブルク肖像画",
+        "女性のヴュルツブルク肖像画",
+        "男性のヴュルツブルク肖像画"
+      ]
+    }
   }
 }

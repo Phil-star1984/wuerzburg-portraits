@@ -72,3 +72,7 @@ Eintritte und Stadtführungen sind keine eingeschlossenen Produkte der Seite. Ö
 ## iPad-Überarbeitung
 
 Die bisherigen Papier-Szenen und Collagen sind zusätzlich in `archive/2026-10-27-before-ipad-and-line-panorama/` gesichert, ohne die alten Dateien zu löschen. Neue Bilder haben eigene v3-Dateinamen. Impressum weiterhin unten als aufklappbarer Bereich, mit vollständigen ergänzenden Texten in allen fünf Sprachen.
+
+## Neue Souvenir-Porträts · 28. Oktober 2026
+
+Vier aktuelle KI-Layoutstudien nach Phils eigenem Original IMG_0352.JPG sind als optimierte lokale WebP-Dateien unter `assets/souvenir-*.webp` eingebunden. Die beiden Männerfassungen enthalten keine roten Kragenmarkierungen. City Color und City Ink verwenden die ostasiatischen Beispiele mit durchgehender grauer Stadtansicht und überlagernden Porträtlinien; die frühere kleine Stadtlinie wird in dieser Auswahl nicht mehr angezeigt. Eine offene Galerie zeigt alle vier Motive in vier Desktop- bzw. zwei Mobilspalten, mit Bildlinks, AI-Kennzeichnung und direkter Fotoanfrage. Texte in allen fünf Sprachen in `campaign.json`. Die Originalkunst-Galerie bleibt separat erhalten. Die Bilder sind KI-Gestaltungsideen, keine von Phil persönlich gezeichneten Kundenporträts.

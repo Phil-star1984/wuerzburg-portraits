@@ -296,3 +296,20 @@ html:lang(zh-Hant){--sans:Space,'Noto Sans CJK TC','PingFang TC','Microsoft Jhen
 .moments .legal-details h3{font:600 15px/1.5 var(--sans);letter-spacing:0;margin:25px 0 10px;text-transform:none}
 .moments .legal-details p{max-width:950px;line-height:1.9}
 @media(max-width:700px){.moments .sight-image{margin-bottom:22px}.moments .legal-details h3{font-size:14px}}
+
+/* Full-width Würzburg souvenir studies: open print gallery, no nested cards. */
+.moments #portrait-stage img{aspect-ratio:210/297;filter:none}
+.souvenir-section{padding-top:80px;padding-bottom:95px}
+.souvenir-heading{display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:end;margin-bottom:40px}
+.souvenir-heading h2{font:800 clamp(38px,4.5vw,66px)/1.02 var(--display);letter-spacing:-.02em;margin-top:15px;max-width:620px}
+.souvenir-heading>p{font-size:14px;line-height:1.85;max-width:500px}
+.souvenir-gallery{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px;margin-bottom:30px}
+.souvenir-print{position:relative;margin:0;min-width:0}
+.souvenir-print>a:first-child{display:block;background:#fff;transition:transform .2s}
+.souvenir-print>a:first-child:hover{transform:translateY(-5px)}
+.souvenir-print img{display:block;width:100%;height:auto;aspect-ratio:210/297;object-fit:contain}
+.souvenir-print figcaption{font:400 10px/1.5 var(--sans);letter-spacing:.12em;margin-top:13px;color:var(--muted)}
+.souvenir-print .ai-badge{bottom:40px;right:8px;width:24px;height:24px;font-size:9px}
+html:lang(ja) .souvenir-heading h2,html:lang(zh-Hans) .souvenir-heading h2,html:lang(zh-Hant) .souvenir-heading h2{font-family:var(--sans);font-size:clamp(30px,3.4vw,48px);line-height:1.3;font-weight:600}
+@media(max-width:700px){.souvenir-section{padding-top:45px;padding-bottom:55px}.souvenir-heading{display:block;margin-bottom:28px}.souvenir-heading>p{margin-top:22px;font-size:13px}.souvenir-gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 14px}.souvenir-heading h2{font-size:43px}}
+@media(prefers-reduced-motion:reduce){.souvenir-print>a:first-child{transition:none}}
